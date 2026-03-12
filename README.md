@@ -69,8 +69,7 @@ Only official program pages are listed.
 | [OpenAI Startup Program](https://openai.com/startups) | OpenAI | API credits |
 | [Anthropic Startup Program](https://www.anthropic.com/startups) | Anthropic | Claude API credits |
 | [Hugging Face Startups](https://huggingface.co/startups) | Hugging Face | AI infrastructure support |
-| [Replicate Startups](https://replicate.com/startups) | Replicate | ML model credits |
-| [Weights & Biases Startups](https://wandb.ai/site/startups) | Weights & Biases | ML experiment tracking |
+| [Kiro](https://kiro.dev/startups/) | Kiro | Kiro Pro+ credits at three tiered packages 1 years |
 
 ---
 
