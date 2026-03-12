@@ -31,7 +31,9 @@ Only official program pages are listed.
 
 | Program | Provider | Benefit |
 |---|---|---|
+| [Autodesk Education Plan](https://www.autodesk.com/education/edu-software/overview) | Autodesk | Free access to Autodesk software for students |
 | [Cursor for Students](https://cursor.com/students) | Cursor | Students | Cursor Pro free for 1 year (~$240 value) |
+| [DigitalOcean Student Credits](https://www.digitalocean.com/github-students) | DigitalOcean | Cloud credits via GitHub Student Developer Pack |
 | [GitHub Student Developer Pack](https://education.github.com/pack) | GitHub | Developer tools bundle (~$10k value) |
 | [YC AI Student Starter Pack](https://deals.ycombinator.com/students) | Y Combinator | Credits and tools for students building AI projects (~25K value) |
 | [JetBrains Student Pack](https://www.jetbrains.com/community/education/#students) | JetBrains | Free IDE licenses |
@@ -55,10 +57,12 @@ Only official program pages are listed.
 | Program | Provider | Benefit |
 |---|---|---|
 | [AWS Activate](https://aws.amazon.com/startups/credits) | AWS | Cloud credits (up to $100k) |
+| [Clerk for Startups](https://clerk.com/startups) | Clerk | Authentication infrastructure credits |
 | [Google Cloud Startup Program](https://cloud.google.com/startup) | Google | Cloud credits and support |
 | [Google Cloud AI Startup Program](https://cloud.google.com/startup/ai) | Google | AI startup credits (up to $350k) |
 | [Microsoft Founders Hub](https://www.microsoft.com/startups) | Microsoft | Azure credits |
 | [Vercel Startups](https://vercel.com/startups) | Vercel | Hosting credits |
+| [PlanetScale for Startups](https://planetscale.com/startups) | PlanetScale | Serverless MySQL database credits |
 | [PostHog for Startups](https://posthog.com/startups) | PostHog | Startups | Product analytics credits (up to ~$50k) |
 | [Retool for Startups](https://retool.com/startups) | Retool | Startups | Free Retool access for early-stage startups (up to ~$60k value) |
 | [Stripe Atlas](https://stripe.com/atlas) | Stripe | Company formation + partner perks |
