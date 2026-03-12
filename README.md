@@ -32,7 +32,7 @@ Only official program pages are listed.
 | Program | Provider | Benefit |
 |---|---|---|
 | [GitHub Student Developer Pack](https://education.github.com/pack) | GitHub | Developer tools bundle (~$10k value) |
-| [YC AI Student Starter Pack](https://deals.ycombinator.com/students) | Y Combinator | Credits and tools for students building AI projects |
+| [YC AI Student Starter Pack](https://deals.ycombinator.com/students) | Y Combinator | Credits and tools for students building AI projects (~25K value) |
 | [JetBrains Student Pack](https://www.jetbrains.com/community/education/#students) | JetBrains | Free IDE licenses |
 | [Microsoft Azure for Students](https://azure.microsoft.com/en-us/free/students/) | Microsoft | Azure credits and dev tools |
 | [Figma for Education](https://www.figma.com/education/) | Figma | Free design tools for students |
@@ -43,11 +43,9 @@ Only official program pages are listed.
 
 | Program | Provider | Benefit |
 |---|---|---|
-| [OpenAI Codex for Open Source](https://openai.com/form/codex-for-oss/) | OpenAI | ChatGPT Pro access |
+| [OpenAI Codex for Open Source](https://openai.com/form/codex-for-oss/) | OpenAI | ChatGPT Pro access 6 month  |
 | [OpenAI Codex Open Source Fund](https://openai.com/form/codex-open-source-fund/) | OpenAI | API credits (up to $25k) |
-| [Claude for Open Source](https://claude.com/contact-sales/claude-for-oss) | Anthropic | Claude Max access |
-| [GitHub Sponsors](https://github.com/sponsors) | GitHub | Funding for maintainers |
-| [NLNet Grants](https://nlnet.nl/funding/) | NLNet | Grants for open-source projects |
+| [Claude for Open Source](https://claude.com/contact-sales/claude-for-oss) | Anthropic | Claude Max access 6 month |
 
 ---
 
