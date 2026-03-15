@@ -68,6 +68,8 @@ Only official program pages are listed.
 | [Stripe Atlas](https://stripe.com/atlas) | Stripe | Company formation + partner perks |
 | [Vercel Startups](https://vercel.com/startups) | Vercel | Hosting credits |
 | [ZAI Startups](https://startup.z.ai/) | Z Ai | Free API Credits ZAI model |
+| [Render](https://render.com/startups) | Render | $5K in startup credits |
+
 ---
 
 ## AI and Developer Credits
