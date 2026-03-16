@@ -68,6 +68,7 @@ Only official program pages are listed.
 | [Sentry for Startups](https://sentry.io/for/startups/) | Sentry | Get up to $5,000 in credits and priority support |
 | [Stripe Atlas](https://stripe.com/atlas) | Stripe | Company formation + partner perks |
 | [Vercel Startups](https://vercel.com/startups) | Vercel | Hosting credits |
+| [Y Combinator](https://www.ycombinator.com) | Y Combinator | Up to $500.000 |
 | [ZAI Startups](https://startup.z.ai/) | Z Ai | Free API Credits ZAI model |
 | [Render](https://render.com/startups) | Render | $5K in startup credits |
 
