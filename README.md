@@ -29,7 +29,7 @@ Only official program pages are listed.
 
 | Program | Provider | Benefit |
 |---|---|---|
-| [Cursor for Students](https://cursor.com/students) | Cursor | Students | Cursor Pro free for 1 year (~$240 value) |
+| [Cursor for Students](https://cursor.com/students) | Cursor | Cursor Pro free for 1 year (~$240 value) |
 | [DigitalOcean Student Credits](https://www.digitalocean.com/github-students) | DigitalOcean | Cloud credits via GitHub Student Developer Pack |
 | [Figma for Education](https://www.figma.com/education/) | Figma | Free design tools for students |
 | [GitLab for Education](https://about.gitlab.com/solutions/education/) | GitLab | Free GitLab Ultimate for education |
@@ -66,8 +66,8 @@ Only official program pages are listed.
 | [Kiro for students](https://kiro.dev/students/) | Kiro | 1,000 credits per month free for one year | 
 | [Microsoft Founders Hub](https://www.microsoft.com/startups) | Microsoft | Azure credits |
 | [PlanetScale for Startups](https://planetscale.com/startups) | PlanetScale | Serverless MySQL database credits |
-| [PostHog for Startups](https://posthog.com/startups) | PostHog | Startups | Product analytics credits (up to ~$50k) |
-| [Retool for Startups](https://retool.com/startups) | Retool | Startups | Free Retool access for early-stage startups (up to ~$60k value) |
+| [PostHog for Startups](https://posthog.com/startups) | Startups | Product analytics credits (up to ~$50k) |
+| [Retool for Startups](https://retool.com/startups) | Retool | Free Retool access for early-stage startups (up to ~$60k value) |
 | [Sentry for Startups](https://sentry.io/for/startups/) | Sentry | Get up to $5,000 in credits and priority support |
 | [Stripe Atlas](https://stripe.com/atlas) | Stripe | Company formation + partner perks |
 | [Vercel Startups](https://vercel.com/startups) | Vercel | Hosting credits |
