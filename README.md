@@ -30,6 +30,7 @@ Only official program pages are listed.
 | Program | Provider | Benefit |
 |---|---|---|
 | [Cursor for Students](https://cursor.com/students) | Cursor | Cursor Pro free for 1 year (~$240 value) |
+| [Codex for Students](https://chatgpt.com/codex/students) | Codex | $100 in credits for use in Codex | 
 | [DigitalOcean Student Credits](https://www.digitalocean.com/github-students) | DigitalOcean | Cloud credits via GitHub Student Developer Pack |
 | [Figma for Education](https://www.figma.com/education/) | Figma | Free design tools for students |
 | [GitLab for Education](https://about.gitlab.com/solutions/education/) | GitLab | Free GitLab Ultimate for education |
