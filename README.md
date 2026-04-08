@@ -35,6 +35,7 @@ Only official program pages are listed.
 | [Figma for Education](https://www.figma.com/education/) | Figma | Free design tools for students |
 | [GitLab for Education](https://about.gitlab.com/solutions/education/) | GitLab | Free GitLab Ultimate for education |
 | [GitHub Student Developer Pack](https://education.github.com/pack) | GitHub | Developer tools bundle (~$10k value) |
+| [Kiro for students](https://kiro.dev/students/) | Kiro | 1,000 credits per month free for one year | 
 | [JetBrains Student Pack](https://www.jetbrains.com/community/education/#students) | JetBrains | Free IDE licenses |
 | [Microsoft Azure for Students](https://azure.microsoft.com/en-us/free/students/) | Microsoft | Azure credits and dev tools |
 | [YC AI Student Starter Pack](https://deals.ycombinator.com/students) | Y Combinator | Credits and tools for students building AI projects (~25K value) |
@@ -65,7 +66,7 @@ Only official program pages are listed.
 | [Datadog for Startups](https://www.datadoghq.com/partner/datadog-for-startups/) | Datadog | A year of free Datadog Pro |
 | [Google Cloud AI Startup Program](https://cloud.google.com/startup/ai) | Google | AI startup credits (up to $350k) |
 | [Google Cloud Startup Program](https://cloud.google.com/startup) | Google | Cloud credits and support |
-| [Kiro for students](https://kiro.dev/students/) | Kiro | 1,000 credits per month free for one year | 
+| [Kiro for startup](https://kiro.dev/blog/bringing-back-startup-credits/) | Kiro | 1,000 credits per month free for one year | 
 | [Microsoft Founders Hub](https://www.microsoft.com/startups) | Microsoft | Azure credits |
 | [Mixpanel](https://mixpanel.com/startups-apply/) | Mixpanel | First year of Mixpanel for free | 
 | [Micro](https://miro.com/startups/apply/) | Micro | $500 - $1,000 in credits | 
