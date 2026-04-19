@@ -51,7 +51,6 @@ Only official program pages are listed.
 | [Capy AI OSS](https://capy.ai/open-source) | Capy AI | All Capy features — parallel agents, multi-model |
 | [Microsoft Foss Fund](https://github.com/microsoft/foss-fund) | Microsoft | Receive up to $12,500 USD |
 | [OpenAI Codex for Open Source](https://openai.com/form/codex-for-oss) | OpenAI | ChatGPT Pro access 6 month  |
-| [OpenAI Codex Open Source Fund](https://openai.com/form/codex-open-source-fund) | OpenAI | API credits (up to $25k) |
 | [Upstash for Open Source](https://upstash.com/open-source) | Upstash | $1,000 Monthly credit grant |
 
 ---
