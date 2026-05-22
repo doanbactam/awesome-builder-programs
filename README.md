@@ -99,6 +99,7 @@ Only official program pages are listed.
 |---|---|---|
 | [Claude Code](https://claude.com/community/ambassadors) | Anthropic | API Credits |
 | [OpenAI Ambassadors Program](https://developers.openai.com/codex/ambassadors) | OpenAI | API credits |
+| [Qwen Ambassadors](https://qwen.ai/ambassador) | Alibaba Qwen | API credits |
 
 ---
 ## Program
