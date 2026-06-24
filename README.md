@@ -35,6 +35,8 @@ Only official program pages are listed.
 | [Figma for Education](https://www.figma.com/education/) | Figma | Free design tools for students |
 | [GitLab for Education](https://about.gitlab.com/solutions/education/) | GitLab | Free GitLab Ultimate for education |
 | [GitHub Student Developer Pack](https://education.github.com/pack) | GitHub | Developer tools bundle (~$10k value) |
+| [Google Summer of Code 2026](https://summerofcode.withgoogle.com/) | Google | Stipend + mentorship cho sinh viên contribute OSS |
+| [MLH Fellowship](https://fellowship.mlh.io/) | Major League Hacking | 12-week remote, stipend, OSS projects (batches 2026) |
 | [Kiro for students](https://kiro.dev/students/) | Kiro | 1,000 credits per month free for one year | 
 | [JetBrains Student Pack](https://www.jetbrains.com/community/education/#students) | JetBrains | Free IDE licenses |
 | [Microsoft Azure for Students](https://azure.microsoft.com/en-us/free/students/) | Microsoft | Azure credits and dev tools |
