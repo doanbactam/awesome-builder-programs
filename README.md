@@ -40,6 +40,7 @@ Only official program pages are listed.
 | [Kiro for students](https://kiro.dev/students/) | Kiro | 1,000 credits per month free for one year | 
 | [JetBrains Student Pack](https://www.jetbrains.com/community/education/#students) | JetBrains | Free IDE licenses |
 | [Microsoft Azure for Students](https://azure.microsoft.com/en-us/free/students/) | Microsoft | Azure credits and dev tools |
+| [v0 for Students](https://v0.app/students) | Vercel | Get 1 year of free v0 premium |
 | [YC AI Student Starter Pack](https://deals.ycombinator.com/students) | Y Combinator | Credits and tools for students building AI projects (~25K value) |
 | [Zed Student Plan](https://zed.dev/education) | Zed | All Zed Pro features for 12 months|
 
