@@ -65,7 +65,7 @@ Only official program pages are listed.
 |---|---|---|
 | [AWS Activate](https://aws.amazon.com/startups/credits) | AWS | Cloud credits (up to $100k) |
 | [Cloudflare for Startups](https://www.cloudflare.com/forstartups/) | Cloudflare | Get up to $250,000 in Cloudflare credits |
-| [Clerk for Startups](https://clerk.com/startups) | Clerk | Authentication infrastructure credits |
+| [Clerk for Startups](https://clerk.com/startups) | Clerk | Clerk Pro at a discount for early-stage startups |
 | [Daytona](https://www.daytona.io/startups) | Daytona | $50k in Daytona credits |
 | [Datadog for Startups](https://www.datadoghq.com/partner/datadog-for-startups/) | Datadog | A year of free Datadog Pro |
 | [Google Cloud AI Startup Program](https://cloud.google.com/startup/ai) | Google | AI startup credits (up to $350k) |
