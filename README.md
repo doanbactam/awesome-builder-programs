@@ -105,6 +105,7 @@ Only official program pages are listed.
 | [OpenAI Ambassadors Program](https://developers.openai.com/codex/ambassadors) | OpenAI | API credits |
 | [Qwen Ambassadors](https://qwen.ai/ambassador) | Alibaba Qwen | API credits |
 | [Devin Ambassadors](https://devin.ai/community) | Devin Winsuft | Devin Max |
+| [Kimi Ambassadors](https://www.kimi.com/lp/kimi-ambassador) | Kimi | Credit |
 
 ---
 ## Program
