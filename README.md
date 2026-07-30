@@ -44,6 +44,8 @@ Only official program pages are listed.
 | [v0 for Students](https://v0.app/students) | Vercel | Get 1 year of free v0 premium |
 | [YC AI Student Starter Pack](https://deals.ycombinator.com/students) | Y Combinator | Credits and tools for students building AI projects (~25K value) |
 | [Zed Student Plan](https://zed.dev/education) | Zed | All Zed Pro features for 12 months|
+| [Outreachy](https://www.outreachy.org/) | Software Freedom Conservancy | Paid remote OSS internship (~$7,000 stipend) + mentorship for people facing underrepresentation; two cohorts/year (May–Aug, Dec–Mar) |
+| [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/) | Linux Foundation | Paid remote OSS mentorship (stipends vary by region); three terms/year |
 
 ---
 
