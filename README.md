@@ -72,7 +72,8 @@ Only official program pages are listed.
 | [Google Cloud Startup Program](https://cloud.google.com/startup) | Google | Cloud credits and support |
 | [Kiro for startup](https://kiro.dev/blog/bringing-back-startup-credits/) | Kiro | 1,000 credits per month free for one year | 
 | [Microsoft Founders Hub](https://www.microsoft.com/startups) | Microsoft | Azure credits |
-| [Mixpanel](https://mixpanel.com/startups-apply/) | Mixpanel | First year of Mixpanel for free | 
+| [Mixpanel](https://mixpanel.com/startups-apply/) | Mixpanel | First year of Mixpanel for free |
+| [Modal](https://modal.com/startups) | Modal | Apply to get free credits, technical support, and join a growing community | 
 | [Micro](https://miro.com/startups/apply/) | Micro | $500 - $1,000 in credits | 
 | [PlanetScale for Startups](https://planetscale.com/startups) | PlanetScale | Serverless MySQL database credits |
 | [PostHog for Startups](https://posthog.com/startups) | Startups | Product analytics credits (up to ~$50k) |
