@@ -29,7 +29,6 @@ Only official program pages are listed.
 
 | Program | Provider | Benefit |
 |---|---|---|
-
 | [Codex for Students](https://chatgpt.com/codex/students) | Codex | $100 in credits for use in Codex | 
 | [DigitalOcean Student Credits](https://www.digitalocean.com/github-students) | DigitalOcean | Cloud credits via GitHub Student Developer Pack |
 | [Figma for Education](https://www.figma.com/education/) | Figma | Free design tools for students |
