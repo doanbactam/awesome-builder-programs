@@ -23,28 +23,29 @@ Only official program pages are listed.
 * [AI and developer credits](#ai-and-developer-credits)
 * [Ambassadors](#ambassadors)
 * [Contributing](#contributing)
+
 ---
 
 ## Students
 
 | Program | Provider | Benefit |
 |---|---|---|
-| [Codex for Students](https://chatgpt.com/codex/students) | Codex | $100 in credits for use in Codex | 
+| [Codex for Students](https://chatgpt.com/codex/students) | OpenAI | $100 in Codex credits (US & Canada students only) |
 | [DigitalOcean Student Credits](https://www.digitalocean.com/github-students) | DigitalOcean | Cloud credits via GitHub Student Developer Pack |
 | [Figma for Education](https://www.figma.com/education/) | Figma | Free design tools for students |
 | [GitLab for Education](https://about.gitlab.com/solutions/education/) | GitLab | Free GitLab Ultimate for education |
 | [GitHub Student Developer Pack](https://education.github.com/pack) | GitHub | Developer tools bundle (~$10k value) |
-| [Google Summer of Code 2026](https://summerofcode.withgoogle.com/) | Google | Stipend + mentorship cho sinh viên contribute OSS |
-| [MLH Fellowship](https://fellowship.mlh.io/) | Major League Hacking | 12-week remote, stipend, OSS projects (batches 2026) |
-| [Kiro for students](https://kiro.dev/students/) | Kiro | 1,000 credits per month free for one year | 
+| [Google Summer of Code](https://summerofcode.withgoogle.com/) | Google | Stipend and mentorship for students contributing to OSS |
+| [MLH Fellowship](https://fellowship.mlh.io/) | Major League Hacking | 12-week remote fellowship with stipend |
+| [Kiro for Students](https://kiro.dev/students/) | Kiro (AWS) | 1,000 credits/month free for 1 year (limited partner universities) |
 | [JetBrains Student Pack](https://www.jetbrains.com/community/education/#students) | JetBrains | Free IDE licenses |
 | [Microsoft Azure for Students](https://azure.microsoft.com/en-us/free/students/) | Microsoft | Azure credits and dev tools |
-| [Manus Campus for Students](https://manus.im/edu) | Meta | Earn 1000 credits for each fellow student you invite |
-| [v0 for Students](https://v0.app/students) | Vercel | Get 1 year of free v0 premium |
-| [YC AI Student Starter Pack](https://deals.ycombinator.com/students) | Y Combinator | Credits and tools for students building AI projects (~25K value) |
-| [Zed Student Plan](https://zed.dev/education) | Zed | All Zed Pro features for 12 months|
-| [Outreachy](https://www.outreachy.org/) | Software Freedom Conservancy | Paid remote OSS internship (~$7,000 stipend) + mentorship for people facing underrepresentation; two cohorts/year (May–Aug, Dec–Mar) |
-| [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/) | Linux Foundation | Paid remote OSS mentorship (stipends vary by region); three terms/year |
+| [Manus Campus for Students](https://manus.im/edu) | Manus | Campus access; 1,000 credits per invited student |
+| [v0 for Students](https://v0.app/students) | Vercel | 1 year of free v0 Premium (limited partner universities) |
+| [YC AI Student Starter Pack](https://deals.ycombinator.com/students) | Y Combinator | Credits and tools (~$25k value; requires attending a YC student event) |
+| [Zed Student Plan](https://zed.dev/education) | Zed | All Zed Pro features for 12 months |
+| [Outreachy](https://www.outreachy.org/) | Software Freedom Conservancy | Paid remote OSS internship (~$7,000 stipend) |
+| [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/) | Linux Foundation | Paid remote OSS mentorship (stipends vary by region) |
 
 ---
 
@@ -52,11 +53,11 @@ Only official program pages are listed.
 
 | Program | Provider | Benefit |
 |---|---|---|
-| [Claude for Open Source](https://claude.com/contact-sales/claude-for-oss) | Anthropic | Claude Max access 6 month |
-| [Capy AI OSS](https://capy.ai/open-source) | Capy AI | All Capy features — parallel agents, multi-model |
-| [Microsoft Foss Fund](https://github.com/microsoft/foss-fund) | Microsoft | Receive up to $12,500 USD |
-| [OpenAI Codex for Open Source](https://openai.com/form/codex-for-oss) | OpenAI | ChatGPT Pro access 6 month  |
-| [Upstash for Open Source](https://upstash.com/open-source) | Upstash | $1,000 Monthly credit grant |
+| [Claude for Open Source](https://claude.com/contact-sales/claude-for-oss) | Anthropic | 6 months of Claude Max |
+| [Capy AI OSS](https://capy.ai/open-source) | Capy AI | Full platform access for open-source projects |
+| [Microsoft FOSS Fund](https://github.com/microsoft/foss-fund) | Microsoft | Up to $12,500 USD for selected projects |
+| [OpenAI Codex for Open Source](https://developers.openai.com/community/codex-for-oss) | OpenAI | 6 months of ChatGPT Pro with Codex, plus API credits |
+| [Upstash for Open Source](https://upstash.com/open-source) | Upstash | $1,000 monthly credit grant |
 
 ---
 
@@ -65,26 +66,26 @@ Only official program pages are listed.
 | Program | Provider | Benefit |
 |---|---|---|
 | [AWS Activate](https://aws.amazon.com/startups/credits) | AWS | Cloud credits (up to $100k) |
-| [Cloudflare for Startups](https://www.cloudflare.com/forstartups/) | Cloudflare | Get up to $350,000 in Cloudflare credits |
+| [Cloudflare for Startups](https://www.cloudflare.com/forstartups/) | Cloudflare | Up to $350,000 in Cloudflare credits |
 | [Clerk for Startups](https://clerk.com/startups) | Clerk | Clerk Pro at a discount for early-stage startups |
-| [Daytona](https://www.daytona.io/startups) | Daytona | $50k in Daytona credits |
+| [Daytona](https://www.daytona.io/startups) | Daytona | Up to $50k in Daytona credits |
 | [Datadog for Startups](https://www.datadoghq.com/partner/datadog-for-startups/) | Datadog | A year of free Datadog Pro |
 | [Google Cloud AI Startup Program](https://cloud.google.com/startup/ai) | Google | AI startup credits (up to $350k) |
 | [Google Cloud Startup Program](https://cloud.google.com/startup) | Google | Cloud credits and support |
-| [Kiro for startup](https://kiro.dev/blog/bringing-back-startup-credits/) | Kiro | 1,000 credits per month free for one year | 
+| [Kiro for Startups](https://kiro.dev/blog/bringing-back-startup-credits/) | Kiro (AWS) | Startup credit packages |
 | [Microsoft Founders Hub](https://www.microsoft.com/startups) | Microsoft | Azure credits |
-| [Mixpanel](https://mixpanel.com/startups-apply/) | Mixpanel | First year of Mixpanel for free |
-| [Modal](https://modal.com/startups) | Modal | Apply to get free credits, technical support, and join a growing community | 
-| [Micro](https://miro.com/startups/apply/) | Micro | $500 - $1,000 in credits | 
+| [Mixpanel](https://mixpanel.com/startups-apply/) | Mixpanel | First year of Mixpanel free |
+| [Modal](https://modal.com/startups) | Modal | Free credits and technical support |
+| [Miro for Startups](https://miro.com/startups/) | Miro | $500–$1,000 in credits |
 | [PlanetScale for Startups](https://planetscale.com/startups) | PlanetScale | Serverless MySQL database credits |
-| [PostHog for Startups](https://posthog.com/startups) | Startups | Product analytics credits (up to ~$50k) |
-| [Retool for Startups](https://retool.com/startups) | Retool | Free Retool access for early-stage startups (up to ~$60k value) |
-| [Sentry for Startups](https://sentry.io/for/startups/) | Sentry | Get up to $5,000 in credits and priority support |
-| [Stripe Atlas](https://stripe.com/atlas) | Stripe | Company formation + partner perks |
+| [PostHog for Startups](https://posthog.com/startups) | PostHog | Product analytics credits (up to ~$50k) |
+| [Retool for Startups](https://retool.com/startups) | Retool | Free Retool access for early-stage startups |
+| [Sentry for Startups](https://sentry.io/for/startups/) | Sentry | Up to $5,000 in credits and priority support |
+| [Stripe Atlas](https://stripe.com/atlas) | Stripe | Company formation and partner perks |
 | [Vercel Startups](https://vercel.com/startups) | Vercel | Hosting credits |
-| [Y Combinator](https://www.ycombinator.com) | Y Combinator | Up to $500.000 |
-| [ZAI Startups](https://startup.z.ai/) | Z Ai | Free API Credits ZAI model |
-| [Render](https://render.com/startups) | Render | $5K in startup credits |
+| [Y Combinator](https://www.ycombinator.com) | Y Combinator | Funding (up to $500,000) |
+| [ZAI Startups](https://startup.z.ai/) | Z.AI | Free API credits for Z.AI models |
+| [Render](https://render.com/startups) | Render | $5k in startup credits |
 
 ---
 
@@ -94,29 +95,24 @@ Only official program pages are listed.
 |---|---|---|
 | [Anthropic Startup Program](https://www.anthropic.com/startups) | Anthropic | Claude API credits |
 | [Hugging Face Startups](https://huggingface.co/startups) | Hugging Face | AI infrastructure support |
-| [Kiro](https://kiro.dev/startups/) | Kiro | Kiro Pro+ credits at three tiered packages 1 years |
 | [OpenAI Startup Program](https://openai.com/startups) | OpenAI | API credits |
 | [Together AI Research Credits Program](https://www.together.ai/research-credits-program-request) | Together AI | Research credits for AI projects |
 
 ---
+
 ## Ambassadors
 
 | Program | Provider | Benefit |
 |---|---|---|
-| [Claude Code](https://claude.com/community/ambassadors) | Anthropic | API Credits |
-| [OpenAI Ambassadors Program](https://developers.openai.com/codex/ambassadors) | OpenAI | API credits |
-| [Qwen Ambassadors](https://qwen.ai/ambassador) | Alibaba Qwen | API credits |
-| [Devin Ambassadors](https://devin.ai/community) | Devin Winsuft | Devin Max |
-| [Kimi Ambassadors](https://www.kimi.com/lp/kimi-ambassador) | Kimi | Credit |
+| [Claude Community Ambassadors](https://claude.com/community/ambassadors) | Anthropic | API credits, event support |
+| [OpenAI Codex Ambassadors](https://developers.openai.com/community/codex-ambassadors) | OpenAI | Credits and support (applications currently paused) |
+| [Qwen Ambassadors](https://qwen.ai/ambassador) | Alibaba Qwen | API credits ($50–$100/month) |
+| [Devin Ambassadors](https://devin.ai/community) | Cognition (Devin) | Community benefits |
+| [Kimi Ambassadors](https://www.kimi.com/lp/kimi-ambassador) | Kimi | Credits and early access |
 
 ---
-## Program
 
-| Program | Provider | Benefit |
-|---|---|---|
-| [Research Residency Program](https://www.perplexity.ai/hub/ai-research-residency) | Perplexity | $220,000 annualized base salary. |
-
-# Contributing
+## Contributing
 
 Contributions are welcome!
 
@@ -124,18 +120,19 @@ Before adding a program:
 
 * Link to the official program page
 * Make sure the program is still active
+* Note geographic or school eligibility limits when they apply
 * Avoid affiliate or referral links
 
 **Format for adding a new program:**
 
 ```markdown
 | [Program Name](https://official-page.com) | Provider | Description of benefits |
-|---|---|---|
 ```
 
 Submit a pull request to add new programs.
 
 ---
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/image?repos=doanbactam/awesome-builder-programs&type=date&legend=top-left)](https://www.star-history.com/?repos=doanbactam%2Fawesome-builder-programs&type=date&legend=top-left)
