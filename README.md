@@ -35,12 +35,14 @@ Only official program pages are listed.
 | [Figma for Education](https://www.figma.com/education/) | Figma | Free design tools for students |
 | [GitLab for Education](https://about.gitlab.com/solutions/education/) | GitLab | Free GitLab Ultimate for education |
 | [GitHub Student Developer Pack](https://education.github.com/pack) | GitHub | Developer tools bundle (~$10k value) |
+| [Google AI Pro for Students](https://one.google.com/ai) | Google | 1 year of Google AI Pro (US) or AI Plus (many other countries); claim window through end of 2026 |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | Google | Stipend and mentorship for students contributing to OSS |
 | [MLH Fellowship](https://fellowship.mlh.io/) | Major League Hacking | 12-week remote fellowship with stipend |
 | [Kiro for Students](https://kiro.dev/students/) | Kiro (AWS) | 1,000 credits/month free for 1 year (limited partner universities) |
 | [JetBrains Student Pack](https://www.jetbrains.com/community/education/#students) | JetBrains | Free IDE licenses |
 | [Microsoft Azure for Students](https://azure.microsoft.com/en-us/free/students/) | Microsoft | Azure credits and dev tools |
 | [Manus Campus for Students](https://manus.im/edu) | Manus | Campus access; 1,000 credits per invited student |
+| [OpenAI Student Collective](https://openai.com/student-collective/) | OpenAI | Campus Lead role: ChatGPT + Codex credits, event funding, and stipend |
 | [v0 for Students](https://v0.app/students) | Vercel | 1 year of free v0 Premium (limited partner universities) |
 | [YC AI Student Starter Pack](https://deals.ycombinator.com/students) | Y Combinator | Credits and tools (~$25k value; requires attending a YC student event) |
 | [Zed Student Plan](https://zed.dev/education) | Zed | All Zed Pro features for 12 months |
@@ -66,17 +68,20 @@ Only official program pages are listed.
 | Program | Provider | Benefit |
 |---|---|---|
 | [AWS Activate](https://aws.amazon.com/startups/credits) | AWS | Cloud credits (up to $100k) |
+| [CircleCI for Startups](https://circleci.com/startup-program/) | CircleCI | Up to $20,000 in compute credits |
 | [Cloudflare for Startups](https://www.cloudflare.com/forstartups/) | Cloudflare | Up to $350,000 in Cloudflare credits |
 | [Clerk for Startups](https://clerk.com/startups) | Clerk | Clerk Pro at a discount for early-stage startups |
+| [Databricks Startup Program](https://www.databricks.com/product/startups) | Databricks | Up to $200k in credits across Databricks and Neon |
 | [Daytona](https://www.daytona.io/startups) | Daytona | Up to $50k in Daytona credits |
 | [Datadog for Startups](https://www.datadoghq.com/partner/datadog-for-startups/) | Datadog | A year of free Datadog Pro |
 | [Google Cloud AI Startup Program](https://cloud.google.com/startup/ai) | Google | AI startup credits (up to $350k) |
 | [Google Cloud Startup Program](https://cloud.google.com/startup) | Google | Cloud credits and support |
-| [Kiro for Startups](https://kiro.dev/blog/bringing-back-startup-credits/) | Kiro (AWS) | Startup credit packages |
+| [Kiro for Startups](https://kiro.dev/blog/bringing-back-startup-credits/) | Kiro (AWS) | Up to 1 year of Kiro Pro+ credits |
 | [Microsoft Founders Hub](https://www.microsoft.com/startups) | Microsoft | Azure credits |
 | [Mixpanel](https://mixpanel.com/startups-apply/) | Mixpanel | First year of Mixpanel free |
 | [Modal](https://modal.com/startups) | Modal | Free credits and technical support |
 | [Miro for Startups](https://miro.com/startups/) | Miro | $500–$1,000 in credits |
+| [Notion for Startups](https://www.notion.com/startups) | Notion | Business plan free for up to 6 months (incl. Notion AI) |
 | [PlanetScale for Startups](https://planetscale.com/startups) | PlanetScale | Serverless MySQL database credits |
 | [PostHog for Startups](https://posthog.com/startups) | PostHog | Product analytics credits (up to ~$50k) |
 | [Retool for Startups](https://retool.com/startups) | Retool | Free Retool access for early-stage startups |
@@ -93,10 +98,11 @@ Only official program pages are listed.
 
 | Program | Provider | Benefit |
 |---|---|---|
-| [Anthropic Startup Program](https://www.anthropic.com/startups) | Anthropic | Claude API credits |
+| [Anthropic Startup Program](https://claude.com/programs/startups) | Anthropic | Claude API credits and priority rate limits |
 | [Hugging Face Startups](https://huggingface.co/startups) | Hugging Face | AI infrastructure support |
 | [OpenAI Startup Program](https://openai.com/startups) | OpenAI | API credits |
 | [Together AI Research Credits Program](https://www.together.ai/research-credits-program-request) | Together AI | Research credits for AI projects |
+| [Together AI Startup Accelerator](https://www.together.ai/startup-accelerator) | Together AI | Up to $50k in credits (funding-gated) |
 
 ---
 
