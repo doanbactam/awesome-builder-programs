@@ -31,17 +31,17 @@ Only official program pages are listed.
 | Program | Provider | Benefit |
 |---|---|---|
 | [Codex for Students](https://chatgpt.com/codex/students) | OpenAI | $100 in Codex credits (US & Canada students only) |
-| [DigitalOcean Student Credits](https://www.digitalocean.com/github-students) | DigitalOcean | Cloud credits via GitHub Student Developer Pack |
+| [DigitalOcean Student Credits](https://www.digitalocean.com/github-students) | DigitalOcean | $200 platform credit for 1 year via GitHub Student Developer Pack |
 | [Figma for Education](https://www.figma.com/education/) | Figma | Free design tools for students |
 | [GitLab for Education](https://about.gitlab.com/solutions/education/) | GitLab | Free GitLab Ultimate for education |
 | [GitHub Student Developer Pack](https://education.github.com/pack) | GitHub | Developer tools bundle (~$10k value) |
 | [Google AI Pro for Students](https://one.google.com/ai) | Google | 1 year of Google AI Pro (US) or AI Plus (many other countries); claim window through end of 2026 |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | Google | Stipend and mentorship for students contributing to OSS |
 | [MLH Fellowship](https://fellowship.mlh.io/) | Major League Hacking | 12-week remote fellowship with stipend |
-| [Kiro for Students](https://kiro.dev/students/) | Kiro (AWS) | 1,000 credits/month free for 1 year (limited partner universities) |
+| [Kiro for Students](https://kiro.dev/students/) | Kiro (AWS) | 1,000 credits/month free for 1 year (US & Canada residents 18+, participating universities only) |
 | [JetBrains Student Pack](https://www.jetbrains.com/community/education/#students) | JetBrains | Free IDE licenses |
 | [Microsoft Azure for Students](https://azure.microsoft.com/en-us/free/students/) | Microsoft | Azure credits and dev tools |
-| [Manus Campus for Students](https://manus.im/edu) | Manus | Campus access; 1,000 credits per invited student |
+| [Manus Campus for Students](https://manus.im/edu) | Manus | Campus access; earn 1,000 credits for each student you invite |
 | [OpenAI Student Collective](https://openai.com/student-collective/) | OpenAI | Campus Lead role: ChatGPT + Codex credits, event funding, and stipend |
 | [v0 for Students](https://v0.app/students) | Vercel | 1 year of free v0 Premium (limited partner universities) |
 | [YC AI Student Starter Pack](https://deals.ycombinator.com/students) | Y Combinator | Credits and tools (~$25k value; requires attending a YC student event) |
@@ -84,13 +84,13 @@ Only official program pages are listed.
 | [Notion for Startups](https://www.notion.com/startups) | Notion | Business plan free for up to 6 months (incl. Notion AI) |
 | [PlanetScale for Startups](https://planetscale.com/startups) | PlanetScale | Serverless MySQL database credits |
 | [PostHog for Startups](https://posthog.com/startups) | PostHog | Product analytics credits (up to ~$50k) |
+| [Render](https://render.com/startups) | Render | Startup credits from $500 (Founder) up to $5,000+ depending on funding and partner tier |
 | [Retool for Startups](https://retool.com/startups) | Retool | Free Retool access for early-stage startups |
 | [Sentry for Startups](https://sentry.io/for/startups/) | Sentry | Up to $5,000 in credits and priority support |
 | [Stripe Atlas](https://stripe.com/atlas) | Stripe | Company formation and partner perks |
 | [Vercel Startups](https://vercel.com/startups) | Vercel | Hosting credits |
 | [Y Combinator](https://www.ycombinator.com) | Y Combinator | Funding (up to $500,000) |
 | [ZAI Startups](https://startup.z.ai/) | Z.AI | Free API credits for Z.AI models |
-| [Render](https://render.com/startups) | Render | $5k in startup credits |
 
 ---
 
