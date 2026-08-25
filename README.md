@@ -74,6 +74,7 @@ Only official program pages are listed.
 | [Databricks Startup Program](https://www.databricks.com/product/startups) | Databricks | Up to $200k in credits across Databricks and Neon |
 | [Daytona](https://www.daytona.io/startups) | Daytona | Up to $50k in Daytona credits |
 | [Datadog for Startups](https://www.datadoghq.com/partner/datadog-for-startups/) | Datadog | A year of free Datadog Pro |
+| [Devin for Startups](https://devin.ai/startups) | Cognition (Devin) | $65,000 in credits and grants, direct support, free swag |
 | [Google Cloud AI Startup Program](https://cloud.google.com/startup/ai) | Google | AI startup credits (up to $350k) |
 | [Google Cloud Startup Program](https://cloud.google.com/startup) | Google | Cloud credits and support |
 | [Kiro for Startups](https://kiro.dev/blog/bringing-back-startup-credits/) | Kiro (AWS) | Up to 1 year of Kiro Pro+ credits |
