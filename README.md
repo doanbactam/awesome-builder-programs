@@ -60,6 +60,7 @@ Only official program pages are listed.
 | [Claude for Open Source](https://claude.com/contact-sales/claude-for-oss) | Anthropic | 6 months of Claude Max |
 | [Capy AI OSS](https://capy.ai/open-source) | Capy AI | Full platform access for open-source projects |
 | [Microsoft FOSS Fund](https://github.com/microsoft/foss-fund) | Microsoft | Up to $12,500 USD for selected projects |
+| [Ona for Open Source](https://ona.com/stories/ona-for-open-source) | Ona | Up to $200/mo AI credits for OSS maintainers and contributors |
 | [OpenAI Codex for Open Source](https://developers.openai.com/community/codex-for-oss) | OpenAI | 6 months of ChatGPT Pro with Codex, plus API credits |
 | [Upstash for Open Source](https://upstash.com/open-source) | Upstash | $1,000 monthly credit grant |
 
@@ -69,6 +70,7 @@ Only official program pages are listed.
 
 | Program | Provider | Benefit |
 |---|---|---|
+| [AssemblyAI Startup Program](https://www.assemblyai.com/contact/startup-program) | AssemblyAI | 12 months free credits for voice/speech AI |
 | [AWS Activate](https://aws.amazon.com/startups/credits) | AWS | Cloud credits (up to $100k) |
 | [CircleCI for Startups](https://circleci.com/startup-program/) | CircleCI | Up to $20,000 in compute credits |
 | [Cloudflare for Startups](https://www.cloudflare.com/forstartups/) | Cloudflare | Up to $350,000 in Cloudflare credits |
@@ -76,7 +78,9 @@ Only official program pages are listed.
 | [Databricks Startup Program](https://www.databricks.com/product/startups) | Databricks | Up to $200k in credits across Databricks and Neon |
 | [Daytona](https://www.daytona.io/startups) | Daytona | Up to $50k in Daytona credits |
 | [Datadog for Startups](https://www.datadoghq.com/partner/datadog-for-startups/) | Datadog | A year of free Datadog Pro |
+| [Deepgram for Startups](https://deepgram.com/startup-program) | Deepgram | Up to $100,000 in voice AI credits |
 | [Devin for Startups](https://devin.ai/startups) | Cognition (Devin) | $65,000 in credits and grants, direct support, free swag |
+| [DigitalOcean Hatch](https://www.digitalocean.com/startups) | DigitalOcean | Up to $100,000 in cloud credits |
 | [Google Cloud AI Startup Program](https://cloud.google.com/startup/ai) | Google | AI startup credits (up to $350k) |
 | [Google Cloud Startup Program](https://cloud.google.com/startup) | Google | Cloud credits and support |
 | [Kiro for Startups](https://kiro.dev/blog/bringing-back-startup-credits/) | Kiro (AWS) | Up to 1 year of Kiro Pro+ credits |
@@ -84,6 +88,7 @@ Only official program pages are listed.
 | [Mixpanel](https://mixpanel.com/startups-apply/) | Mixpanel | First year of Mixpanel free |
 | [Modal](https://modal.com/startups) | Modal | Free credits and technical support |
 | [Miro for Startups](https://miro.com/startups/) | Miro | $500–$1,000 in credits |
+| [Nebius for Startups](https://nebius.com/startups) | Nebius | $5,000 AI credits + discounts on GPU compute |
 | [Notion for Startups](https://www.notion.com/startups) | Notion | Business plan free for up to 6 months (incl. Notion AI) |
 | [NVIDIA Inception](https://www.nvidia.com/en-us/startups/) | NVIDIA | Free program: partner cloud credits, training, preferred GPU/software pricing |
 | [OVHcloud Startup Program](https://startup.ovhcloud.com/) | OVHcloud | €10,000–€100,000 cloud credits + technical support |
