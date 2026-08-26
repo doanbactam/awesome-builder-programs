@@ -94,7 +94,7 @@ Only official program pages are listed.
 | [OVHcloud Startup Program](https://startup.ovhcloud.com/) | OVHcloud | €10,000 for Start level; up to €100,000 for Scale level, plus technical support |
 | [PlanetScale for Startups](https://planetscale.com/startups) | PlanetScale | Serverless MySQL database credits |
 | [PostHog for Startups](https://posthog.com/startups) | PostHog | Product analytics credits (up to ~$50k) |
-| [Render](https://render.com/startups) | Render | Startup credits from $500 (Founder) up to $5,000+ depending on funding and partner tier |
+| [Render](https://render.com/startups) | Render | Up to $100,000 in credits |
 | [Retool for Startups](https://retool.com/startups) | Retool | Free Retool access for early-stage startups |
 | [Sentry for Startups](https://sentry.io/for/startups/) | Sentry | Up to $5,000 in credits and priority support |
 | [Stripe Atlas](https://stripe.com/atlas) | Stripe | Company formation and partner perks |
