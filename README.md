@@ -67,7 +67,6 @@ Only official program pages are listed.
 
 | Program | Provider | Benefit |
 |---|---|---|
-| [AWS Activate](https://aws.amazon.com/startups/credits) | AWS | Cloud credits (up to $100k) |
 | [CircleCI for Startups](https://circleci.com/startup-program/) | CircleCI | Up to $20,000 in compute credits |
 | [Cloudflare for Startups](https://www.cloudflare.com/forstartups/) | Cloudflare | Up to $350,000 in Cloudflare credits |
 | [Clerk for Startups](https://clerk.com/startups) | Clerk | Clerk Pro at a discount for early-stage startups |
