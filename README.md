@@ -55,6 +55,8 @@ Only official program pages are listed.
 
 | Program | Provider | Benefit |
 |---|---|---|
+| [Atlas Cloud for Open Source](https://www.atlascloud.ai/oss-program) | Atlas Cloud | Up to $1,500/mo AI credits (400+ models) for active OSS maintainers |
+| [Catalyst](https://www.opencoreventures.com/catalyst) | Open Core Ventures | $10,000 funding + 3-month mentorship for OSS projects |
 | [Claude for Open Source](https://claude.com/contact-sales/claude-for-oss) | Anthropic | 6 months of Claude Max |
 | [Capy AI OSS](https://capy.ai/open-source) | Capy AI | Full platform access for open-source projects |
 | [Microsoft FOSS Fund](https://github.com/microsoft/foss-fund) | Microsoft | Up to $12,500 USD for selected projects |
@@ -83,6 +85,8 @@ Only official program pages are listed.
 | [Modal](https://modal.com/startups) | Modal | Free credits and technical support |
 | [Miro for Startups](https://miro.com/startups/) | Miro | $500–$1,000 in credits |
 | [Notion for Startups](https://www.notion.com/startups) | Notion | Business plan free for up to 6 months (incl. Notion AI) |
+| [NVIDIA Inception](https://www.nvidia.com/en-us/startups/) | NVIDIA | Free program: partner cloud credits, training, preferred GPU/software pricing |
+| [OVHcloud Startup Program](https://startup.ovhcloud.com/) | OVHcloud | €10,000–€100,000 cloud credits + technical support |
 | [PlanetScale for Startups](https://planetscale.com/startups) | PlanetScale | Serverless MySQL database credits |
 | [PostHog for Startups](https://posthog.com/startups) | PostHog | Product analytics credits (up to ~$50k) |
 | [Render](https://render.com/startups) | Render | Startup credits from $500 (Founder) up to $5,000+ depending on funding and partner tier |
