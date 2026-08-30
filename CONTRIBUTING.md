@@ -9,14 +9,14 @@ This repository lists programs that provide **credits, grants, or tools** for st
 1. Make sure the program has an **official page**
 2. Ensure the program is **active**
 3. Add it in the correct section
-4. Keep entries **alphabetically sorted**
+4. Keep entries **alphabetically sorted** by program name
 5. Follow the table format
 
 Example:
 
-| Program | Provider | Audience | Benefit |
-|---|---|---|---|
-| [Example Program](https://example.com) | Example | Startups | Cloud credits |
+```markdown
+| [Example Program](https://example.com) | Example | Cloud credits |
+```
 
 ## Rules
 
@@ -24,6 +24,7 @@ Example:
 - No affiliate or referral links
 - Keep descriptions short
 - Do not add expired programs
+- Note geographic or school eligibility limits when they apply
 
 ## Pull requests
 

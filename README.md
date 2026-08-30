@@ -33,21 +33,21 @@ Only official program pages are listed.
 | [Codex for Students](https://chatgpt.com/codex/students) | OpenAI | $100 in Codex credits (US & Canada students only) |
 | [DigitalOcean Student Credits](https://www.digitalocean.com/github-students) | DigitalOcean | $200 platform credit for 1 year via GitHub Student Developer Pack |
 | [Figma for Education](https://www.figma.com/education/) | Figma | Free design tools for students |
-| [GitLab for Education](https://about.gitlab.com/solutions/education/) | GitLab | Free GitLab Ultimate for education |
 | [GitHub Student Developer Pack](https://education.github.com/pack) | GitHub | Developer tools bundle (~$10k value) |
-| [Google AI Pro for Students](https://one.google.com/ai) | Google | 1 year of Google AI Pro (US) or AI Plus (many other countries); claim window through end of 2026 |
+| [GitLab for Education](https://about.gitlab.com/solutions/education/) | GitLab | Free GitLab Ultimate for education |
+| [Google AI Pro for Students](https://one.google.com/ai-student) | Google | 1 year of Google AI Pro (US) or AI Plus (many other countries); claim window through end of 2026 |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | Google | Stipend and mentorship for students contributing to OSS |
-| [MLH Fellowship](https://fellowship.mlh.io/) | Major League Hacking | 12-week remote fellowship with stipend |
-| [Kiro for Students](https://kiro.dev/students/) | Kiro (AWS) | 1,000 credits/month free for 1 year (US & Canada residents 18+, participating universities only) |
-| [JetBrains Student Pack](https://www.jetbrains.com/community/education/#students) | JetBrains | Free IDE licenses |
-| [Microsoft Azure for Students](https://azure.microsoft.com/en-us/free/students/) | Microsoft | Azure credits and dev tools |
+| [JetBrains Student Pack](https://www.jetbrains.com/academy/student-pack/) | JetBrains | Free IDE licenses |
+| [Kiro for Students](https://kiro.dev/students/) | Kiro (AWS) | 1,000 credits/month free for 1 year (participating universities; SheerID verification) |
+| [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/) | Linux Foundation | Paid remote OSS mentorship (stipends vary by region) |
 | [Manus Campus for Students](https://manus.im/edu) | Manus | Campus access; earn 1,000 credits for each student you invite |
+| [Microsoft Azure for Students](https://azure.microsoft.com/en-us/free/students/) | Microsoft | Azure credits and dev tools |
+| [MLH Fellowship](https://fellowship.mlh.com/) | Major League Hacking | 12-week remote fellowship with stipend |
 | [OpenAI Student Collective](https://openai.com/student-collective/) | OpenAI | Campus Lead role: ChatGPT + Codex credits, event funding, and stipend |
+| [Outreachy](https://www.outreachy.org/) | Software Freedom Conservancy | Paid remote OSS internship (~$7,000 stipend) |
 | [v0 for Students](https://v0.app/students) | Vercel | 1 year of free v0 Premium (limited partner universities) |
 | [YC AI Student Starter Pack](https://deals.ycombinator.com/students) | Y Combinator | Credits and tools (~$25k value; requires attending a YC student event) |
 | [Zed Student Plan](https://zed.dev/education) | Zed | All Zed Pro features for 12 months |
-| [Outreachy](https://www.outreachy.org/) | Software Freedom Conservancy | Paid remote OSS internship (~$7,000 stipend) |
-| [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/) | Linux Foundation | Paid remote OSS mentorship (stipends vary by region) |
 
 ---
 
@@ -56,9 +56,9 @@ Only official program pages are listed.
 | Program | Provider | Benefit |
 |---|---|---|
 | [Atlas Cloud for Open Source](https://www.atlascloud.ai/oss-program) | Atlas Cloud | Up to $1,500/mo AI credits (400+ models) for active OSS maintainers |
-| [Catalyst](https://www.opencoreventures.com/catalyst) | Open Core Ventures | $10,000 sponsorship + 3-month program for eligible OSS authors and maintainers |
-| [Claude for Open Source](https://claude.com/contact-sales/claude-for-oss) | Anthropic | 6 months of Claude Max |
 | [Capy AI OSS](https://capy.ai/open-source) | Capy AI | Full platform access for open-source projects |
+| [Catalyst](https://opencoreventures.com/catalyst/) | Open Core Ventures | $10,000 sponsorship + 3-month program for eligible OSS authors and maintainers |
+| [Claude for Open Source](https://claude.com/contact-sales/claude-for-oss) | Anthropic | 6 months of Claude Max |
 | [Microsoft FOSS Fund](https://github.com/microsoft/foss-fund) | Microsoft | Up to $12,500 USD for selected projects |
 | [Ona for Open Source](https://ona.com/stories/ona-for-open-source) | Ona | Up to $200/mo AI credits for OSS maintainers and contributors |
 | [OpenAI Codex for Open Source](https://developers.openai.com/community/codex-for-oss) | OpenAI | 6 months of ChatGPT Pro with Codex, plus API credits |
@@ -73,21 +73,21 @@ Only official program pages are listed.
 | [AssemblyAI Startup Program](https://www.assemblyai.com/contact/startup-program) | AssemblyAI | 12 months free credits for voice/speech AI |
 | [AWS Activate](https://aws.amazon.com/startups/credits) | AWS | Cloud credits (up to $100k) |
 | [CircleCI for Startups](https://circleci.com/startup-program/) | CircleCI | Up to $20,000 in compute credits |
-| [Cloudflare for Startups](https://www.cloudflare.com/forstartups/) | Cloudflare | Up to $350,000 in Cloudflare credits |
 | [Clerk for Startups](https://clerk.com/startups) | Clerk | Clerk Pro at a discount for early-stage startups |
+| [Cloudflare for Startups](https://www.cloudflare.com/forstartups/) | Cloudflare | Up to $350,000 in Cloudflare credits |
 | [Databricks Startup Program](https://www.databricks.com/product/startups) | Databricks | Up to $200k in credits across Databricks and Neon |
-| [Daytona](https://www.daytona.io/startups) | Daytona | Up to $50k in Daytona credits |
 | [Datadog for Startups](https://www.datadoghq.com/partner/datadog-for-startups/) | Datadog | A year of free Datadog Pro |
+| [Daytona](https://www.daytona.io/startups) | Daytona | Up to $50k in Daytona credits |
 | [Deepgram for Startups](https://deepgram.com/startup-program) | Deepgram | Up to $100,000 in voice AI credits |
 | [Devin for Startups](https://devin.ai/startups) | Cognition (Devin) | $65,000 in credits and grants, direct support, free swag |
 | [DigitalOcean Hatch](https://www.digitalocean.com/startups) | DigitalOcean | Up to $100,000 in cloud credits |
 | [Google Cloud AI Startup Program](https://cloud.google.com/startup/ai) | Google | AI startup credits (up to $350k) |
 | [Google Cloud Startup Program](https://cloud.google.com/startup) | Google | Cloud credits and support |
-| [Kiro for Startups](https://kiro.dev/blog/bringing-back-startup-credits/) | Kiro (AWS) | Up to 1 year of Kiro Pro+ credits |
-| [Microsoft Founders Hub](https://www.microsoft.com/startups) | Microsoft | Azure credits |
+| [Kiro for Startups](https://kiro.dev/startups/) | Kiro (AWS) | Up to 1 year of Kiro Pro+ credits (early stage to Series A; not stackable with active AWS Activate) |
+| [Microsoft for Startups](https://www.microsoft.com/startups) | Microsoft | Azure credits |
+| [Miro for Startups](https://miro.com/startups/) | Miro | $500–$1,000 in credits |
 | [Mixpanel](https://mixpanel.com/startups-apply/) | Mixpanel | First year of Mixpanel free |
 | [Modal](https://modal.com/startups) | Modal | Free credits and technical support |
-| [Miro for Startups](https://miro.com/startups/) | Miro | $500–$1,000 in credits |
 | [Nebius for Startups](https://nebius.com/startups) | Nebius | $5,000 AI credits + discounts on GPU compute |
 | [Notion for Startups](https://www.notion.com/startups) | Notion | Business plan free for up to 6 months (incl. Notion AI) |
 | [NVIDIA Inception](https://www.nvidia.com/en-us/startups/) | NVIDIA | Free program: partner cloud credits, training, preferred GPU/software pricing |
@@ -121,10 +121,10 @@ Only official program pages are listed.
 | Program | Provider | Benefit |
 |---|---|---|
 | [Claude Community Ambassadors](https://claude.com/community/ambassadors) | Anthropic | API credits, event support |
+| [Devin Ambassadors](https://devin.ai/community) | Cognition (Devin) | Community benefits |
+| [Kimi Ambassadors](https://www.kimi.ai/lp/kimi-ambassador) | Kimi | Credits and early access |
 | [OpenAI Codex Ambassadors](https://developers.openai.com/community/codex-ambassadors) | OpenAI | Credits and support (applications currently paused) |
 | [Qwen Ambassadors](https://qwen.ai/ambassador) | Alibaba Qwen | API credits ($50–$100/month) |
-| [Devin Ambassadors](https://devin.ai/community) | Cognition (Devin) | Community benefits |
-| [Kimi Ambassadors](https://www.kimi.com/lp/kimi-ambassador) | Kimi | Credits and early access |
 
 ---
 
@@ -138,6 +138,7 @@ Before adding a program:
 * Make sure the program is still active
 * Note geographic or school eligibility limits when they apply
 * Avoid affiliate or referral links
+* Keep each section alphabetically sorted by program name
 
 **Format for adding a new program:**
 
