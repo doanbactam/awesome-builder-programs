@@ -59,9 +59,11 @@ Only official program pages are listed.
 | [Capy AI OSS](https://capy.ai/open-source) | Capy AI | Full platform access for open-source projects |
 | [Catalyst](https://opencoreventures.com/catalyst/) | Open Core Ventures | $10,000 sponsorship + 3-month program for eligible OSS authors and maintainers |
 | [Claude for Open Source](https://claude.com/contact-sales/claude-for-oss) | Anthropic | 6 months of Claude Max |
+| [GitHub Secure Open Source Fund](https://resources.github.com/github-secure-open-source-fund/) | GitHub | $10,000 per project, Copilot Pro, Azure credits, 3-week security program |
 | [Microsoft FOSS Fund](https://github.com/microsoft/foss-fund) | Microsoft | Up to $12,500 USD for selected projects |
 | [Ona for Open Source](https://ona.com/stories/ona-for-open-source) | Ona | Up to $200/mo AI credits for OSS maintainers and contributors |
 | [OpenAI Codex for Open Source](https://developers.openai.com/community/codex-for-oss) | OpenAI | 6 months of ChatGPT Pro with Codex, plus API credits |
+| [Snyk for Open Source](https://snyk.io/open-source) | Snyk | Full Snyk platform free for qualifying OSS maintainers |
 | [Upstash for Open Source](https://upstash.com/open-source) | Upstash | $1,000 monthly credit grant |
 
 ---
@@ -88,6 +90,7 @@ Only official program pages are listed.
 | [Miro for Startups](https://miro.com/startups/) | Miro | $500–$1,000 in credits |
 | [Mixpanel](https://mixpanel.com/startups-apply/) | Mixpanel | First year of Mixpanel free |
 | [Modal](https://modal.com/startups) | Modal | Free credits and technical support |
+| [MongoDB for Startups](https://www.mongodb.com/solutions/startups) | MongoDB | Atlas credits and technical advisors |
 | [Nebius for Startups](https://nebius.com/startups) | Nebius | $5,000 AI credits + discounts on GPU compute |
 | [Notion for Startups](https://www.notion.com/startups) | Notion | Business plan free for up to 6 months (incl. Notion AI) |
 | [NVIDIA Inception](https://www.nvidia.com/en-us/startups/) | NVIDIA | Free program: partner cloud credits, training, preferred GPU/software pricing |
@@ -120,7 +123,9 @@ Only official program pages are listed.
 
 | Program | Provider | Benefit |
 |---|---|---|
+| [Claude Campus Ambassadors](https://claude.com/programs/campus) | Anthropic | Campus club lead; USD 3,600 stipend (18+) |
 | [Claude Community Ambassadors](https://claude.com/community/ambassadors) | Anthropic | API credits, event support |
+| [Cursor Campus Leads](https://cursor.com/campus-leads) | Cursor | 6 months Cursor Ultra and event funding (applications reopen January) |
 | [Devin Ambassadors](https://devin.ai/community) | Cognition (Devin) | Community benefits |
 | [Kimi Ambassadors](https://www.kimi.ai/lp/kimi-ambassador) | Kimi | Credits and early access |
 | [OpenAI Codex Ambassadors](https://developers.openai.com/community/codex-ambassadors) | OpenAI | Credits and support (applications currently paused) |
