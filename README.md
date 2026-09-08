@@ -101,6 +101,7 @@ Only official program pages are listed.
 | [Retool for Startups](https://retool.com/startups) | Retool | Free Retool access for early-stage startups |
 | [Sentry for Startups](https://sentry.io/for/startups/) | Sentry | Up to $5,000 in credits and priority support |
 | [Stripe Atlas](https://stripe.com/atlas) | Stripe | Company formation and partner perks |
+| [Temporal Cloud for Startups](https://temporal.io/startup) | Temporal | $6,000 Temporal Cloud credits (funded startups, $30M or less raised) |
 | [Vercel Startups](https://vercel.com/startups) | Vercel | Hosting credits |
 | [Y Combinator](https://www.ycombinator.com) | Y Combinator | Funding (up to $500,000) |
 | [ZAI Startups](https://startup.z.ai/) | Z.AI | Free API credits for Z.AI models |
@@ -128,6 +129,7 @@ Only official program pages are listed.
 | [Cursor Campus Leads](https://cursor.com/campus-leads) | Cursor | 6 months Cursor Ultra and event funding (applications reopen January) |
 | [Devin Ambassadors](https://devin.ai/community) | Cognition (Devin) | Community benefits |
 | [Kimi Ambassadors](https://www.kimi.ai/lp/kimi-ambassador) | Kimi | Credits and early access |
+| [Mistral AI Ambassadors](https://docs.mistral.ai/community/ambassadors) | Mistral | Studio API credits, early access |
 | [OpenAI Codex Ambassadors](https://developers.openai.com/community/codex-ambassadors) | OpenAI | Credits and support (applications currently paused) |
 | [Qwen Ambassadors](https://qwen.ai/ambassador) | Alibaba Qwen | API credits ($50–$100/month) |
 
