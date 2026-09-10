@@ -20,10 +20,8 @@ const categories = [
 
 const statusLabels = {
   active: "Active",
-  needs_review: "Needs review",
   paused: "Paused",
   expired: "Expired",
-  unknown: "Unknown",
 };
 
 const escapeCell = (value) => String(value).replaceAll("|", "\\|").replaceAll("\n", " ");
@@ -59,7 +57,6 @@ const lines = [
     const anchor = heading.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
     return "* [" + heading + "](#" + anchor + ")";
   }),
-  ...(data.programs.some((program) => program.status === "needs_review") ? ["* [Needs review](#needs-review)"] : []),
   "* [Data quality](#data-quality)",
   "* [Contributing](#contributing)",
   "",
@@ -69,7 +66,7 @@ const lines = [
 
 for (const { key, heading } of categories) {
   const programs = data.programs
-    .filter((program) => program.categories.includes(key) && program.status !== "needs_review")
+    .filter((program) => program.categories.includes(key))
     .sort((a, b) => a.name.localeCompare(b.name, "en", { sensitivity: "base" }));
 
   lines.push("## " + heading, "", "| Program | Provider | Benefit | Status | Verified |", "|---|---|---|---|---|");
@@ -83,35 +80,12 @@ for (const { key, heading } of categories) {
   lines.push("", "---", "");
 }
 
-const needsReview = data.programs
-  .filter((program) => program.status === "needs_review")
-  .sort((a, b) => a.name.localeCompare(b.name, "en", { sensitivity: "base" }));
-
-if (needsReview.length > 0) {
-  lines.push(
-    "## Needs review",
-    "",
-    "These records are retained because the program may still exist, but its current offer or availability could not be confirmed from a readable public source. They are not presented as active opportunities until verified.",
-    "",
-    "| Program | Provider | Benefit | Why it needs review | Checked |",
-    "|---|---|---|---|---|",
-  );
-  for (const program of needsReview) {
-    lines.push(
-      "| [" + escapeCell(program.name) + "](" + displayUrl(program) + ") | " +
-      escapeCell(program.provider) + " | " + displayBenefit(program) + " | " +
-      escapeCell(program.verification_notes) + " | " + (program.last_verified_at ?? "—") + " |",
-    );
-  }
-  lines.push("", "---", "");
-}
-
 lines.push(
   "## Data quality",
   "",
   "- **Active** means an official source confirms availability and the record was verified within the last 30 days.",
-  "- **Needs review** means the record may still exist, but its current availability or terms could not be confirmed; it is retained separately and is not an active recommendation.",
   "- **Paused** and **Expired** records are retained for provenance but are not active opportunities.",
+  "- Unverified records (`needs_review` or `unknown`) are staging-only and are excluded from data/programs.json and this README.",
   "- A successful link check does not by itself prove that a program is accepting applications.",
   "",
   "See [DATA.md](DATA.md) for the schema and verification policy.",
@@ -125,6 +99,7 @@ lines.push(
   "Before opening a pull request:",
   "",
   "- Link to the official program page",
+  "- Verify the current benefit, eligibility, and status before adding the record; leave it out if the evidence is insufficient",
   "- Make sure the current status and benefit are supported by the source",
   "- Note geographic, school, funding, or age eligibility limits when they apply",
   "- Add last_verified_at and verification notes for active records",
