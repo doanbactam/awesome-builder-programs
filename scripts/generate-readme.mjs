@@ -59,6 +59,7 @@ const lines = [
     const anchor = heading.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
     return "* [" + heading + "](#" + anchor + ")";
   }),
+  ...(data.programs.some((program) => program.status === "needs_review") ? ["* [Needs review](#needs-review)"] : []),
   "* [Data quality](#data-quality)",
   "* [Contributing](#contributing)",
   "",
@@ -68,7 +69,7 @@ const lines = [
 
 for (const { key, heading } of categories) {
   const programs = data.programs
-    .filter((program) => program.categories.includes(key))
+    .filter((program) => program.categories.includes(key) && program.status !== "needs_review")
     .sort((a, b) => a.name.localeCompare(b.name, "en", { sensitivity: "base" }));
 
   lines.push("## " + heading, "", "| Program | Provider | Benefit | Status | Verified |", "|---|---|---|---|---|");
@@ -82,11 +83,34 @@ for (const { key, heading } of categories) {
   lines.push("", "---", "");
 }
 
+const needsReview = data.programs
+  .filter((program) => program.status === "needs_review")
+  .sort((a, b) => a.name.localeCompare(b.name, "en", { sensitivity: "base" }));
+
+if (needsReview.length > 0) {
+  lines.push(
+    "## Needs review",
+    "",
+    "These records are retained because the program may still exist, but its current offer or availability could not be confirmed from a readable public source. They are not presented as active opportunities until verified.",
+    "",
+    "| Program | Provider | Benefit | Why it needs review | Checked |",
+    "|---|---|---|---|---|",
+  );
+  for (const program of needsReview) {
+    lines.push(
+      "| [" + escapeCell(program.name) + "](" + displayUrl(program) + ") | " +
+      escapeCell(program.provider) + " | " + displayBenefit(program) + " | " +
+      escapeCell(program.verification_notes) + " | " + (program.last_verified_at ?? "—") + " |",
+    );
+  }
+  lines.push("", "---", "");
+}
+
 lines.push(
   "## Data quality",
   "",
   "- **Active** means an official source confirms availability and the record was verified within the last 30 days.",
-  "- **Needs review** means the record is in the curated dataset but its current availability or terms still need manual confirmation.",
+  "- **Needs review** means the record may still exist, but its current availability or terms could not be confirmed; it is retained separately and is not an active recommendation.",
   "- **Paused** and **Expired** records are retained for provenance but are not active opportunities.",
   "- A successful link check does not by itself prove that a program is accepting applications.",
   "",
