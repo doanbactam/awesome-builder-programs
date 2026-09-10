@@ -13,6 +13,8 @@ Includes programs for:
 
 Only official program pages are listed.
 
+Program availability and benefits can change. Verify the provider page before applying.
+
 ---
 
 ## Contents
@@ -31,7 +33,6 @@ Only official program pages are listed.
 | Program | Provider | Benefit |
 |---|---|---|
 | [Codex for Students](https://chatgpt.com/codex/students) | OpenAI | $100 in Codex credits (US & Canada students only) |
-| [DigitalOcean Student Credits](https://www.digitalocean.com/github-students) | DigitalOcean | $200 platform credit for 1 year via GitHub Student Developer Pack |
 | [Figma for Education](https://www.figma.com/education/) | Figma | Free design tools for students |
 | [GitHub Student Developer Pack](https://education.github.com/pack) | GitHub | Developer tools bundle (~$10k value) |
 | [GitLab for Education](https://about.gitlab.com/solutions/education/) | GitLab | Free GitLab Ultimate for education |
@@ -40,7 +41,7 @@ Only official program pages are listed.
 | [JetBrains Student Pack](https://www.jetbrains.com/academy/student-pack/) | JetBrains | Free IDE licenses |
 | [Kiro for Students](https://kiro.dev/students/) | Kiro (AWS) | 1,000 credits/month free for 1 year (participating universities; SheerID verification) |
 | [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/) | Linux Foundation | Paid remote OSS mentorship (stipends vary by region) |
-| [Manus Campus for Students](https://manus.im/edu) | Manus | Campus access; earn 1,000 credits for each student you invite |
+| [Manus Campus for Students](https://manus.im/edu) | Manus | Campus access; 1,000-credit referral reward per invited student |
 | [Microsoft Azure for Students](https://azure.microsoft.com/en-us/free/students/) | Microsoft | Azure credits and dev tools |
 | [MLH Fellowship](https://fellowship.mlh.com/) | Major League Hacking | 12-week remote fellowship with stipend |
 | [OpenAI Student Collective](https://openai.com/student-collective/) | OpenAI | Campus Lead role: ChatGPT + Codex credits, event funding, and stipend |
@@ -59,7 +60,7 @@ Only official program pages are listed.
 | [Capy AI OSS](https://capy.ai/open-source) | Capy AI | Full platform access for open-source projects |
 | [Catalyst](https://opencoreventures.com/catalyst/) | Open Core Ventures | $10,000 sponsorship + 3-month program for eligible OSS authors and maintainers |
 | [Claude for Open Source](https://claude.com/contact-sales/claude-for-oss) | Anthropic | 6 months of Claude Max |
-| [GitHub Secure Open Source Fund](https://resources.github.com/github-secure-open-source-fund/) | GitHub | $10,000 per project, Copilot Pro, Azure credits, 3-week security program |
+| [GitHub Secure Open Source Fund](https://github.com/open-source/github-secure-open-source-fund) | GitHub | $10,000 project funding, $10,000 Azure credits, Copilot Pro, and a 3-week security program |
 | [Microsoft FOSS Fund](https://github.com/microsoft/foss-fund) | Microsoft | Up to $12,500 USD for selected projects |
 | [Ona for Open Source](https://ona.com/stories/ona-for-open-source) | Ona | Up to $200/mo AI credits for OSS maintainers and contributors |
 | [OpenAI Codex for Open Source](https://developers.openai.com/community/codex-for-oss) | OpenAI | 6 months of ChatGPT Pro with Codex, plus API credits |
@@ -103,7 +104,7 @@ Only official program pages are listed.
 | [Stripe Atlas](https://stripe.com/atlas) | Stripe | Company formation and partner perks |
 | [Temporal Cloud for Startups](https://temporal.io/startup) | Temporal | $6,000 Temporal Cloud credits (funded startups, $30M or less raised) |
 | [Vercel Startups](https://vercel.com/startups) | Vercel | Hosting credits |
-| [Y Combinator](https://www.ycombinator.com) | Y Combinator | Funding (up to $500,000) |
+| [Y Combinator](https://www.ycombinator.com/apply) | Y Combinator | Selective accelerator with funding and partner credits |
 | [ZAI Startups](https://startup.z.ai/) | Z.AI | Free API credits for Z.AI models |
 
 ---
@@ -130,7 +131,6 @@ Only official program pages are listed.
 | [Devin Ambassadors](https://devin.ai/community) | Cognition (Devin) | Community benefits |
 | [Kimi Ambassadors](https://www.kimi.ai/lp/kimi-ambassador) | Kimi | Credits and early access |
 | [Mistral AI Ambassadors](https://docs.mistral.ai/community/ambassadors) | Mistral | Studio API credits, early access |
-| [OpenAI Codex Ambassadors](https://developers.openai.com/community/codex-ambassadors) | OpenAI | Credits and support (applications currently paused) |
 | [Qwen Ambassadors](https://qwen.ai/ambassador) | Alibaba Qwen | API credits ($50–$100/month) |
 
 ---

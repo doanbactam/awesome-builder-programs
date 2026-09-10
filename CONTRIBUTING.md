@@ -11,6 +11,7 @@ This repository lists programs that provide **credits, grants, or tools** for st
 3. Add it in the correct section
 4. Keep entries **alphabetically sorted** by program name
 5. Follow the table format
+6. Confirm the link and benefit description immediately before opening the pull request
 
 Example:
 
@@ -24,6 +25,7 @@ Example:
 - No affiliate or referral links
 - Keep descriptions short
 - Do not add expired programs
+- Do not add programs whose applications are paused unless they are clearly marked in a dedicated paused-programs section
 - Note geographic or school eligibility limits when they apply
 
 ## Pull requests

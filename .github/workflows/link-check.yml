@@ -1,0 +1,22 @@
+name: Check links
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check Markdown links
+        uses: lycheeverse/lychee-action@v2.0.2
+        with:
+          args: --verbose --no-progress './**/*.md'
+          fail: true
