@@ -187,28 +187,38 @@
       ],
       "benefits": [
         {
-          "type": "unspecified",
-          "label": "Public offer terms not re-confirmed; official link redirects to Google Accounts sign-in"
+          "type": "subscription",
+          "label": "Discounted Google AI Pro while enrolled; eligible regions may receive a 12-month Google AI Plus student trial",
+          "duration": "Up to 4 consecutive years while eligible"
         }
       ],
       "eligibility": {
-        "stages": [],
-        "regions": [],
-        "requirements": []
+        "stages": [
+          "student"
+        ],
+        "regions": [
+          "eligible supported countries"
+        ],
+        "requirements": [
+          "Be enrolled at a higher-education institution",
+          "Verify student status through SheerID with a valid school email",
+          "Use a personal Google Account and qualifying payment method"
+        ]
       },
-      "status": "needs_review",
-      "application_state": "unknown",
+      "status": "active",
+      "application_state": "open",
       "deadline": null,
       "application_url": "https://one.google.com/ai-student",
-      "official_url": "https://one.google.com/ai-student",
+      "official_url": "https://support.google.com/googleone/answer/17422238?hl=en",
       "source_urls": [
+        "https://support.google.com/googleone/answer/17422238?hl=en",
         "https://one.google.com/ai-student"
       ],
-      "separate_application": null,
-      "referral_only": null,
+      "separate_application": false,
+      "referral_only": false,
       "last_verified_at": "2026-09-10",
-      "verification_method": "manual_review",
-      "verification_notes": "Official link checked 2026-09-10 but redirects to Google Accounts sign-in; public benefit, eligibility, and current claim window could not be independently verified."
+      "verification_method": "official_page",
+      "verification_notes": "Official Google support article checked 2026-09-10: eligible students can claim Google AI Pro while enrolled for up to four consecutive years; eligible countries may receive a 12-month Google AI Plus trial. SheerID verification, a personal Google Account, and a qualifying payment method are required; the exact offer varies by country."
     },
     {
       "slug": "google-summer-of-code",
@@ -223,32 +233,43 @@
       "benefits": [
         {
           "type": "stipend",
-          "label": "Mentored open-source contribution program; stipend and dates vary by annual cycle"
+          "label": "PPP-adjusted stipend for an 8–22 week mentored open-source project",
+          "value": "$750–$6,600",
+          "currency": "USD (PPP-adjusted)",
+          "duration": "8–22 weeks"
         }
       ],
       "eligibility": {
         "stages": [
           "student",
-          "early-career"
+          "beginner"
         ],
-        "regions": [],
+        "regions": [
+          "global"
+        ],
         "requirements": [
-          "Apply to a listed open-source organization during the annual cycle"
+          "Be at least 18 at registration",
+          "Be a student or open-source beginner",
+          "Be eligible to work in the country of residence",
+          "Submit a proposal through the GSoC site"
         ]
       },
-      "status": "needs_review",
-      "application_state": "unknown",
-      "deadline": null,
+      "status": "paused",
+      "application_state": "closed",
+      "deadline": "2026-03-31",
       "application_url": "https://summerofcode.withgoogle.com/",
-      "official_url": "https://summerofcode.withgoogle.com/",
+      "official_url": "https://developers.google.com/open-source/gsoc/timeline",
       "source_urls": [
+        "https://developers.google.com/open-source/gsoc/timeline",
+        "https://developers.google.com/open-source/gsoc/help/student-stipends",
+        "https://developers.google.com/open-source/gsoc/faq",
         "https://summerofcode.withgoogle.com/"
       ],
-      "separate_application": null,
-      "referral_only": null,
+      "separate_application": false,
+      "referral_only": false,
       "last_verified_at": "2026-09-10",
       "verification_method": "official_page",
-      "verification_notes": "Official homepage checked 2026-09-10: program and how-to-apply materials are present, but no current 2026 application dates or stipend terms were exposed in the public page snapshot."
+      "verification_notes": "Official 2026 timeline, stipend, and FAQ pages checked 2026-09-10: contributor applications ran March 16–31, 2026; stipends are PPP-adjusted and range from $750 to $6,600. The 2026 contributor window is closed, so this record is paused until the next annual cycle."
     },
     {
       "slug": "jetbrains-student-pack",
@@ -262,30 +283,37 @@
       ],
       "benefits": [
         {
-          "type": "unspecified",
-          "label": "Student Pack terms not re-confirmed on the public page snapshot"
+          "type": "software",
+          "label": "Free JetBrains professional IDEs for verified students",
+          "duration": "While eligible"
         }
       ],
       "eligibility": {
         "stages": [
           "student"
         ],
-        "regions": [],
-        "requirements": []
+        "regions": [
+          "global"
+        ],
+        "requirements": [
+          "Use a school email, student ID, ISIC card, or another official student document"
+        ]
       },
-      "status": "needs_review",
-      "application_state": "unknown",
+      "status": "active",
+      "application_state": "open",
       "deadline": null,
-      "application_url": "https://www.jetbrains.com/academy/student-pack/",
-      "official_url": "https://www.jetbrains.com/academy/student-pack/",
+      "application_url": "https://www.jetbrains.com/shop/eform/students",
+      "official_url": "https://www.jetbrains.com/education/",
       "source_urls": [
-        "https://www.jetbrains.com/academy/student-pack/"
+        "https://www.jetbrains.com/education/",
+        "https://www.jetbrains.com/academy/student-pack/",
+        "https://www.jetbrains.com/shop/eform/students"
       ],
-      "separate_application": null,
-      "referral_only": null,
+      "separate_application": true,
+      "referral_only": false,
       "last_verified_at": "2026-09-10",
-      "verification_method": "manual_review",
-      "verification_notes": "Official URL checked 2026-09-10 but returned no readable program terms; current student-pack availability requires manual review."
+      "verification_method": "official_page",
+      "verification_notes": "Official JetBrains Education page checked 2026-09-10: professional IDEs are free for students with a school email, student ID, ISIC card, or another official document; its Apply now link reaches the student application form."
     },
     {
       "slug": "kiro-for-students",
@@ -342,8 +370,9 @@
       ],
       "benefits": [
         {
-          "type": "unspecified",
-          "label": "Mentorship terms and stipend not re-confirmed on the public page snapshot"
+          "type": "stipend",
+          "label": "Open-source mentorship with a stipend; amount varies by program and region",
+          "duration": "Cohort"
         }
       ],
       "eligibility": {
@@ -351,22 +380,30 @@
           "student",
           "early-career"
         ],
-        "regions": [],
-        "requirements": []
+        "regions": [
+          "varies by cohort"
+        ],
+        "requirements": [
+          "Create a mentee profile on the LFX Mentorship platform",
+          "Apply to an available Linux Foundation mentorship program",
+          "Check each cohort for its specific eligibility and dates"
+        ]
       },
-      "status": "needs_review",
-      "application_state": "unknown",
+      "status": "active",
+      "application_state": "rolling",
       "deadline": null,
-      "application_url": "https://mentorship.lfx.linuxfoundation.org/",
-      "official_url": "https://mentorship.lfx.linuxfoundation.org/",
+      "application_url": "https://mentorship.lfx.dev/",
+      "official_url": "https://lfx.linuxfoundation.org/tools/mentorship/",
       "source_urls": [
-        "https://mentorship.lfx.linuxfoundation.org/"
+        "https://lfx.linuxfoundation.org/tools/mentorship/",
+        "https://docs.linuxfoundation.org/lfx/mentorship",
+        "https://mentorship.lfx.dev/"
       ],
-      "separate_application": null,
-      "referral_only": null,
+      "separate_application": true,
+      "referral_only": false,
       "last_verified_at": "2026-09-10",
-      "verification_method": "manual_review",
-      "verification_notes": "Official URL checked 2026-09-10 but no readable public content was returned; current mentorship rounds and stipends require manual review."
+      "verification_method": "official_page",
+      "verification_notes": "Official Linux Foundation Mentorship page and documentation checked 2026-09-10: the platform is live, mentees create a profile and apply to available programs, and the program advertises stipends; cohort availability and terms vary by program."
     },
     {
       "slug": "manus-campus-for-students",
@@ -726,44 +763,6 @@
       "last_verified_at": "2026-09-10",
       "verification_method": "official_page",
       "verification_notes": "Official Zed Education page checked 2026-09-10: accredited university students worldwide can verify enrollment; one-year Student Plan includes Pro features and $10/month in AI token credits."
-    },
-    {
-      "slug": "atlas-cloud-for-open-source",
-      "name": "Atlas Cloud for Open Source",
-      "provider": "Atlas Cloud",
-      "categories": [
-        "open_source"
-      ],
-      "program_type": [
-        "open_source_program"
-      ],
-      "benefits": [
-        {
-          "type": "unspecified",
-          "label": "OSS program offer not re-confirmed; official URL redirects to the Atlas Cloud homepage"
-        }
-      ],
-      "eligibility": {
-        "stages": [
-          "maintainer",
-          "contributor"
-        ],
-        "regions": [],
-        "requirements": []
-      },
-      "status": "needs_review",
-      "application_state": "unknown",
-      "deadline": null,
-      "application_url": "https://www.atlascloud.ai/oss-program",
-      "official_url": "https://www.atlascloud.ai/oss-program",
-      "source_urls": [
-        "https://www.atlascloud.ai/oss-program"
-      ],
-      "separate_application": null,
-      "referral_only": null,
-      "last_verified_at": "2026-09-10",
-      "verification_method": "manual_review",
-      "verification_notes": "Official OSS URL checked 2026-09-10 and redirected to the general Atlas Cloud homepage; the claimed OSS credit amount and application flow could not be independently verified."
     },
     {
       "slug": "capy-ai-oss",
@@ -1870,30 +1869,39 @@
       ],
       "benefits": [
         {
-          "type": "unspecified",
-          "label": "Startup offer could not be re-confirmed; public URL returned only an embedded form shell"
+          "type": "software",
+          "label": "Mixpanel Startup Plan free for 12 months, up to 1B events per year",
+          "duration": "12 months"
         }
       ],
       "eligibility": {
         "stages": [
           "startup"
         ],
-        "regions": [],
-        "requirements": []
+        "regions": [
+          "global"
+        ],
+        "requirements": [
+          "Be incorporated less than five years ago",
+          "Have raised no more than $8M total",
+          "Have no previous Mixpanel exclusive offer or paid plan",
+          "Begin sending data within 90 days of acceptance"
+        ]
       },
-      "status": "needs_review",
-      "application_state": "unknown",
+      "status": "active",
+      "application_state": "open",
       "deadline": null,
       "application_url": "https://mixpanel.com/startups-apply/",
-      "official_url": "https://mixpanel.com/startups-apply/",
+      "official_url": "https://docs.mixpanel.com/docs/pricing/startup-program",
       "source_urls": [
+        "https://docs.mixpanel.com/docs/pricing/startup-program",
         "https://mixpanel.com/startups-apply/"
       ],
-      "separate_application": null,
-      "referral_only": null,
+      "separate_application": true,
+      "referral_only": false,
       "last_verified_at": "2026-09-10",
-      "verification_method": "manual_review",
-      "verification_notes": "Official URL checked 2026-09-10 but the page exposed only an iframe shell with no readable offer terms; current Mixpanel startup benefit requires manual review."
+      "verification_method": "official_page",
+      "verification_notes": "Official Mixpanel Startup Program documentation checked 2026-09-10: the first year is free on the Startup Plan for startups incorporated under five years, with no more than $8M raised and no prior exclusive offer or paid plan; accepted companies must send data within 90 days. The application flow is open."
     },
     {
       "slug": "modal",
@@ -2150,43 +2158,6 @@
       "verification_notes": "Official OVHcloud Startup Program page checked 2026-09-10: it advertises up to €100k in free cloud credit, engineering consultation, and a live Apply flow."
     },
     {
-      "slug": "planetscale-for-startups",
-      "name": "PlanetScale for Startups",
-      "provider": "PlanetScale",
-      "categories": [
-        "startups"
-      ],
-      "program_type": [
-        "startup_program"
-      ],
-      "benefits": [
-        {
-          "type": "unspecified",
-          "label": "Startup-specific credit offer not re-confirmed; page currently describes paid database plans and free sign-up"
-        }
-      ],
-      "eligibility": {
-        "stages": [
-          "startup"
-        ],
-        "regions": [],
-        "requirements": []
-      },
-      "status": "needs_review",
-      "application_state": "unknown",
-      "deadline": null,
-      "application_url": "https://planetscale.com/startups",
-      "official_url": "https://planetscale.com/startups",
-      "source_urls": [
-        "https://planetscale.com/startups"
-      ],
-      "separate_application": null,
-      "referral_only": null,
-      "last_verified_at": "2026-09-10",
-      "verification_method": "official_page",
-      "verification_notes": "Official PlanetScale page checked 2026-09-10: startup landing page is live, but no startup credit amount or dedicated offer was publicly stated; only free sign-up and paid pricing were visible."
-    },
-    {
       "slug": "posthog-for-startups",
       "name": "PostHog for Startups",
       "provider": "PostHog",
@@ -2335,30 +2306,48 @@
       ],
       "benefits": [
         {
-          "type": "unspecified",
-          "label": "Startup offer could not be re-confirmed; official URL rendered only a terminal shell"
+          "type": "credits",
+          "label": "Sentry credits",
+          "value": 5000,
+          "currency": "USD",
+          "duration": "12 months"
+        },
+        {
+          "type": "support",
+          "label": "Priority support"
+        },
+        {
+          "type": "swag",
+          "label": "Sentry swag"
         }
       ],
       "eligibility": {
         "stages": [
           "startup"
         ],
-        "regions": [],
-        "requirements": []
+        "regions": [
+          "global"
+        ],
+        "requirements": [
+          "Be founded within the last two years",
+          "Have raised less than $5M in venture capital",
+          "Be new to paying for Sentry"
+        ]
       },
-      "status": "needs_review",
-      "application_state": "unknown",
+      "status": "active",
+      "application_state": "open",
       "deadline": null,
-      "application_url": "https://sentry.io/for/startups/",
+      "application_url": "https://sentry.io/for/startups/apply/",
       "official_url": "https://sentry.io/for/startups/",
       "source_urls": [
-        "https://sentry.io/for/startups/"
+        "https://sentry.io/for/startups/",
+        "https://sentry.io/for/startups/apply/"
       ],
-      "separate_application": null,
-      "referral_only": null,
+      "separate_application": true,
+      "referral_only": false,
       "last_verified_at": "2026-09-10",
       "verification_method": "manual_review",
-      "verification_notes": "Official URL checked 2026-09-10 but rendered only a terminal shell with no readable program terms; current Sentry offer requires manual review."
+      "verification_notes": "Official Sentry for Startups page and application form checked live 2026-09-10: the program offers up to $5,000 in credits expiring after 12 months, priority support, and swag. Eligibility is a company founded within two years, less than $5M in venture capital, and new to paying for Sentry."
     },
     {
       "slug": "stripe-atlas",
@@ -2543,30 +2532,36 @@
       ],
       "benefits": [
         {
-          "type": "unspecified",
-          "label": "Startup API-credit offer could not be re-confirmed; official URL returned an internal error"
+          "type": "credits",
+          "label": "Free Z.ai API credits up to 1B tokens, plus priority support, early API access, and startup community access",
+          "value": "Up to 1B tokens"
         }
       ],
       "eligibility": {
         "stages": [
           "startup"
         ],
-        "regions": [],
-        "requirements": []
+        "regions": [
+          "global"
+        ],
+        "requirements": [
+          "Submit startup details and vision through the Z.ai application form",
+          "Receive approval from the Z.ai Startups team"
+        ]
       },
-      "status": "needs_review",
-      "application_state": "unknown",
+      "status": "active",
+      "application_state": "open",
       "deadline": null,
-      "application_url": "https://startup.z.ai/",
+      "application_url": "https://startup.z.ai/#apply",
       "official_url": "https://startup.z.ai/",
       "source_urls": [
         "https://startup.z.ai/"
       ],
-      "separate_application": null,
-      "referral_only": null,
+      "separate_application": true,
+      "referral_only": false,
       "last_verified_at": "2026-09-10",
       "verification_method": "manual_review",
-      "verification_notes": "Official URL checked 2026-09-10 but returned an internal error with no readable program terms; current Z.AI startup offer requires manual review."
+      "verification_notes": "Official Z.ai Startups page checked live 2026-09-10: it advertises up to 1B free API-token credits, priority support, an exclusive founder community, early API access, and an application reviewed by Z.ai. No fixed deadline is shown."
     },
     {
       "slug": "anthropic-startup-program",
@@ -2610,43 +2605,6 @@
       "last_verified_at": "2026-09-10",
       "verification_method": "official_page",
       "verification_notes": "Official Claude for Startups page checked 2026-09-10: application is open; credits/extras require institutional equity funding, a company founded within four years, and no prior Anthropic startup credits."
-    },
-    {
-      "slug": "hugging-face-startups",
-      "name": "Hugging Face Startups",
-      "provider": "Hugging Face",
-      "categories": [
-        "ai_developer_credits"
-      ],
-      "program_type": [
-        "developer_credits"
-      ],
-      "benefits": [
-        {
-          "type": "unspecified",
-          "label": "Startup program could not be re-confirmed; official URL resolves to a Hugging Face community profile without public offer terms"
-        }
-      ],
-      "eligibility": {
-        "stages": [
-          "startup"
-        ],
-        "regions": [],
-        "requirements": []
-      },
-      "status": "needs_review",
-      "application_state": "unknown",
-      "deadline": null,
-      "application_url": "https://huggingface.co/startups",
-      "official_url": "https://huggingface.co/startups",
-      "source_urls": [
-        "https://huggingface.co/startups"
-      ],
-      "separate_application": null,
-      "referral_only": null,
-      "last_verified_at": "2026-09-10",
-      "verification_method": "manual_review",
-      "verification_notes": "Official URL checked 2026-09-10 but resolves to a public Hugging Face profile named startupsdao with no startup-program benefits or application terms; requires manual review."
     },
     {
       "slug": "openai-startup-program",
@@ -2703,7 +2661,7 @@
         {
           "type": "credits",
           "label": "Small research grants of a few hundred dollars for eligible student projects",
-        "value": "few hundred",
+          "value": "few hundred",
           "currency": "USD",
           "duration": "grant"
         }
@@ -3056,8 +3014,15 @@
       ],
       "benefits": [
         {
-          "type": "unspecified",
-          "label": "Ambassador offer could not be re-confirmed; official URL returned no readable public content"
+          "type": "credits",
+          "label": "Qwen API credits of $50–$100 per month for active ambassadors",
+          "value": "$50–$100/month",
+          "currency": "USD",
+          "duration": "Monthly while active"
+        },
+        {
+          "type": "community",
+          "label": "Early access to Qwen models, private team chats, community badge, merchandise, and event support"
         }
       ],
       "eligibility": {
@@ -3065,22 +3030,29 @@
           "developer",
           "community_builder"
         ],
-        "regions": [],
-        "requirements": []
+        "regions": [
+          "global"
+        ],
+        "requirements": [
+          "Apply as a Dev Ambassador or Event Ambassador",
+          "Dev Ambassadors publish at least four Qwen-related outputs per month for $100 monthly credits",
+          "Event Ambassadors run at least one event and two Qwen-related social posts per month for $100 monthly credits"
+        ]
       },
-      "status": "needs_review",
-      "application_state": "unknown",
+      "status": "active",
+      "application_state": "open",
       "deadline": null,
-      "application_url": "https://qwen.ai/ambassador",
+      "application_url": "https://alidocs.dingtalk.com/notable/share/form/v01J9LnW6jR1E0aalvD_dv19yqvsgs3oebp3pcjys_1qX0QQ0?source=link",
       "official_url": "https://qwen.ai/ambassador",
       "source_urls": [
-        "https://qwen.ai/ambassador"
+        "https://qwen.ai/ambassador",
+        "https://alidocs.dingtalk.com/notable/share/form/v01J9LnW6jR1E0aalvD_dv19yqvsgs3oebp3pcjys_1qX0QQ0?source=link"
       ],
-      "separate_application": null,
-      "referral_only": null,
+      "separate_application": true,
+      "referral_only": false,
       "last_verified_at": "2026-09-10",
       "verification_method": "manual_review",
-      "verification_notes": "Official URL checked 2026-09-10 but returned no readable public content; current Qwen ambassador benefits and application status require manual review."
+      "verification_notes": "Official Qwen Ambassador page checked live 2026-09-10: Dev and Event Ambassador roles, an application form, $50–$100 monthly API credits, early model access, private community access, merchandise, and event support are listed. The page states that $100 monthly credits require the role-specific contribution thresholds."
     }
   ]
 }
