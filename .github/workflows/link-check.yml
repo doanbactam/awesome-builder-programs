@@ -1,0 +1,31 @@
+name: Check links
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check Markdown links
+        uses: lycheeverse/lychee-action@v2.0.2
+        with:
+          # These official pages reject or rate-limit automated requests.
+          args: >-
+            --verbose
+            --no-progress
+            --exclude 'https://chatgpt.com/codex/students'
+            --exclude 'https://openai.com/startups'
+            --exclude 'https://openai.com/student-collective/'
+            --exclude 'https://devin.ai/community'
+            --exclude 'https://devin.ai/startups'
+            './**/*.md'
+          fail: true
