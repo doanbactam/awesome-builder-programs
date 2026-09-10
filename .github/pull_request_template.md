@@ -17,7 +17,7 @@ Last verified:
 - [ ] The record is in data/programs.json
 - [ ] Official source and application URL are included
 - [ ] Benefit and eligibility are supported by the source
-- [ ] needs_review is used until current availability is manually confirmed
+- [ ] Current benefit, eligibility, and status were manually verified; unverified candidates are not included
 - [ ] Active records include last_verified_at, verification_method, and verification_notes
 - [ ] node scripts/validate-programs.mjs passes
 - [ ] node scripts/generate-readme.mjs was run
