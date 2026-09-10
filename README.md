@@ -39,11 +39,7 @@ The canonical structured dataset is [data/programs.json](data/programs.json).
 | [Figma for Education](https://www.figma.com/education/) | Figma | Figma and FigJam are free for students and teachers after education verification | Active | 2026-09-10 |
 | [GitHub Student Developer Pack](https://education.github.com/pack) | GitHub | GitHub Student Developer Pack with partner tools, including GitHub Copilot Student | Active | 2026-09-10 |
 | [GitLab for Education](https://about.gitlab.com/solutions/education/) | GitLab | GitLab for Education platform for students, faculty, and educational institutions | Active | 2026-09-10 |
-| [Google AI Pro for Students](https://one.google.com/ai-student) | Google | Public offer terms not re-confirmed; official link redirects to Google Accounts sign-in | Needs review | 2026-09-10 |
-| [Google Summer of Code](https://summerofcode.withgoogle.com/) | Google | Mentored open-source contribution program; stipend and dates vary by annual cycle | Needs review | 2026-09-10 |
-| [JetBrains Student Pack](https://www.jetbrains.com/academy/student-pack/) | JetBrains | Student Pack terms not re-confirmed on the public page snapshot | Needs review | 2026-09-10 |
 | [Kiro for Students](https://kiro.dev/students/) | Kiro (AWS) | 1,000 Kiro credits per month free for one year | Active | 2026-09-10 |
-| [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/) | Linux Foundation | Mentorship terms and stipend not re-confirmed on the public page snapshot | Needs review | 2026-09-10 |
 | [Manus Campus for Students](https://manus.im/edu) | Manus | Manus campus access after edu-email verification plus 1,000 credits per invited student | Active | 2026-09-10 |
 | [Microsoft Azure for Students](https://azure.microsoft.com/en-us/free/students/) | Microsoft | $100 Azure credit plus free monthly amounts for 20+ services for 12 months | Active | 2026-09-10 |
 | [MLH Fellowship](https://fellowship.mlh.com/) | Major League Hacking | 12-week remote open-source fellowship with an educational stipend | Active | 2026-09-10 |
@@ -59,7 +55,6 @@ The canonical structured dataset is [data/programs.json](data/programs.json).
 
 | Program | Provider | Benefit | Status | Verified |
 |---|---|---|---|---|
-| [Atlas Cloud for Open Source](https://www.atlascloud.ai/oss-program) | Atlas Cloud | OSS program offer not re-confirmed; official URL redirects to the Atlas Cloud homepage | Needs review | 2026-09-10 |
 | [Capy AI OSS](https://capy.ai/open-source) | Capy AI | Full Capy platform access free while the project remains open source | Active | 2026-09-10 |
 | [Catalyst](https://opencoreventures.com/catalyst/) | Open Core Ventures | $10,000 sponsorship plus funding and mentorship for an open-source project | Active | 2026-09-10 |
 | [Claude for Open Source](https://claude.com/contact-sales/claude-for-oss) | Anthropic | Six months of free Claude Max 20x | Active | 2026-09-10 |
@@ -92,23 +87,19 @@ The canonical structured dataset is [data/programs.json](data/programs.json).
 | [Kiro for Startups](https://kiro.dev/startups/) | Kiro (AWS) | Up to one year of Kiro Pro+ credits for early-stage to Series A startups | Active | 2026-09-10 |
 | [Microsoft for Startups](https://www.microsoft.com/startups) | Microsoft | Free Azure credits plus AI tools, expert guidance, and startup resources | Active | 2026-09-10 |
 | [Miro for Startups](https://miro.com/startups/) | Miro | Free Miro credits for early startups; up to 25% discount for scale-ups | Active | 2026-09-10 |
-| [Mixpanel](https://mixpanel.com/startups-apply/) | Mixpanel | Startup offer could not be re-confirmed; public URL returned only an embedded form shell | Needs review | 2026-09-10 |
 | [Modal](https://modal.com/startups) | Modal | Thousands of free GPU credits plus technical and go-to-market support | Active | 2026-09-10 |
 | [MongoDB for Startups](https://www.mongodb.com/solutions/startups) | MongoDB | MongoDB Atlas credits, Voyage AI tokens, technical expertise, and support | Active | 2026-09-10 |
 | [Nebius for Startups](https://nebius.com/startups) | Nebius | Nebius startup credits and compute discounts; credit access currently through VC partners | Paused | 2026-09-10 |
 | [Notion for Startups](https://www.notion.com/startups) | Notion | Notion Business with Notion AI free for 3 or 6 months depending on eligibility | Active | 2026-09-10 |
 | [NVIDIA Inception](https://www.nvidia.com/en-us/startups/) | NVIDIA | Free NVIDIA Inception membership with partner cloud credits, training, preferred pricing, and resources | Active | 2026-09-10 |
 | [OVHcloud Startup Program](https://startup.ovhcloud.com/) | OVHcloud | Up to €100,000 in free OVHcloud credits plus one-on-one engineering consultation | Active | 2026-09-10 |
-| [PlanetScale for Startups](https://planetscale.com/startups) | PlanetScale | Startup-specific credit offer not re-confirmed; page currently describes paid database plans and free sign-up | Needs review | 2026-09-10 |
 | [PostHog for Startups](https://posthog.com/startups) | PostHog | $50,000 in PostHog credits plus $12,000 in partner benefits for 12 months | Active | 2026-09-10 |
 | [Render](https://render.com/startups) | Render | Up to $10,000 in Render migration credits | Active | 2026-09-10 |
 | [Retool for Startups](https://retool.com/startups) | Retool | 100% off Retool Team or Business for one year, up to $60,000 value, then 25% off year two | Active | 2026-09-10 |
-| [Sentry for Startups](https://sentry.io/for/startups/) | Sentry | Startup offer could not be re-confirmed; official URL rendered only a terminal shell | Needs review | 2026-09-10 |
 | [Stripe Atlas](https://stripe.com/atlas) | Stripe | $2,500 Stripe product credits plus $50,000+ in partner discounts for Atlas companies | Active | 2026-09-10 |
 | [Temporal Cloud for Startups](https://temporal.io/startup) | Temporal | $6,000 in Temporal Cloud credits for funded startups | Active | 2026-09-10 |
 | [Vercel Startups](https://vercel.com/startups) | Vercel | Up to $30,000 Flexible Commitment Amount plus Enterprise-tier access and support | Active | 2026-09-10 |
 | [Y Combinator](https://www.ycombinator.com/apply) | Y Combinator | Selective accelerator application with funding and partner benefits | Active | 2026-09-10 |
-| [ZAI Startups](https://startup.z.ai/) | Z.AI | Startup API-credit offer could not be re-confirmed; official URL returned an internal error | Needs review | 2026-09-10 |
 
 ---
 
@@ -117,7 +108,6 @@ The canonical structured dataset is [data/programs.json](data/programs.json).
 | Program | Provider | Benefit | Status | Verified |
 |---|---|---|---|---|
 | [Anthropic Startup Program](https://claude.com/programs/startups) | Anthropic | Claude API credits and priority rate limits for qualifying startups | Active | 2026-09-10 |
-| [Hugging Face Startups](https://huggingface.co/startups) | Hugging Face | Startup program could not be re-confirmed; official URL resolves to a Hugging Face community profile without public offer terms | Needs review | 2026-09-10 |
 | [OpenAI Startup Program](https://openai.com/startups) | OpenAI | OpenAI API credits, rate-limit upgrades, technical support, and startup events for eligible VC portfolios | Active | 2026-09-10 |
 | [Together AI Research Credits Program](https://www.together.ai/research-credits-program-request) | Together AI | Small research grants of a few hundred dollars for eligible student projects | Active | 2026-09-10 |
 | [Together AI Startup Accelerator](https://www.together.ai/startup-accelerator) | Together AI | Up to $15k/$30k/$50k in platform credits by funding tier plus engineering time | Active | 2026-09-10 |
@@ -134,7 +124,6 @@ The canonical structured dataset is [data/programs.json](data/programs.json).
 | [Devin Ambassadors](https://devin.ai/community) | Cognition (Devin) | Devin Ambassador role with community events, content, and feedback opportunities | Active | 2026-09-10 |
 | [Kimi Ambassadors](https://www.kimi.ai/lp/kimi-ambassador) | Kimi | Exclusive ambassador resources, early product access, direct Kimi-team contact, and recognition | Active | 2026-09-10 |
 | [Mistral AI Ambassadors](https://docs.mistral.ai/community/ambassadors) | Mistral | Mistral AI ambassador community, content/events participation, product feedback, and community support | Active | 2026-09-10 |
-| [Qwen Ambassadors](https://qwen.ai/ambassador) | Alibaba Qwen | Ambassador offer could not be re-confirmed; official URL returned no readable public content | Needs review | 2026-09-10 |
 
 ---
 
