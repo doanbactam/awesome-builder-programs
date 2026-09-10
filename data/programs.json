@@ -1,0 +1,3058 @@
+{
+  "$schema": "./programs.schema.json",
+  "schema_version": 1,
+  "programs": [
+    {
+      "slug": "codex-for-students",
+      "name": "Codex for Students",
+      "provider": "OpenAI",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "$100 Codex credits for verified university students in the US and Canada",
+          "value": 100,
+          "currency": "USD",
+          "duration": "12 months"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "student"
+        ],
+        "regions": [
+          "US",
+          "Canada"
+        ],
+        "requirements": [
+          "Currently enrolled at a degree-granting university",
+          "Reside in the US or Canada",
+          "Verify student status with SheerID",
+          "One offer per student"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://chatgpt.com/codex/students",
+      "official_url": "https://chatgpt.com/codex/students",
+      "source_urls": [
+        "https://chatgpt.com/codex/students"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official page checked 2026-09-10: claim flow is available; offer is for verified current degree students in the US/Canada, one offer per student, and credits expire 12 months after grant."
+    },
+    {
+      "slug": "figma-for-education",
+      "name": "Figma for Education",
+      "provider": "Figma",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "software_access",
+          "label": "Figma and FigJam are free for students and teachers after education verification"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "student",
+          "educator"
+        ],
+        "regions": [],
+        "requirements": [
+          "Use a student or teacher email to sign up",
+          "Verify student or educator status",
+          "Create or join an education team"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://www.figma.com/education/",
+      "official_url": "https://www.figma.com/education/",
+      "source_urls": [
+        "https://www.figma.com/education/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official page checked 2026-09-10: Figma says Figma and FigJam are free for students/teachers and provides sign-up and education-verification steps."
+    },
+    {
+      "slug": "github-student-developer-pack",
+      "name": "GitHub Student Developer Pack",
+      "provider": "GitHub",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "bundle",
+          "label": "GitHub Student Developer Pack with partner tools, including GitHub Copilot Student"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "student"
+        ],
+        "regions": [],
+        "requirements": [
+          "Verify student status with GitHub Education"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://education.github.com/pack",
+      "official_url": "https://education.github.com/pack",
+      "source_urls": [
+        "https://education.github.com/pack"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official GitHub Education page checked 2026-09-10: Student Developer Pack has a sign-up link and lists offers for verified students, including GitHub Copilot Student."
+    },
+    {
+      "slug": "gitlab-for-education",
+      "name": "GitLab for Education",
+      "provider": "GitLab",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "software_access",
+          "label": "GitLab for Education platform for students, faculty, and educational institutions"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "student",
+          "educator",
+          "institution"
+        ],
+        "regions": [
+          "65 countries (official page)"
+        ],
+        "requirements": [
+          "Use an eligible educational institution, administrator, or educator pathway",
+          "Confirm plan entitlements with GitLab Education"
+        ]
+      },
+      "status": "active",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://about.gitlab.com/solutions/education/",
+      "official_url": "https://about.gitlab.com/solutions/education/",
+      "source_urls": [
+        "https://about.gitlab.com/solutions/education/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official education page checked 2026-09-10: program lists 1,000+ institutions in 65 countries and student, faculty, administrator, and IT pathways; exact plan entitlements vary by institution."
+    },
+    {
+      "slug": "google-ai-pro-for-students",
+      "name": "Google AI Pro for Students",
+      "provider": "Google",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "subscription",
+          "label": "Discounted Google AI Pro while enrolled; eligible regions may receive a 12-month Google AI Plus student trial",
+          "duration": "Up to 4 consecutive years while eligible"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "student"
+        ],
+        "regions": [
+          "eligible supported countries"
+        ],
+        "requirements": [
+          "Be enrolled at a higher-education institution",
+          "Verify student status through SheerID with a valid school email",
+          "Use a personal Google Account and qualifying payment method"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://one.google.com/ai-student",
+      "official_url": "https://support.google.com/googleone/answer/17422238?hl=en",
+      "source_urls": [
+        "https://support.google.com/googleone/answer/17422238?hl=en",
+        "https://one.google.com/ai-student"
+      ],
+      "separate_application": false,
+      "referral_only": false,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Google support article checked 2026-09-10: eligible students can claim Google AI Pro while enrolled for up to four consecutive years; eligible countries may receive a 12-month Google AI Plus trial. SheerID verification, a personal Google Account, and a qualifying payment method are required; the exact offer varies by country."
+    },
+    {
+      "slug": "google-summer-of-code",
+      "name": "Google Summer of Code",
+      "provider": "Google",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "stipend",
+          "label": "PPP-adjusted stipend for an 8–22 week mentored open-source project",
+          "value": "$750–$6,600",
+          "currency": "USD (PPP-adjusted)",
+          "duration": "8–22 weeks"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "student",
+          "beginner"
+        ],
+        "regions": [
+          "global"
+        ],
+        "requirements": [
+          "Be at least 18 at registration",
+          "Be a student or open-source beginner",
+          "Be eligible to work in the country of residence",
+          "Submit a proposal through the GSoC site"
+        ]
+      },
+      "status": "paused",
+      "application_state": "closed",
+      "deadline": "2026-03-31",
+      "application_url": "https://summerofcode.withgoogle.com/",
+      "official_url": "https://developers.google.com/open-source/gsoc/timeline",
+      "source_urls": [
+        "https://developers.google.com/open-source/gsoc/timeline",
+        "https://developers.google.com/open-source/gsoc/help/student-stipends",
+        "https://developers.google.com/open-source/gsoc/faq",
+        "https://summerofcode.withgoogle.com/"
+      ],
+      "separate_application": false,
+      "referral_only": false,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official 2026 timeline, stipend, and FAQ pages checked 2026-09-10: contributor applications ran March 16–31, 2026; stipends are PPP-adjusted and range from $750 to $6,600. The 2026 contributor window is closed, so this record is paused until the next annual cycle."
+    },
+    {
+      "slug": "jetbrains-student-pack",
+      "name": "JetBrains Student Pack",
+      "provider": "JetBrains",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "software",
+          "label": "Free JetBrains professional IDEs for verified students",
+          "duration": "While eligible"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "student"
+        ],
+        "regions": [
+          "global"
+        ],
+        "requirements": [
+          "Use a school email, student ID, ISIC card, or another official student document"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://www.jetbrains.com/shop/eform/students",
+      "official_url": "https://www.jetbrains.com/education/",
+      "source_urls": [
+        "https://www.jetbrains.com/education/",
+        "https://www.jetbrains.com/academy/student-pack/",
+        "https://www.jetbrains.com/shop/eform/students"
+      ],
+      "separate_application": true,
+      "referral_only": false,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official JetBrains Education page checked 2026-09-10: professional IDEs are free for students with a school email, student ID, ISIC card, or another official document; its Apply now link reaches the student application form."
+    },
+    {
+      "slug": "kiro-for-students",
+      "name": "Kiro for Students",
+      "provider": "Kiro (AWS)",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "1,000 Kiro credits per month free for one year",
+          "value": 1000,
+          "duration": "12 months"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "student"
+        ],
+        "regions": [],
+        "requirements": [
+          "Be an eligible university student",
+          "Use a university email address",
+          "Verify through Kiro student flow"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://kiro.dev/students/",
+      "official_url": "https://kiro.dev/students/",
+      "source_urls": [
+        "https://kiro.dev/students/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Kiro Students page checked 2026-09-10: eligible university students receive 1,000 credits/month free for one year; page includes sign-up/verification and an eligible-school list."
+    },
+    {
+      "slug": "lfx-mentorship",
+      "name": "LFX Mentorship",
+      "provider": "Linux Foundation",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "stipend",
+          "label": "Open-source mentorship with a stipend; amount varies by program and region",
+          "duration": "Cohort"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "student",
+          "early-career"
+        ],
+        "regions": [
+          "varies by cohort"
+        ],
+        "requirements": [
+          "Create a mentee profile on the LFX Mentorship platform",
+          "Apply to an available Linux Foundation mentorship program",
+          "Check each cohort for its specific eligibility and dates"
+        ]
+      },
+      "status": "active",
+      "application_state": "rolling",
+      "deadline": null,
+      "application_url": "https://mentorship.lfx.dev/",
+      "official_url": "https://lfx.linuxfoundation.org/tools/mentorship/",
+      "source_urls": [
+        "https://lfx.linuxfoundation.org/tools/mentorship/",
+        "https://docs.linuxfoundation.org/lfx/mentorship",
+        "https://mentorship.lfx.dev/"
+      ],
+      "separate_application": true,
+      "referral_only": false,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Linux Foundation Mentorship page and documentation checked 2026-09-10: the platform is live, mentees create a profile and apply to available programs, and the program advertises stipends; cohort availability and terms vary by program."
+    },
+    {
+      "slug": "manus-campus-for-students",
+      "name": "Manus Campus for Students",
+      "provider": "Manus",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "Manus campus access after edu-email verification plus 1,000 credits per invited student",
+          "value": 1000,
+          "duration": "per referral"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "student",
+          "recent_graduate",
+          "educator"
+        ],
+        "regions": [],
+        "requirements": [
+          "Attend an eligible school",
+          "Verify a university email address",
+          "Use the school eligibility checker"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://manus.im/edu",
+      "official_url": "https://manus.im/edu",
+      "source_urls": [
+        "https://manus.im/edu"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Manus Campus page checked 2026-09-10: a first batch of eligible schools is available; edu-email verification gives access and invite rewards are 1,000 credits per fellow student."
+    },
+    {
+      "slug": "microsoft-azure-for-students",
+      "name": "Microsoft Azure for Students",
+      "provider": "Microsoft",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "$100 Azure credit plus free monthly amounts for 20+ services for 12 months",
+          "value": 100,
+          "currency": "USD",
+          "duration": "12 months"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "student"
+        ],
+        "regions": [],
+        "requirements": [
+          "Be a full-time university student",
+          "Use a school email address",
+          "New Azure customer for the 12-month service amounts",
+          "No credit card required"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://azure.microsoft.com/en-us/free/students/",
+      "official_url": "https://azure.microsoft.com/en-us/free/students/",
+      "source_urls": [
+        "https://azure.microsoft.com/en-us/free/students/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Azure page checked 2026-09-10: full-time university students can start free with a school email; offer includes $100 credit, 12-month service amounts, and annual renewal while enrolled."
+    },
+    {
+      "slug": "mlh-fellowship",
+      "name": "MLH Fellowship",
+      "provider": "Major League Hacking",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "stipend",
+          "label": "12-week remote open-source fellowship with an educational stipend",
+          "value": "varies",
+          "duration": "12 weeks"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "student",
+          "early-career"
+        ],
+        "regions": [],
+        "requirements": [
+          "Apply for an upcoming start date",
+          "Participate remotely in mentor-guided open-source projects"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://fellowship.mlh.com/",
+      "official_url": "https://fellowship.mlh.com/",
+      "source_urls": [
+        "https://fellowship.mlh.com/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official MLH Fellowship page checked 2026-09-10: 12-week remote program, educational stipend, and an Apply Now link for upcoming start dates."
+    },
+    {
+      "slug": "openai-student-collective",
+      "name": "OpenAI Student Collective",
+      "provider": "OpenAI",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "student_program",
+          "label": "Campus Lead program: ChatGPT subscription, Codex credits, event funding, training, merch, and cash stipend"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "student"
+        ],
+        "regions": [
+          "US",
+          "Canada",
+          "UK",
+          "France",
+          "Germany",
+          "India",
+          "Japan",
+          "South Korea"
+        ],
+        "requirements": [
+          "Be 18 or older",
+          "Be enrolled in an undergraduate program as of August 2026",
+          "Expect to graduate after December 2027",
+          "Commit 4–6 hours/week from August 2026 to June 2027",
+          "Have work authorization in the country of study"
+        ]
+      },
+      "status": "paused",
+      "application_state": "closed",
+      "deadline": "2026-08-31",
+      "application_url": "https://openai.com/student-collective/",
+      "official_url": "https://openai.com/student-collective/",
+      "source_urls": [
+        "https://openai.com/student-collective/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official OpenAI Student Collective page checked 2026-09-10: Fall 2026 applications are closed in the US, Canada, and India; applications for Japan, Korea, the UK, Germany, and France closed August 31, 2026. Future-interest submissions remain available."
+    },
+    {
+      "slug": "outreachy",
+      "name": "Outreachy",
+      "provider": "Software Freedom Conservancy",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "stipend",
+          "label": "Paid remote open-source internship; stipend amount varies by cohort and location"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "student",
+          "early-career"
+        ],
+        "regions": [],
+        "requirements": [
+          "Apply during a published Outreachy application window",
+          "Complete the contribution period",
+          "Meet the cohort eligibility requirements"
+        ]
+      },
+      "status": "paused",
+      "application_state": "closed",
+      "deadline": null,
+      "application_url": "https://www.outreachy.org/",
+      "official_url": "https://www.outreachy.org/",
+      "source_urls": [
+        "https://www.outreachy.org/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Outreachy page checked 2026-09-10: May 2026 applications are closed and the December 2026 application window was early-to-mid August; page provides an applicant guide and mailing list for future cycles."
+    },
+    {
+      "slug": "v0-for-students",
+      "name": "v0 for Students",
+      "provider": "Vercel",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "subscription",
+          "label": "One year of free v0 Premium after student verification",
+          "duration": "12 months"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "student"
+        ],
+        "regions": [],
+        "requirements": [
+          "Verify student status with an active school",
+          "Use the student-email join flow",
+          "Attend one of the listed active schools"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://v0.app/students",
+      "official_url": "https://v0.app/students",
+      "source_urls": [
+        "https://v0.app/students"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official v0 Students page checked 2026-09-10: one year of free v0 Premium is offered after student verification and the page lists active qualifying schools with a join button."
+    },
+    {
+      "slug": "yc-ai-student-starter-pack",
+      "name": "YC AI Student Starter Pack",
+      "provider": "Y Combinator",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "Over $25,000 in credits for AI tools and cloud services",
+          "value": 25000,
+          "currency": "USD",
+          "duration": "12 months"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "student"
+        ],
+        "regions": [],
+        "requirements": [
+          "Attend a YC university event starting in Fall 2025",
+          "Use the same Hacker News account used to RSVP",
+          "Sign in to check eligibility"
+        ]
+      },
+      "status": "active",
+      "application_state": "invite_only",
+      "deadline": null,
+      "application_url": "https://deals.ycombinator.com/students",
+      "official_url": "https://deals.ycombinator.com/students",
+      "source_urls": [
+        "https://deals.ycombinator.com/students"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official YC Deals page checked 2026-09-10: YC AI Stack lists $25k+ in credits, event attendance eligibility, one-year access, and an authenticated eligibility check."
+    },
+    {
+      "slug": "zed-student-plan",
+      "name": "Zed Student Plan",
+      "provider": "Zed",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "subscription",
+          "label": "Zed Pro features plus $10/month AI token credits for one year",
+          "value": 10,
+          "currency": "USD",
+          "duration": "12 months"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "student"
+        ],
+        "regions": [
+          "worldwide"
+        ],
+        "requirements": [
+          "Be enrolled at an accredited university",
+          "Verify enrollment",
+          "Use a GitHub account older than 30 days and a current university email"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://zed.dev/education",
+      "official_url": "https://zed.dev/education",
+      "source_urls": [
+        "https://zed.dev/education"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Zed Education page checked 2026-09-10: accredited university students worldwide can verify enrollment; one-year Student Plan includes Pro features and $10/month in AI token credits."
+    },
+    {
+      "slug": "capy-ai-oss",
+      "name": "Capy AI OSS",
+      "provider": "Capy AI",
+      "categories": [
+        "open_source"
+      ],
+      "program_type": [
+        "open_source_program"
+      ],
+      "benefits": [
+        {
+          "type": "software_access",
+          "label": "Full Capy platform access free while the project remains open source"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "maintainer",
+          "contributor"
+        ],
+        "regions": [],
+        "requirements": [
+          "Maintain a public GitHub project with an OSI-approved license",
+          "Have active community development",
+          "Apply as an owner or maintainer"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://capy.ai/open-source",
+      "official_url": "https://capy.ai/open-source",
+      "source_urls": [
+        "https://capy.ai/open-source"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Capy page checked 2026-09-10: applications are open; maintainers get full platform access free while the project remains open source."
+    },
+    {
+      "slug": "catalyst",
+      "name": "Catalyst",
+      "provider": "Open Core Ventures",
+      "categories": [
+        "open_source"
+      ],
+      "program_type": [
+        "open_source_program"
+      ],
+      "benefits": [
+        {
+          "type": "funding",
+          "label": "$10,000 sponsorship plus funding and mentorship for an open-source project",
+          "value": 10000,
+          "currency": "USD",
+          "duration": "program term"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "maintainer",
+          "founder"
+        ],
+        "regions": [
+          "remote"
+        ],
+        "requirements": [
+          "Build an open-source project",
+          "Apply through the Catalyst application",
+          "Participate in weekly OCV office hours"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://opencoreventures.com/catalyst/",
+      "official_url": "https://opencoreventures.com/catalyst/",
+      "source_urls": [
+        "https://opencoreventures.com/catalyst/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Open Core Ventures page checked 2026-09-10: Catalyst offers $10k, mentorship, and a remote program; the page links an application for Summer 2026."
+    },
+    {
+      "slug": "claude-for-open-source",
+      "name": "Claude for Open Source",
+      "provider": "Anthropic",
+      "categories": [
+        "open_source"
+      ],
+      "program_type": [
+        "open_source_program"
+      ],
+      "benefits": [
+        {
+          "type": "subscription",
+          "label": "Six months of free Claude Max 20x"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "maintainer",
+          "contributor"
+        ],
+        "regions": [],
+        "requirements": [
+          "Contribute to an open-source project",
+          "Apply through the Claude for Open Source form"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://claude.com/contact-sales/claude-for-oss",
+      "official_url": "https://claude.com/contact-sales/claude-for-oss",
+      "source_urls": [
+        "https://claude.com/contact-sales/claude-for-oss"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Claude for Open Source page checked 2026-09-10: it explicitly offers six months of free Claude Max 20x to open-source contributors and has an Apply now flow."
+    },
+    {
+      "slug": "github-secure-open-source-fund",
+      "name": "GitHub Secure Open Source Fund",
+      "provider": "GitHub",
+      "categories": [
+        "open_source"
+      ],
+      "program_type": [
+        "open_source_program"
+      ],
+      "benefits": [
+        {
+          "type": "funding",
+          "label": "$10,000 per selected open-source project, paid in program tranches",
+          "value": 10000,
+          "currency": "USD",
+          "duration": "12 months"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "maintainer"
+        ],
+        "regions": [
+          "GitHub Sponsors-supported regions"
+        ],
+        "requirements": [
+          "Be a current open-source maintainer",
+          "Be 18 or older",
+          "Have an active GitHub profile",
+          "Use a clear open-source license",
+          "Have demonstrated community traction",
+          "Not be a GitHub employee"
+        ]
+      },
+      "status": "active",
+      "application_state": "rolling",
+      "deadline": null,
+      "application_url": "https://github.com/open-source/github-secure-open-source-fund",
+      "official_url": "https://github.com/open-source/github-secure-open-source-fund",
+      "source_urls": [
+        "https://github.com/open-source/github-secure-open-source-fund"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official GitHub Secure Open Source Fund page checked 2026-09-10: current maintainers can submit an application; funding is $10k per project and applications are open on a rolling basis."
+    },
+    {
+      "slug": "microsoft-foss-fund",
+      "name": "Microsoft FOSS Fund",
+      "provider": "Microsoft",
+      "categories": [
+        "open_source"
+      ],
+      "program_type": [
+        "open_source_program"
+      ],
+      "benefits": [
+        {
+          "type": "sponsorship",
+          "label": "Sponsorship rounds for open-source projects selected through Microsoft employee and intern nominations"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "maintainer"
+        ],
+        "regions": [],
+        "requirements": [
+          "Be nominated by a Microsoft employee or intern",
+          "Have an open-source project"
+        ]
+      },
+      "status": "active",
+      "application_state": "invite_only",
+      "deadline": null,
+      "application_url": "https://github.com/microsoft/foss-fund",
+      "official_url": "https://github.com/microsoft/foss-fund",
+      "source_urls": [
+        "https://github.com/microsoft/foss-fund"
+      ],
+      "separate_application": null,
+      "referral_only": true,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Microsoft FOSS Fund repository checked 2026-09-10: the fund sponsors projects selected by Microsoft employees; nomination is open to Microsoft employees and interns, not a public self-serve application."
+    },
+    {
+      "slug": "ona-for-open-source",
+      "name": "Ona for Open Source",
+      "provider": "Ona",
+      "categories": [
+        "open_source"
+      ],
+      "program_type": [
+        "open_source_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "Up to $200/month in free AI credits for open-source maintainers and contributors",
+          "value": 200,
+          "currency": "USD",
+          "duration": "monthly"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "maintainer",
+          "contributor"
+        ],
+        "regions": [],
+        "requirements": [
+          "Maintain or contribute to an open-source project",
+          "Apply through the program form"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://ona.com/stories/ona-for-open-source",
+      "official_url": "https://ona.com/stories/ona-for-open-source",
+      "source_urls": [
+        "https://ona.com/stories/ona-for-open-source"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Ona page checked 2026-09-10: the relaunched program offers up to $200/month in free AI credits and links an application for maintainers and contributors."
+    },
+    {
+      "slug": "openai-codex-for-open-source",
+      "name": "OpenAI Codex for Open Source",
+      "provider": "OpenAI",
+      "categories": [
+        "open_source"
+      ],
+      "program_type": [
+        "open_source_program"
+      ],
+      "benefits": [
+        {
+          "type": "subscription",
+          "label": "Six months of ChatGPT Pro with Codex plus conditional access to Codex Security",
+          "duration": "6 months"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "maintainer"
+        ],
+        "regions": [],
+        "requirements": [
+          "Be a core maintainer or run a widely used public project",
+          "Apply through the program form",
+          "Have write access for Codex Security consideration"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://developers.openai.com/community/codex-for-oss",
+      "official_url": "https://developers.openai.com/community/codex-for-oss",
+      "source_urls": [
+        "https://developers.openai.com/community/codex-for-oss"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official OpenAI Developers page checked 2026-09-10: eligible maintainers can apply for six months of ChatGPT Pro with Codex and conditional Codex Security access."
+    },
+    {
+      "slug": "snyk-for-open-source",
+      "name": "Snyk for Open Source",
+      "provider": "Snyk",
+      "categories": [
+        "open_source"
+      ],
+      "program_type": [
+        "open_source_program"
+      ],
+      "benefits": [
+        {
+          "type": "software_access",
+          "label": "Complimentary Snyk security tooling and full licenses for qualifying open-source projects"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "maintainer"
+        ],
+        "regions": [],
+        "requirements": [
+          "Maintain an open-source project",
+          "Apply to join an existing project or apply for a new project",
+          "Use entitlements only for open-source projects"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://snyk.io/open-source",
+      "official_url": "https://snyk.io/open-source",
+      "source_urls": [
+        "https://snyk.io/open-source"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Snyk page checked 2026-09-10: open-source maintainers can apply for complimentary security tooling; full entitlements are limited to open-source projects."
+    },
+    {
+      "slug": "upstash-for-open-source",
+      "name": "Upstash for Open Source",
+      "provider": "Upstash",
+      "categories": [
+        "open_source"
+      ],
+      "program_type": [
+        "open_source_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "$1,000 monthly credit grant and support (applications currently closed)",
+          "value": 1000,
+          "currency": "USD",
+          "duration": "monthly"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "maintainer",
+          "contributor"
+        ],
+        "regions": [],
+        "requirements": [
+          "Build an open-source project on Upstash",
+          "Wait for the next application window"
+        ]
+      },
+      "status": "paused",
+      "application_state": "closed",
+      "deadline": null,
+      "application_url": "https://upstash.com/open-source",
+      "official_url": "https://upstash.com/open-source",
+      "source_urls": [
+        "https://upstash.com/open-source"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Upstash Open Source page checked 2026-09-10: it describes credit grants and support but explicitly says applications are currently closed."
+    },
+    {
+      "slug": "assemblyai-startup-program",
+      "name": "AssemblyAI Startup Program",
+      "provider": "AssemblyAI",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "12 months of recurring free credits plus discounted startup pricing",
+          "duration": "12 months"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "pre-seed",
+          "seed",
+          "series_a"
+        ],
+        "regions": [],
+        "requirements": [
+          "Be an early-stage or bootstrapped startup",
+          "Build a product with voice or audio at its core",
+          "Launch within six months",
+          "Apply with a work email"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://www.assemblyai.com/contact/startup-program",
+      "official_url": "https://www.assemblyai.com/contact/startup-program",
+      "source_urls": [
+        "https://www.assemblyai.com/contact/startup-program"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official AssemblyAI startup page checked 2026-09-10: pre-seed to Series A and bootstrapped teams are eligible; the page offers 12 months of recurring free credits and a live application form."
+    },
+    {
+      "slug": "aws-activate",
+      "name": "AWS Activate",
+      "provider": "AWS",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "Up to $200,000 in AWS Activate credits, with $200,000+ AI credits available by invitation",
+          "value": 200000,
+          "currency": "USD",
+          "duration": "program terms"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "pre-seed",
+          "seed",
+          "series_a",
+          "series_b"
+        ],
+        "regions": [],
+        "requirements": [
+          "Be founded within the last 10 years",
+          "Use a paid AWS account",
+          "Apply directly if self-funded or use an Activate Provider Org ID for Portfolio credits"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://aws.amazon.com/startups/credits",
+      "official_url": "https://aws.amazon.com/startups/credits",
+      "source_urls": [
+        "https://aws.amazon.com/startups/credits"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official AWS Activate page checked 2026-09-10: Founders credits start at $1k and can reach $5k; Portfolio credits can reach $200k, while additional AI credits are invite-only."
+    },
+    {
+      "slug": "circleci-for-startups",
+      "name": "CircleCI for Startups",
+      "provider": "CircleCI",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "Up to $20,000 in compute credits plus up to 24 months free and Starter Support",
+          "value": 20000,
+          "currency": "USD",
+          "duration": "up to 24 months"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "pre-seed",
+          "seed",
+          "series_a"
+        ],
+        "regions": [],
+        "requirements": [
+          "Be new to CircleCI or on the Free plan",
+          "Be founded within the last five years",
+          "Be part of an accelerator/VC or show at least $500k raised"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://circleci.com/startup-program/",
+      "official_url": "https://circleci.com/startup-program/",
+      "source_urls": [
+        "https://circleci.com/startup-program/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official CircleCI page checked 2026-09-10: offer lists up to $20k compute credits, up to 24 months free, and a live Apply today flow with stage/location-dependent terms."
+    },
+    {
+      "slug": "clerk-for-startups",
+      "name": "Clerk for Startups",
+      "provider": "Clerk",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "discount",
+          "label": "Clerk Pro features at a startup discount for up to one year after launch"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "early-stage"
+        ],
+        "regions": [],
+        "requirements": [
+          "Be within one year of launch",
+          "Have raised no more than $5M in venture funding",
+          "Apply as a new startup customer"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://clerk.com/startups",
+      "official_url": "https://clerk.com/startups",
+      "source_urls": [
+        "https://clerk.com/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Clerk page checked 2026-09-10: eligible early-stage teams can apply for discounted Clerk Pro; eligibility is up to one year after launch and up to $5M venture funding."
+    },
+    {
+      "slug": "cloudflare-for-startups",
+      "name": "Cloudflare for Startups",
+      "provider": "Cloudflare",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "Up to $350,000 in Cloudflare credits for one year",
+          "value": 350000,
+          "currency": "USD",
+          "duration": "12 months"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "pre-seed",
+          "seed",
+          "series_a",
+          "series_b"
+        ],
+        "regions": [],
+        "requirements": [
+          "Be incorporated within the last 10 years",
+          "Be funded up to Series B and within the last 12 months",
+          "Build a technology product",
+          "Have a public website and social presence"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://www.cloudflare.com/forstartups/",
+      "official_url": "https://www.cloudflare.com/forstartups/",
+      "source_urls": [
+        "https://www.cloudflare.com/forstartups/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Cloudflare Startups page checked 2026-09-10: program offers up to $350k for one year, with a $10k bootstrapped tier and a public Apply now flow."
+    },
+    {
+      "slug": "databricks-startup-program",
+      "name": "Databricks Startup Program",
+      "provider": "Databricks",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "Up to $200,000 in credits for Databricks and Neon",
+          "value": 200000,
+          "currency": "USD"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "startup"
+        ],
+        "regions": [],
+        "requirements": [
+          "Be a qualifying startup",
+          "Apply directly or ask an investor for access"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://www.databricks.com/product/startups",
+      "official_url": "https://www.databricks.com/product/startups",
+      "source_urls": [
+        "https://www.databricks.com/product/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Databricks page checked 2026-09-10: qualifying startups can receive up to $200k in Databricks and Neon credits and the page links Apply now."
+    },
+    {
+      "slug": "datadog-for-startups",
+      "name": "Datadog for Startups",
+      "provider": "Datadog",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "Up to one year of free Datadog platform access, up to $100,000 in credits",
+          "value": 100000,
+          "currency": "USD",
+          "duration": "12 months"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "pre-seed",
+          "seed",
+          "series_a"
+        ],
+        "regions": [],
+        "requirements": [
+          "Be new to Datadog",
+          "Be Series A or earlier",
+          "Apply through an official referral partner"
+        ]
+      },
+      "status": "active",
+      "application_state": "invite_only",
+      "deadline": null,
+      "application_url": "https://www.datadoghq.com/partner/datadog-for-startups/",
+      "official_url": "https://www.datadoghq.com/partner/datadog-for-startups/",
+      "source_urls": [
+        "https://www.datadoghq.com/partner/datadog-for-startups/"
+      ],
+      "separate_application": null,
+      "referral_only": true,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Datadog page checked 2026-09-10: Series A-or-earlier startups can receive up to one year/free platform access up to $100k, but every applicant must come through a referral partner."
+    },
+    {
+      "slug": "daytona",
+      "name": "Daytona",
+      "provider": "Daytona",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "$10,000 immediately and up to $100,000 in Daytona credits",
+          "value": 100000,
+          "currency": "USD"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "startup"
+        ],
+        "regions": [],
+        "requirements": [
+          "Submit the startup form with company, website, and location details"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://www.daytona.io/startups",
+      "official_url": "https://www.daytona.io/startups",
+      "source_urls": [
+        "https://www.daytona.io/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Daytona page checked 2026-09-10: page advertises $10k immediately and up to $100k in credits with a live startup form."
+    },
+    {
+      "slug": "deepgram-for-startups",
+      "name": "Deepgram for Startups",
+      "provider": "Deepgram",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "Up to $100,000 in Deepgram credits over 12 months",
+          "value": 100000,
+          "currency": "USD",
+          "duration": "12 months"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "early-stage",
+          "startup"
+        ],
+        "regions": [],
+        "requirements": [
+          "Be an AI builder or early-stage startup",
+          "Be in production or launching within six months",
+          "Actively build and engage with the community"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://deepgram.com/startup-program",
+      "official_url": "https://deepgram.com/startup-program",
+      "source_urls": [
+        "https://deepgram.com/startup-program"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Deepgram page checked 2026-09-10: up to $100k in credits over 12 months, explicit eligibility criteria, and an Apply Now flow are visible."
+    },
+    {
+      "slug": "devin-for-startups",
+      "name": "Devin for Startups",
+      "provider": "Cognition (Devin)",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "$15,000 Devin credits plus up to $50,000 in matching grants",
+          "value": 65000,
+          "currency": "USD",
+          "duration": "program terms"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "startup"
+        ],
+        "regions": [],
+        "requirements": [
+          "Submit a startup application",
+          "Be approved on the rolling review process"
+        ]
+      },
+      "status": "active",
+      "application_state": "rolling",
+      "deadline": null,
+      "application_url": "https://devin.ai/startups",
+      "official_url": "https://devin.ai/startups",
+      "source_urls": [
+        "https://devin.ai/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Devin page checked 2026-09-10: accepted startups get $15k free credits, up to $50k matching grants, unlimited seats, and rolling applications."
+    },
+    {
+      "slug": "digitalocean-hatch",
+      "name": "DigitalOcean Hatch",
+      "provider": "DigitalOcean",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "DigitalOcean startup credits and invited GPU credit packages"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "startup"
+        ],
+        "regions": [],
+        "requirements": [
+          "Apply through the DigitalOcean Startups form",
+          "Be selected for any GPU credit package"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://www.digitalocean.com/startups",
+      "official_url": "https://www.digitalocean.com/startups",
+      "source_urls": [
+        "https://www.digitalocean.com/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official DigitalOcean Startups page checked 2026-09-10: it has a live application form, AI-platform credits, and says selected startups may apply for GPU credit packages; no fixed total was publicly stated."
+    },
+    {
+      "slug": "google-cloud-ai-startup-program",
+      "name": "Google Cloud AI Startup Program",
+      "provider": "Google",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "Up to $350,000 in Google Cloud credits for AI-first startups over two years",
+          "value": 350000,
+          "currency": "USD",
+          "duration": "24 months"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "pre-seed",
+          "seed",
+          "series_a"
+        ],
+        "regions": [],
+        "requirements": [
+          "Be a qualifying AI-first startup",
+          "Apply through Google for Startups Cloud Program",
+          "Use credits for covered Google Cloud services/models"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://cloud.google.com/startup/ai",
+      "official_url": "https://cloud.google.com/startup/ai",
+      "source_urls": [
+        "https://cloud.google.com/startup/ai"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Google Cloud AI startup page checked 2026-09-10: AI-first startups can receive up to $350k over two years and the page links Apply here."
+    },
+    {
+      "slug": "google-cloud-startup-program",
+      "name": "Google Cloud Startup Program",
+      "provider": "Google",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "Up to $200,000 in Google Cloud credits, or up to $350,000 for AI-first startups",
+          "value": 350000,
+          "currency": "USD",
+          "duration": "24 months"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "pre-funded",
+          "seed",
+          "series_a",
+          "series_b"
+        ],
+        "regions": [],
+        "requirements": [
+          "Apply through Google for Startups Cloud Program",
+          "Match the appropriate pre-funded, early-stage, or Series B+ path"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://cloud.google.com/startup",
+      "official_url": "https://cloud.google.com/startup",
+      "source_urls": [
+        "https://cloud.google.com/startup"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Google Cloud Startups page checked 2026-09-10: early-stage teams can apply for up to $200k (up to $350k for AI-first startups), while pre-funded teams can apply for $2k MVP credits."
+    },
+    {
+      "slug": "kiro-for-startups",
+      "name": "Kiro for Startups",
+      "provider": "Kiro (AWS)",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "Up to one year of Kiro Pro+ credits for early-stage to Series A startups",
+          "duration": "12 months"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "early-stage",
+          "series_a"
+        ],
+        "regions": [
+          "most AWS-billed countries/regions"
+        ],
+        "requirements": [
+          "Be VC-backed",
+          "Use a matching business email and AWS Account ID",
+          "Use AWS IAM Identity Center to redeem",
+          "Not have active AWS Activate credits for this promotion"
+        ]
+      },
+      "status": "active",
+      "application_state": "rolling",
+      "deadline": null,
+      "application_url": "https://kiro.dev/startups/",
+      "official_url": "https://kiro.dev/startups/",
+      "source_urls": [
+        "https://kiro.dev/startups/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Kiro Startups page checked 2026-09-10: early-stage to Series A VC-backed startups globally can apply for up to one year of Pro+ credits; applications are reviewed on a rolling basis."
+    },
+    {
+      "slug": "microsoft-for-startups",
+      "name": "Microsoft for Startups",
+      "provider": "Microsoft",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "Free Azure credits plus AI tools, expert guidance, and startup resources"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "startup"
+        ],
+        "regions": [],
+        "requirements": [
+          "Sign up through Microsoft for Startups",
+          "Use an investor referral code or start building with Azure"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://www.microsoft.com/startups",
+      "official_url": "https://www.microsoft.com/startups",
+      "source_urls": [
+        "https://www.microsoft.com/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Microsoft for Startups page checked 2026-09-10: program offers free Azure credits and AI tools, with sign-up available via an investor referral code or direct Azure onboarding."
+    },
+    {
+      "slug": "miro-for-startups",
+      "name": "Miro for Startups",
+      "provider": "Miro",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "Free Miro credits for early startups; up to 25% discount for scale-ups"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "early-stage",
+          "scale-up"
+        ],
+        "regions": [],
+        "requirements": [
+          "Apply through Miro startup offer flow",
+          "Use the applicable early-startup or scale-up path"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://miro.com/startups/",
+      "official_url": "https://miro.com/startups/",
+      "source_urls": [
+        "https://miro.com/startups/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Miro Startups page checked 2026-09-10: early startups can get free Miro credits, scale-ups up to 25% discount, and the page links both offer flows."
+    },
+    {
+      "slug": "mixpanel",
+      "name": "Mixpanel",
+      "provider": "Mixpanel",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "software",
+          "label": "Mixpanel Startup Plan free for 12 months, up to 1B events per year",
+          "duration": "12 months"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "startup"
+        ],
+        "regions": [
+          "global"
+        ],
+        "requirements": [
+          "Be incorporated less than five years ago",
+          "Have raised no more than $8M total",
+          "Have no previous Mixpanel exclusive offer or paid plan",
+          "Begin sending data within 90 days of acceptance"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://mixpanel.com/startups-apply/",
+      "official_url": "https://docs.mixpanel.com/docs/pricing/startup-program",
+      "source_urls": [
+        "https://docs.mixpanel.com/docs/pricing/startup-program",
+        "https://mixpanel.com/startups-apply/"
+      ],
+      "separate_application": true,
+      "referral_only": false,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Mixpanel Startup Program documentation checked 2026-09-10: the first year is free on the Startup Plan for startups incorporated under five years, with no more than $8M raised and no prior exclusive offer or paid plan; accepted companies must send data within 90 days. The application flow is open."
+    },
+    {
+      "slug": "modal",
+      "name": "Modal",
+      "provider": "Modal",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "Thousands of free GPU credits plus technical and go-to-market support"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "seed",
+          "series_a",
+          "series_b"
+        ],
+        "regions": [],
+        "requirements": [
+          "Be new to Modal",
+          "Seed to Series A: have VC partner funding or >$1M VC funding",
+          "Series B+: meet the stated funding/partner criteria"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://modal.com/startups",
+      "official_url": "https://modal.com/startups",
+      "source_urls": [
+        "https://modal.com/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Modal page checked 2026-09-10: applications are open; program offers free GPU credits, technical/GTM support, and publishes eligibility tiers."
+    },
+    {
+      "slug": "mongodb-for-startups",
+      "name": "MongoDB for Startups",
+      "provider": "MongoDB",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "MongoDB Atlas credits, Voyage AI tokens, technical expertise, and support"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "bootstrapped",
+          "early-funded",
+          "vc-backed",
+          "scale-up"
+        ],
+        "regions": [],
+        "requirements": [
+          "Apply directly or ask a VC/accelerator/incubator for referral",
+          "Use the applicable startup tier"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://www.mongodb.com/solutions/startups",
+      "official_url": "https://www.mongodb.com/solutions/startups",
+      "source_urls": [
+        "https://www.mongodb.com/solutions/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official MongoDB Startups page checked 2026-09-10: program has a live Apply Now flow, tiered support from bootstrapped to scaling startups, and Atlas/Voyage benefits."
+    },
+    {
+      "slug": "nebius-for-startups",
+      "name": "Nebius for Startups",
+      "provider": "Nebius",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "Nebius startup credits and compute discounts; credit access currently through VC partners"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "startup"
+        ],
+        "regions": [],
+        "requirements": [
+          "Have a Nebius VC partner for credit access, or join the community while availability expands",
+          "Maintain a company website and apply with a company email",
+          "Be incorporated fewer than five years"
+        ]
+      },
+      "status": "paused",
+      "application_state": "invite_only",
+      "deadline": null,
+      "application_url": "https://nebius.com/startups",
+      "official_url": "https://nebius.com/startups",
+      "source_urls": [
+        "https://nebius.com/startups"
+      ],
+      "separate_application": null,
+      "referral_only": true,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Nebius page checked 2026-09-10: credits are currently available exclusively through venture-capital partners; other startups are directed to the community/waitlist as availability expands."
+    },
+    {
+      "slug": "notion-for-startups",
+      "name": "Notion for Startups",
+      "provider": "Notion",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "subscription",
+          "label": "Notion Business with Notion AI free for 3 or 6 months depending on eligibility",
+          "duration": "3–6 months"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "startup"
+        ],
+        "regions": [],
+        "requirements": [
+          "Be a non-paying Notion customer",
+          "Have fewer than 100 employees for the 3/6-month offers",
+          "Have a valid business website and company-domain email or a select partner affiliation"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://www.notion.com/startups",
+      "official_url": "https://www.notion.com/startups",
+      "source_urls": [
+        "https://www.notion.com/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Notion Startups page checked 2026-09-10: page lists 6 months for select partners and 3 months with business website/domain email, with a live application flow."
+    },
+    {
+      "slug": "nvidia-inception",
+      "name": "NVIDIA Inception",
+      "provider": "NVIDIA",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "membership",
+          "label": "Free NVIDIA Inception membership with partner cloud credits, training, preferred pricing, and resources"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "startup"
+        ],
+        "regions": [],
+        "requirements": [
+          "Employ at least one developer",
+          "Maintain a working website",
+          "Be officially incorporated",
+          "Be less than 10 years old",
+          "Not be a consultancy, reseller, public company, cloud provider, or crypto company"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://www.nvidia.com/en-us/startups/",
+      "official_url": "https://www.nvidia.com/en-us/startups/",
+      "source_urls": [
+        "https://www.nvidia.com/en-us/startups/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official NVIDIA Inception page checked 2026-09-10: membership is free with no fees/equity; criteria include one developer, working website, incorporation, and age under 10 years."
+    },
+    {
+      "slug": "ovhcloud-startup-program",
+      "name": "OVHcloud Startup Program",
+      "provider": "OVHcloud",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "Up to €100,000 in free OVHcloud credits plus one-on-one engineering consultation",
+          "value": 100000,
+          "currency": "EUR"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "startup"
+        ],
+        "regions": [],
+        "requirements": [
+          "Apply through the OVHcloud Startup Program",
+          "Meet the program tier requirements"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://startup.ovhcloud.com/",
+      "official_url": "https://startup.ovhcloud.com/",
+      "source_urls": [
+        "https://startup.ovhcloud.com/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official OVHcloud Startup Program page checked 2026-09-10: it advertises up to €100k in free cloud credit, engineering consultation, and a live Apply flow."
+    },
+    {
+      "slug": "posthog-for-startups",
+      "name": "PostHog for Startups",
+      "provider": "PostHog",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "$50,000 in PostHog credits plus $12,000 in partner benefits for 12 months",
+          "value": 50000,
+          "currency": "USD",
+          "duration": "12 months"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "early-stage",
+          "startup"
+        ],
+        "regions": [],
+        "requirements": [
+          "Build a self-driving product",
+          "Meet funding/age/team criteria shown on the page",
+          "Apply with a PostHog account"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://posthog.com/startups",
+      "official_url": "https://posthog.com/startups",
+      "source_urls": [
+        "https://posthog.com/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official PostHog page checked 2026-09-10: it lists $50k credits for 12 months, $12k partner benefits, and a live Apply now flow."
+    },
+    {
+      "slug": "render",
+      "name": "Render",
+      "provider": "Render",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "Up to $10,000 in Render migration credits",
+          "value": 10000,
+          "currency": "USD"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "startup"
+        ],
+        "regions": [],
+        "requirements": [
+          "Be migrating production infrastructure",
+          "Apply through the migration-credit form"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://render.com/startups",
+      "official_url": "https://render.com/startups",
+      "source_urls": [
+        "https://render.com/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Render page checked 2026-09-10: current page advertises up to $10k in migration credits and a live Apply now link; the older $100k startup-credit claim was not present."
+    },
+    {
+      "slug": "retool-for-startups",
+      "name": "Retool for Startups",
+      "provider": "Retool",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "discount",
+          "label": "100% off Retool Team or Business for one year, up to $60,000 value, then 25% off year two",
+          "value": 60000,
+          "currency": "USD",
+          "duration": "12 months"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "bootstrapped",
+          "angel-funded",
+          "debt-funded",
+          "pre-seed",
+          "seed",
+          "series_a"
+        ],
+        "regions": [],
+        "requirements": [
+          "Raise less than $10M",
+          "Be founded within the last 10 years",
+          "Be a new monthly Team or Business customer",
+          "Submit the application after upgrading"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://retool.com/startups",
+      "official_url": "https://retool.com/startups",
+      "source_urls": [
+        "https://retool.com/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Retool page checked 2026-09-10: eligible startups get one year free up to $60k, 25% off the following year, and a live application flow."
+    },
+    {
+      "slug": "sentry-for-startups",
+      "name": "Sentry for Startups",
+      "provider": "Sentry",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "Sentry credits",
+          "value": 5000,
+          "currency": "USD",
+          "duration": "12 months"
+        },
+        {
+          "type": "support",
+          "label": "Priority support"
+        },
+        {
+          "type": "swag",
+          "label": "Sentry swag"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "startup"
+        ],
+        "regions": [
+          "global"
+        ],
+        "requirements": [
+          "Be founded within the last two years",
+          "Have raised less than $5M in venture capital",
+          "Be new to paying for Sentry"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://sentry.io/for/startups/apply/",
+      "official_url": "https://sentry.io/for/startups/",
+      "source_urls": [
+        "https://sentry.io/for/startups/",
+        "https://sentry.io/for/startups/apply/"
+      ],
+      "separate_application": true,
+      "referral_only": false,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "manual_review",
+      "verification_notes": "Official Sentry for Startups page and application form checked live 2026-09-10: the program offers up to $5,000 in credits expiring after 12 months, priority support, and swag. Eligibility is a company founded within two years, less than $5M in venture capital, and new to paying for Sentry."
+    },
+    {
+      "slug": "stripe-atlas",
+      "name": "Stripe Atlas",
+      "provider": "Stripe",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "$2,500 Stripe product credits plus $50,000+ in partner discounts for Atlas companies",
+          "value": 2500,
+          "currency": "USD",
+          "duration": "12 months"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "founder",
+          "startup"
+        ],
+        "regions": [],
+        "requirements": [
+          "Submit company and co-founder details",
+          "Use Stripe Atlas incorporation flow",
+          "Review jurisdiction and legal requirements before proceeding"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://stripe.com/atlas",
+      "official_url": "https://stripe.com/atlas",
+      "source_urls": [
+        "https://stripe.com/atlas"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Stripe Atlas page checked 2026-09-10: Atlas is live; companies receive $2,500 in Stripe product credits in the first year plus $50k+ in partner discounts."
+    },
+    {
+      "slug": "temporal-cloud-for-startups",
+      "name": "Temporal Cloud for Startups",
+      "provider": "Temporal",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "$6,000 in Temporal Cloud credits for funded startups",
+          "value": 6000,
+          "currency": "USD"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "funded_startup"
+        ],
+        "regions": [],
+        "requirements": [
+          "Be a funded startup",
+          "Have raised $30M or less",
+          "Apply through the startup form"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://temporal.io/startup",
+      "official_url": "https://temporal.io/startup",
+      "source_urls": [
+        "https://temporal.io/startup"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Temporal page checked 2026-09-10: funded startups that raised $30M or less can apply for $6k in Temporal Cloud credits."
+    },
+    {
+      "slug": "vercel-startups",
+      "name": "Vercel Startups",
+      "provider": "Vercel",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "Up to $30,000 Flexible Commitment Amount plus Enterprise-tier access and support",
+          "value": 30000,
+          "currency": "USD"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "startup"
+        ],
+        "regions": [],
+        "requirements": [
+          "Be an eligible startup team",
+          "Contact the Vercel Startups team"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://vercel.com/startups",
+      "official_url": "https://vercel.com/startups",
+      "source_urls": [
+        "https://vercel.com/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Vercel Startups page checked 2026-09-10: eligible teams can receive up to $30k Flexible Commitment Amount, Enterprise-tier access, and startup-focused support."
+    },
+    {
+      "slug": "y-combinator",
+      "name": "Y Combinator",
+      "provider": "Y Combinator",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "funding",
+          "label": "Selective accelerator application with funding and partner benefits"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "startup",
+          "founder"
+        ],
+        "regions": [],
+        "requirements": [
+          "Submit the online YC application",
+          "Meet the current batch deadline or apply late for consideration"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": "2026-11-02",
+      "application_url": "https://www.ycombinator.com/apply",
+      "official_url": "https://www.ycombinator.com/apply",
+      "source_urls": [
+        "https://www.ycombinator.com/apply"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official YC application page checked 2026-09-10: online applications are open; page states an on-time November 2 deadline and says late applications may still be considered."
+    },
+    {
+      "slug": "zai-startups",
+      "name": "ZAI Startups",
+      "provider": "Z.AI",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "Free Z.ai API credits up to 1B tokens, plus priority support, early API access, and startup community access",
+          "value": "Up to 1B tokens"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "startup"
+        ],
+        "regions": [
+          "global"
+        ],
+        "requirements": [
+          "Submit startup details and vision through the Z.ai application form",
+          "Receive approval from the Z.ai Startups team"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://startup.z.ai/#apply",
+      "official_url": "https://startup.z.ai/",
+      "source_urls": [
+        "https://startup.z.ai/"
+      ],
+      "separate_application": true,
+      "referral_only": false,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "manual_review",
+      "verification_notes": "Official Z.ai Startups page checked live 2026-09-10: it advertises up to 1B free API-token credits, priority support, an exclusive founder community, early API access, and an application reviewed by Z.ai. No fixed deadline is shown."
+    },
+    {
+      "slug": "anthropic-startup-program",
+      "name": "Anthropic Startup Program",
+      "provider": "Anthropic",
+      "categories": [
+        "ai_developer_credits"
+      ],
+      "program_type": [
+        "developer_credits"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "Claude API credits and priority rate limits for qualifying startups"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "early-stage",
+          "startup"
+        ],
+        "regions": [],
+        "requirements": [
+          "Have an institutional equity investor for credits/extras",
+          "Be founded within the last four years",
+          "Not have previously received Anthropic startup credits",
+          "Apply with a Claude Console account, company email, website, and product description"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://claude.com/programs/startups",
+      "official_url": "https://claude.com/programs/startups",
+      "source_urls": [
+        "https://claude.com/programs/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Claude for Startups page checked 2026-09-10: application is open; credits/extras require institutional equity funding, a company founded within four years, and no prior Anthropic startup credits."
+    },
+    {
+      "slug": "openai-startup-program",
+      "name": "OpenAI Startup Program",
+      "provider": "OpenAI",
+      "categories": [
+        "ai_developer_credits"
+      ],
+      "program_type": [
+        "developer_credits"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "OpenAI API credits, rate-limit upgrades, technical support, and startup events for eligible VC portfolios"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "startup"
+        ],
+        "regions": [],
+        "requirements": [
+          "Be in a participating VC partner portfolio",
+          "Obtain a unique VC referral code",
+          "Provide company/product/funding details"
+        ]
+      },
+      "status": "active",
+      "application_state": "invite_only",
+      "deadline": null,
+      "application_url": "https://openai.com/startups",
+      "official_url": "https://openai.com/startups",
+      "source_urls": [
+        "https://openai.com/startups"
+      ],
+      "separate_application": null,
+      "referral_only": true,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official OpenAI Startups page checked 2026-09-10: VC portfolio companies may unlock free API credits and rate-limit upgrades; applications require a unique referral code from a VC."
+    },
+    {
+      "slug": "together-ai-research-credits-program",
+      "name": "Together AI Research Credits Program",
+      "provider": "Together AI",
+      "categories": [
+        "ai_developer_credits"
+      ],
+      "program_type": [
+        "developer_credits"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "Small research grants of a few hundred dollars for eligible student projects",
+          "value": "few hundred",
+          "currency": "USD",
+          "duration": "grant"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "student",
+          "researcher"
+        ],
+        "regions": [],
+        "requirements": [
+          "Have a research idea outside formal classes",
+          "Request support through the invite-only program",
+          "Acknowledge Together AI in resulting work"
+        ]
+      },
+      "status": "active",
+      "application_state": "invite_only",
+      "deadline": null,
+      "application_url": "https://www.together.ai/research-credits-program-request",
+      "official_url": "https://www.together.ai/research-credits-program-request",
+      "source_urls": [
+        "https://www.together.ai/research-credits-program-request"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Together AI Research Credits page checked 2026-09-10: invite-only program offers small grants to students doing research outside formal classes; page says it is not widely available."
+    },
+    {
+      "slug": "together-ai-startup-accelerator",
+      "name": "Together AI Startup Accelerator",
+      "provider": "Together AI",
+      "categories": [
+        "ai_developer_credits"
+      ],
+      "program_type": [
+        "developer_credits"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "Up to $15k/$30k/$50k in platform credits by funding tier plus engineering time",
+          "value": 50000,
+          "currency": "USD",
+          "duration": "program term"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "startup"
+        ],
+        "regions": [],
+        "requirements": [
+          "Submit a selection-based application",
+          "Build on Together AI",
+          "Choose tier by total funding: up to $5M, $5M–$10M, or over $10M raised"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://www.together.ai/startup-accelerator",
+      "official_url": "https://www.together.ai/startup-accelerator",
+      "source_urls": [
+        "https://www.together.ai/startup-accelerator"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Together AI Startup Accelerator page checked 2026-09-10: selection-based applications are open; tiers offer up to $15k, $30k, or $50k in credits plus forward-deployed engineering time."
+    },
+    {
+      "slug": "claude-campus-ambassadors",
+      "name": "Claude Campus Ambassadors",
+      "provider": "Anthropic",
+      "categories": [
+        "ambassadors"
+      ],
+      "program_type": [
+        "ambassador_program"
+      ],
+      "benefits": [
+        {
+          "type": "stipend",
+          "label": "USD 3,600 cash stipend plus campus event support, resources, and API credits",
+          "value": 3600,
+          "currency": "USD",
+          "duration": "program year"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "student",
+          "graduate_student",
+          "phd",
+          "postdoc"
+        ],
+        "regions": [
+          "worldwide"
+        ],
+        "requirements": [
+          "Be 18 or older",
+          "Have work authorization in the country of study",
+          "Apply by September 12, 2026",
+          "Choose the undergrad, grad, or PhD/postdoc track"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": "2026-09-12",
+      "application_url": "https://claude.com/programs/campus",
+      "official_url": "https://claude.com/programs/campus",
+      "source_urls": [
+        "https://claude.com/programs/campus"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Claude Campus page checked 2026-09-10: applications are open and close September 12, 2026; selected ambassadors receive a $3,600 stipend and the program runs September 2026–June 2027."
+    },
+    {
+      "slug": "claude-community-ambassadors",
+      "name": "Claude Community Ambassadors",
+      "provider": "Anthropic",
+      "categories": [
+        "ambassadors"
+      ],
+      "program_type": [
+        "ambassador_program"
+      ],
+      "benefits": [
+        {
+          "type": "community",
+          "label": "Event sponsorship, API credits, swag, resources, and product feedback access"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "community_builder",
+          "developer",
+          "organizer"
+        ],
+        "regions": [
+          "worldwide"
+        ],
+        "requirements": [
+          "Have meaningful Claude Code or Claude Cowork experience",
+          "Have a track record of community involvement",
+          "Apply and complete the screening process"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://claude.com/community/ambassadors",
+      "official_url": "https://claude.com/community/ambassadors",
+      "source_urls": [
+        "https://claude.com/community/ambassadors"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Claude Community Ambassadors page checked 2026-09-10: global applications are open; selected ambassadors receive event funding, API credits, swag, resources, and community support."
+    },
+    {
+      "slug": "cursor-campus-leads",
+      "name": "Cursor Campus Leads",
+      "provider": "Cursor",
+      "categories": [
+        "ambassadors"
+      ],
+      "program_type": [
+        "ambassador_program"
+      ],
+      "benefits": [
+        {
+          "type": "community",
+          "label": "Campus Lead benefits include six months of Cursor Ultra, event funding, travel support, and swag"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "student"
+        ],
+        "regions": [],
+        "requirements": [
+          "Be a current university student",
+          "Commit five hours per week",
+          "Complete the application and Code of Conduct"
+        ]
+      },
+      "status": "paused",
+      "application_state": "closed",
+      "deadline": null,
+      "application_url": "https://cursor.com/campus-leads",
+      "official_url": "https://cursor.com/campus-leads",
+      "source_urls": [
+        "https://cursor.com/campus-leads"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Cursor Campus Leads page checked 2026-09-10: the program says applications will reopen in January; current page provides an interest list and lists the program benefits."
+    },
+    {
+      "slug": "devin-ambassadors",
+      "name": "Devin Ambassadors",
+      "provider": "Cognition (Devin)",
+      "categories": [
+        "ambassadors"
+      ],
+      "program_type": [
+        "ambassador_program"
+      ],
+      "benefits": [
+        {
+          "type": "community",
+          "label": "Devin Ambassador role with community events, content, and feedback opportunities"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "community_builder",
+          "developer",
+          "organizer"
+        ],
+        "regions": [],
+        "requirements": [
+          "Apply through the official ambassador form linked from Devin Community",
+          "Participate in community activities"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://devin.ai/community",
+      "official_url": "https://devin.ai/community",
+      "source_urls": [
+        "https://devin.ai/community"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Devin Community page checked 2026-09-10: it links an official Ambassadors application and describes the role as leading the Devin community, hosting events, and creating content."
+    },
+    {
+      "slug": "kimi-ambassadors",
+      "name": "Kimi Ambassadors",
+      "provider": "Kimi",
+      "categories": [
+        "ambassadors"
+      ],
+      "program_type": [
+        "ambassador_program"
+      ],
+      "benefits": [
+        {
+          "type": "community",
+          "label": "Exclusive ambassador resources, early product access, direct Kimi-team contact, and recognition"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "developer",
+          "creator",
+          "organizer"
+        ],
+        "regions": [
+          "worldwide"
+        ],
+        "requirements": [
+          "Apply online",
+          "Participate in community building, practical AI education, or product feedback",
+          "Complete a possible interview"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://www.kimi.ai/lp/kimi-ambassador",
+      "official_url": "https://www.kimi.ai/lp/kimi-ambassador",
+      "source_urls": [
+        "https://www.kimi.ai/lp/kimi-ambassador"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Kimi Ambassador page checked 2026-09-10: global builders, creators, and community organizers can apply; benefits include early access, resources, network, and possible collaboration/recognition."
+    },
+    {
+      "slug": "mistral-ai-ambassadors",
+      "name": "Mistral AI Ambassadors",
+      "provider": "Mistral",
+      "categories": [
+        "ambassadors"
+      ],
+      "program_type": [
+        "ambassador_program"
+      ],
+      "benefits": [
+        {
+          "type": "community",
+          "label": "Mistral AI ambassador community, content/events participation, product feedback, and community support"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "developer",
+          "researcher",
+          "community_builder"
+        ],
+        "regions": [],
+        "requirements": [
+          "Demonstrate AI/ML and Mistral experience",
+          "Participate actively in AI/ML communities",
+          "Commit regular time to ambassador activities"
+        ]
+      },
+      "status": "active",
+      "application_state": "rolling",
+      "deadline": null,
+      "application_url": "https://docs.mistral.ai/community/ambassadors",
+      "official_url": "https://docs.mistral.ai/community/ambassadors",
+      "source_urls": [
+        "https://docs.mistral.ai/community/ambassadors"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "official_page",
+      "verification_notes": "Official Mistral Docs page checked 2026-09-10: applications are open on a rolling basis; page lists technical, community, communication, and time-commitment requirements."
+    },
+    {
+      "slug": "qwen-ambassadors",
+      "name": "Qwen Ambassadors",
+      "provider": "Alibaba Qwen",
+      "categories": [
+        "ambassadors"
+      ],
+      "program_type": [
+        "ambassador_program"
+      ],
+      "benefits": [
+        {
+          "type": "credits",
+          "label": "Qwen API credits of $50–$100 per month for active ambassadors",
+          "value": "$50–$100/month",
+          "currency": "USD",
+          "duration": "Monthly while active"
+        },
+        {
+          "type": "community",
+          "label": "Early access to Qwen models, private team chats, community badge, merchandise, and event support"
+        }
+      ],
+      "eligibility": {
+        "stages": [
+          "developer",
+          "community_builder"
+        ],
+        "regions": [
+          "global"
+        ],
+        "requirements": [
+          "Apply as a Dev Ambassador or Event Ambassador",
+          "Dev Ambassadors publish at least four Qwen-related outputs per month for $100 monthly credits",
+          "Event Ambassadors run at least one event and two Qwen-related social posts per month for $100 monthly credits"
+        ]
+      },
+      "status": "active",
+      "application_state": "open",
+      "deadline": null,
+      "application_url": "https://alidocs.dingtalk.com/notable/share/form/v01J9LnW6jR1E0aalvD_dv19yqvsgs3oebp3pcjys_1qX0QQ0?source=link",
+      "official_url": "https://qwen.ai/ambassador",
+      "source_urls": [
+        "https://qwen.ai/ambassador",
+        "https://alidocs.dingtalk.com/notable/share/form/v01J9LnW6jR1E0aalvD_dv19yqvsgs3oebp3pcjys_1qX0QQ0?source=link"
+      ],
+      "separate_application": true,
+      "referral_only": false,
+      "last_verified_at": "2026-09-10",
+      "verification_method": "manual_review",
+      "verification_notes": "Official Qwen Ambassador page checked live 2026-09-10: Dev and Event Ambassador roles, an application form, $50–$100 monthly API credits, early model access, private community access, merchandise, and event support are listed. The page states that $100 monthly credits require the role-specific contribution thresholds."
+    }
+  ]
+}
