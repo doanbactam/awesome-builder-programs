@@ -26,6 +26,7 @@ The canonical structured dataset is [data/programs.json](data/programs.json).
 * [Startups](#startups)
 * [AI and Developer Credits](#ai-and-developer-credits)
 * [Ambassadors](#ambassadors)
+* [Needs review](#needs-review)
 * [Data quality](#data-quality)
 * [Contributing](#contributing)
 
@@ -127,10 +128,30 @@ The canonical structured dataset is [data/programs.json](data/programs.json).
 
 ---
 
+## Needs review
+
+These records are retained because the program may still exist, but its current offer or availability could not be confirmed from a readable public source. They are not presented as active opportunities until verified.
+
+| Program | Provider | Benefit | Why it needs review | Checked |
+|---|---|---|---|---|
+| [Atlas Cloud for Open Source](https://www.atlascloud.ai/oss-program) | Atlas Cloud | OSS program offer not re-confirmed; official URL redirects to the Atlas Cloud homepage | Official OSS URL checked 2026-09-10 and redirected to the general Atlas Cloud homepage; the claimed OSS credit amount and application flow could not be independently verified. | 2026-09-10 |
+| [Google AI Pro for Students](https://one.google.com/ai-student) | Google | Public offer terms not re-confirmed; official link redirects to Google Accounts sign-in | Official link checked 2026-09-10 but redirects to Google Accounts sign-in; public benefit, eligibility, and current claim window could not be independently verified. | 2026-09-10 |
+| [Google Summer of Code](https://summerofcode.withgoogle.com/) | Google | Mentored open-source contribution program; stipend and dates vary by annual cycle | Official homepage checked 2026-09-10: program and how-to-apply materials are present, but no current 2026 application dates or stipend terms were exposed in the public page snapshot. | 2026-09-10 |
+| [Hugging Face Startups](https://huggingface.co/startups) | Hugging Face | Startup program could not be re-confirmed; official URL resolves to a Hugging Face community profile without public offer terms | Official URL checked 2026-09-10 but resolves to a public Hugging Face profile named startupsdao with no startup-program benefits or application terms; requires manual review. | 2026-09-10 |
+| [JetBrains Student Pack](https://www.jetbrains.com/academy/student-pack/) | JetBrains | Student Pack terms not re-confirmed on the public page snapshot | Official URL checked 2026-09-10 but returned no readable program terms; current student-pack availability requires manual review. | 2026-09-10 |
+| [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/) | Linux Foundation | Mentorship terms and stipend not re-confirmed on the public page snapshot | Official URL checked 2026-09-10 but no readable public content was returned; current mentorship rounds and stipends require manual review. | 2026-09-10 |
+| [Mixpanel](https://mixpanel.com/startups-apply/) | Mixpanel | Startup offer could not be re-confirmed; public URL returned only an embedded form shell | Official URL checked 2026-09-10 but the page exposed only an iframe shell with no readable offer terms; current Mixpanel startup benefit requires manual review. | 2026-09-10 |
+| [PlanetScale for Startups](https://planetscale.com/startups) | PlanetScale | Startup-specific credit offer not re-confirmed; page currently describes paid database plans and free sign-up | Official PlanetScale page checked 2026-09-10: startup landing page is live, but no startup credit amount or dedicated offer was publicly stated; only free sign-up and paid pricing were visible. | 2026-09-10 |
+| [Qwen Ambassadors](https://qwen.ai/ambassador) | Alibaba Qwen | Ambassador offer could not be re-confirmed; official URL returned no readable public content | Official URL checked 2026-09-10 but returned no readable public content; current Qwen ambassador benefits and application status require manual review. | 2026-09-10 |
+| [Sentry for Startups](https://sentry.io/for/startups/) | Sentry | Startup offer could not be re-confirmed; official URL rendered only a terminal shell | Official URL checked 2026-09-10 but rendered only a terminal shell with no readable program terms; current Sentry offer requires manual review. | 2026-09-10 |
+| [ZAI Startups](https://startup.z.ai/) | Z.AI | Startup API-credit offer could not be re-confirmed; official URL returned an internal error | Official URL checked 2026-09-10 but returned an internal error with no readable program terms; current Z.AI startup offer requires manual review. | 2026-09-10 |
+
+---
+
 ## Data quality
 
 - **Active** means an official source confirms availability and the record was verified within the last 30 days.
-- **Needs review** means the record is in the curated dataset but its current availability or terms still need manual confirmation.
+- **Needs review** means the record may still exist, but its current availability or terms could not be confirmed; it is retained separately and is not an active recommendation.
 - **Paused** and **Expired** records are retained for provenance but are not active opportunities.
 - A successful link check does not by itself prove that a program is accepting applications.
 
