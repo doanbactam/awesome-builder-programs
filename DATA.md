@@ -29,7 +29,7 @@ The machine-readable contract is data/programs.schema.json.
 ## Status policy
 
 - **active**: the official source confirms current availability and the record was manually verified within 30 days.
-- **needs_review**: the record exists, but current availability or terms need confirmation.
+- **needs_review**: the record may still exist, but current availability or terms need confirmation. This status must not be interpreted as discontinued or nonexistent.
 - **paused**: the provider explicitly says applications or access are paused.
 - **expired**: the offer or deadline has ended.
 - **unknown**: the record has not yet been classified.
