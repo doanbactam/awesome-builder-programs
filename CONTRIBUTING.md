@@ -11,7 +11,7 @@ The canonical records live in data/programs.json. Edit that file rather than edi
 1. Make sure the program has an official page.
 2. Add or update the record in the correct category.
 3. Describe the benefit and eligibility from the official source.
-4. Use needs_review until current availability has been manually confirmed.
+4. Manually verify the current benefit, eligibility, and availability before adding the record. If the evidence is insufficient, leave the candidate out rather than publishing a `needs_review` record.
 5. For active records, add last_verified_at, verification_method, and verification_notes.
 6. Run the validation and README generation commands.
 
@@ -29,15 +29,15 @@ Example record:
         "regions": ["global"],
         "requirements": []
       },
-      "status": "needs_review",
-      "application_state": "unknown",
+      "status": "active",
+      "application_state": "open",
       "deadline": null,
       "application_url": "https://example.com/apply",
       "official_url": "https://example.com",
       "source_urls": ["https://example.com"],
       "separate_application": null,
       "referral_only": null,
-      "last_verified_at": null,
+      "last_verified_at": "2026-09-10",
       "verification_method": "official_page",
       "verification_notes": "Explain what was checked."
     }
@@ -52,6 +52,7 @@ Run:
 - Only link to official program pages.
 - No affiliate or referral links.
 - Keep descriptions short and source-backed.
+- Do not publish a candidate until its current benefit, eligibility, and status are supported by an official source.
 - Do not mark a record active without a recent manual verification.
 - Do not add expired programs as active opportunities.
 - Note geographic, school, funding, or age eligibility limits when they apply.
