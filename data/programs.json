@@ -1,0 +1,2526 @@
+{
+  "$schema": "./programs.schema.json",
+  "schema_version": 1,
+  "programs": [
+    {
+      "slug": "codex-for-students",
+      "name": "Codex for Students",
+      "provider": "OpenAI",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "$100 in Codex credits (US & Canada students only)"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://chatgpt.com/codex/students",
+      "official_url": "https://chatgpt.com/codex/students",
+      "source_urls": [
+        "https://chatgpt.com/codex/students"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "figma-for-education",
+      "name": "Figma for Education",
+      "provider": "Figma",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Free design tools for students"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://www.figma.com/education/",
+      "official_url": "https://www.figma.com/education/",
+      "source_urls": [
+        "https://www.figma.com/education/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "github-student-developer-pack",
+      "name": "GitHub Student Developer Pack",
+      "provider": "GitHub",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Developer tools bundle (~$10k value)"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://education.github.com/pack",
+      "official_url": "https://education.github.com/pack",
+      "source_urls": [
+        "https://education.github.com/pack"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "gitlab-for-education",
+      "name": "GitLab for Education",
+      "provider": "GitLab",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Free GitLab Ultimate for education"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://about.gitlab.com/solutions/education/",
+      "official_url": "https://about.gitlab.com/solutions/education/",
+      "source_urls": [
+        "https://about.gitlab.com/solutions/education/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "google-ai-pro-for-students",
+      "name": "Google AI Pro for Students",
+      "provider": "Google",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "1 year of Google AI Pro (US) or AI Plus (many other countries); claim window through end of 2026"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://one.google.com/ai-student",
+      "official_url": "https://one.google.com/ai-student",
+      "source_urls": [
+        "https://one.google.com/ai-student"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "google-summer-of-code",
+      "name": "Google Summer of Code",
+      "provider": "Google",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Stipend and mentorship for students contributing to OSS"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://summerofcode.withgoogle.com/",
+      "official_url": "https://summerofcode.withgoogle.com/",
+      "source_urls": [
+        "https://summerofcode.withgoogle.com/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "jetbrains-student-pack",
+      "name": "JetBrains Student Pack",
+      "provider": "JetBrains",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Free IDE licenses"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://www.jetbrains.com/academy/student-pack/",
+      "official_url": "https://www.jetbrains.com/academy/student-pack/",
+      "source_urls": [
+        "https://www.jetbrains.com/academy/student-pack/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "kiro-for-students",
+      "name": "Kiro for Students",
+      "provider": "Kiro (AWS)",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "1,000 credits/month free for 1 year (participating universities; SheerID verification)"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://kiro.dev/students/",
+      "official_url": "https://kiro.dev/students/",
+      "source_urls": [
+        "https://kiro.dev/students/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "lfx-mentorship",
+      "name": "LFX Mentorship",
+      "provider": "Linux Foundation",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Paid remote OSS mentorship (stipends vary by region)"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://mentorship.lfx.linuxfoundation.org/",
+      "official_url": "https://mentorship.lfx.linuxfoundation.org/",
+      "source_urls": [
+        "https://mentorship.lfx.linuxfoundation.org/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "manus-campus-for-students",
+      "name": "Manus Campus for Students",
+      "provider": "Manus",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Campus access; 1,000-credit referral reward per invited student"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://manus.im/edu",
+      "official_url": "https://manus.im/edu",
+      "source_urls": [
+        "https://manus.im/edu"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "microsoft-azure-for-students",
+      "name": "Microsoft Azure for Students",
+      "provider": "Microsoft",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Azure credits and dev tools"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://azure.microsoft.com/en-us/free/students/",
+      "official_url": "https://azure.microsoft.com/en-us/free/students/",
+      "source_urls": [
+        "https://azure.microsoft.com/en-us/free/students/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "mlh-fellowship",
+      "name": "MLH Fellowship",
+      "provider": "Major League Hacking",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "12-week remote fellowship with stipend"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://fellowship.mlh.com/",
+      "official_url": "https://fellowship.mlh.com/",
+      "source_urls": [
+        "https://fellowship.mlh.com/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "openai-student-collective",
+      "name": "OpenAI Student Collective",
+      "provider": "OpenAI",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Campus Lead role: ChatGPT + Codex credits, event funding, and stipend"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://openai.com/student-collective/",
+      "official_url": "https://openai.com/student-collective/",
+      "source_urls": [
+        "https://openai.com/student-collective/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "outreachy",
+      "name": "Outreachy",
+      "provider": "Software Freedom Conservancy",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Paid remote OSS internship (~$7,000 stipend)"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://www.outreachy.org/",
+      "official_url": "https://www.outreachy.org/",
+      "source_urls": [
+        "https://www.outreachy.org/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "v0-for-students",
+      "name": "v0 for Students",
+      "provider": "Vercel",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "1 year of free v0 Premium (limited partner universities)"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://v0.app/students",
+      "official_url": "https://v0.app/students",
+      "source_urls": [
+        "https://v0.app/students"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "yc-ai-student-starter-pack",
+      "name": "YC AI Student Starter Pack",
+      "provider": "Y Combinator",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Credits and tools (~$25k value; requires attending a YC student event)"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://deals.ycombinator.com/students",
+      "official_url": "https://deals.ycombinator.com/students",
+      "source_urls": [
+        "https://deals.ycombinator.com/students"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "zed-student-plan",
+      "name": "Zed Student Plan",
+      "provider": "Zed",
+      "categories": [
+        "students"
+      ],
+      "program_type": [
+        "student_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "All Zed Pro features for 12 months"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://zed.dev/education",
+      "official_url": "https://zed.dev/education",
+      "source_urls": [
+        "https://zed.dev/education"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "atlas-cloud-for-open-source",
+      "name": "Atlas Cloud for Open Source",
+      "provider": "Atlas Cloud",
+      "categories": [
+        "open_source"
+      ],
+      "program_type": [
+        "open_source_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Up to $1,500/mo AI credits (400+ models) for active OSS maintainers"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://www.atlascloud.ai/oss-program",
+      "official_url": "https://www.atlascloud.ai/oss-program",
+      "source_urls": [
+        "https://www.atlascloud.ai/oss-program"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "capy-ai-oss",
+      "name": "Capy AI OSS",
+      "provider": "Capy AI",
+      "categories": [
+        "open_source"
+      ],
+      "program_type": [
+        "open_source_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Full platform access for open-source projects"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://capy.ai/open-source",
+      "official_url": "https://capy.ai/open-source",
+      "source_urls": [
+        "https://capy.ai/open-source"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "catalyst",
+      "name": "Catalyst",
+      "provider": "Open Core Ventures",
+      "categories": [
+        "open_source"
+      ],
+      "program_type": [
+        "open_source_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "$10,000 sponsorship + 3-month program for eligible OSS authors and maintainers"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://opencoreventures.com/catalyst/",
+      "official_url": "https://opencoreventures.com/catalyst/",
+      "source_urls": [
+        "https://opencoreventures.com/catalyst/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "claude-for-open-source",
+      "name": "Claude for Open Source",
+      "provider": "Anthropic",
+      "categories": [
+        "open_source"
+      ],
+      "program_type": [
+        "open_source_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "6 months of Claude Max"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://claude.com/contact-sales/claude-for-oss",
+      "official_url": "https://claude.com/contact-sales/claude-for-oss",
+      "source_urls": [
+        "https://claude.com/contact-sales/claude-for-oss"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "github-secure-open-source-fund",
+      "name": "GitHub Secure Open Source Fund",
+      "provider": "GitHub",
+      "categories": [
+        "open_source"
+      ],
+      "program_type": [
+        "open_source_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "$10,000 project funding, $10,000 Azure credits, Copilot Pro, and a 3-week security program"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://github.com/open-source/github-secure-open-source-fund",
+      "official_url": "https://github.com/open-source/github-secure-open-source-fund",
+      "source_urls": [
+        "https://github.com/open-source/github-secure-open-source-fund"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "microsoft-foss-fund",
+      "name": "Microsoft FOSS Fund",
+      "provider": "Microsoft",
+      "categories": [
+        "open_source"
+      ],
+      "program_type": [
+        "open_source_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Up to $12,500 USD for selected projects"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://github.com/microsoft/foss-fund",
+      "official_url": "https://github.com/microsoft/foss-fund",
+      "source_urls": [
+        "https://github.com/microsoft/foss-fund"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "ona-for-open-source",
+      "name": "Ona for Open Source",
+      "provider": "Ona",
+      "categories": [
+        "open_source"
+      ],
+      "program_type": [
+        "open_source_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Up to $200/mo AI credits for OSS maintainers and contributors"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://ona.com/stories/ona-for-open-source",
+      "official_url": "https://ona.com/stories/ona-for-open-source",
+      "source_urls": [
+        "https://ona.com/stories/ona-for-open-source"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "openai-codex-for-open-source",
+      "name": "OpenAI Codex for Open Source",
+      "provider": "OpenAI",
+      "categories": [
+        "open_source"
+      ],
+      "program_type": [
+        "open_source_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "6 months of ChatGPT Pro with Codex, plus API credits"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://developers.openai.com/community/codex-for-oss",
+      "official_url": "https://developers.openai.com/community/codex-for-oss",
+      "source_urls": [
+        "https://developers.openai.com/community/codex-for-oss"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "snyk-for-open-source",
+      "name": "Snyk for Open Source",
+      "provider": "Snyk",
+      "categories": [
+        "open_source"
+      ],
+      "program_type": [
+        "open_source_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Full Snyk platform free for qualifying OSS maintainers"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://snyk.io/open-source",
+      "official_url": "https://snyk.io/open-source",
+      "source_urls": [
+        "https://snyk.io/open-source"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "upstash-for-open-source",
+      "name": "Upstash for Open Source",
+      "provider": "Upstash",
+      "categories": [
+        "open_source"
+      ],
+      "program_type": [
+        "open_source_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "$1,000 monthly credit grant"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://upstash.com/open-source",
+      "official_url": "https://upstash.com/open-source",
+      "source_urls": [
+        "https://upstash.com/open-source"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "assemblyai-startup-program",
+      "name": "AssemblyAI Startup Program",
+      "provider": "AssemblyAI",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "12 months free credits for voice/speech AI"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://www.assemblyai.com/contact/startup-program",
+      "official_url": "https://www.assemblyai.com/contact/startup-program",
+      "source_urls": [
+        "https://www.assemblyai.com/contact/startup-program"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "aws-activate",
+      "name": "AWS Activate",
+      "provider": "AWS",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Cloud credits (up to $100k)"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://aws.amazon.com/startups/credits",
+      "official_url": "https://aws.amazon.com/startups/credits",
+      "source_urls": [
+        "https://aws.amazon.com/startups/credits"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "circleci-for-startups",
+      "name": "CircleCI for Startups",
+      "provider": "CircleCI",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Up to $20,000 in compute credits"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://circleci.com/startup-program/",
+      "official_url": "https://circleci.com/startup-program/",
+      "source_urls": [
+        "https://circleci.com/startup-program/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "clerk-for-startups",
+      "name": "Clerk for Startups",
+      "provider": "Clerk",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Clerk Pro at a discount for early-stage startups"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://clerk.com/startups",
+      "official_url": "https://clerk.com/startups",
+      "source_urls": [
+        "https://clerk.com/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "cloudflare-for-startups",
+      "name": "Cloudflare for Startups",
+      "provider": "Cloudflare",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Up to $350,000 in Cloudflare credits"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://www.cloudflare.com/forstartups/",
+      "official_url": "https://www.cloudflare.com/forstartups/",
+      "source_urls": [
+        "https://www.cloudflare.com/forstartups/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "databricks-startup-program",
+      "name": "Databricks Startup Program",
+      "provider": "Databricks",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Up to $200k in credits across Databricks and Neon"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://www.databricks.com/product/startups",
+      "official_url": "https://www.databricks.com/product/startups",
+      "source_urls": [
+        "https://www.databricks.com/product/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "datadog-for-startups",
+      "name": "Datadog for Startups",
+      "provider": "Datadog",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "A year of free Datadog Pro"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://www.datadoghq.com/partner/datadog-for-startups/",
+      "official_url": "https://www.datadoghq.com/partner/datadog-for-startups/",
+      "source_urls": [
+        "https://www.datadoghq.com/partner/datadog-for-startups/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "daytona",
+      "name": "Daytona",
+      "provider": "Daytona",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Up to $50k in Daytona credits"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://www.daytona.io/startups",
+      "official_url": "https://www.daytona.io/startups",
+      "source_urls": [
+        "https://www.daytona.io/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "deepgram-for-startups",
+      "name": "Deepgram for Startups",
+      "provider": "Deepgram",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Up to $100,000 in voice AI credits"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://deepgram.com/startup-program",
+      "official_url": "https://deepgram.com/startup-program",
+      "source_urls": [
+        "https://deepgram.com/startup-program"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "devin-for-startups",
+      "name": "Devin for Startups",
+      "provider": "Cognition (Devin)",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "$65,000 in credits and grants, direct support, free swag"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://devin.ai/startups",
+      "official_url": "https://devin.ai/startups",
+      "source_urls": [
+        "https://devin.ai/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "digitalocean-hatch",
+      "name": "DigitalOcean Hatch",
+      "provider": "DigitalOcean",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Up to $100,000 in cloud credits"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://www.digitalocean.com/startups",
+      "official_url": "https://www.digitalocean.com/startups",
+      "source_urls": [
+        "https://www.digitalocean.com/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "google-cloud-ai-startup-program",
+      "name": "Google Cloud AI Startup Program",
+      "provider": "Google",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "AI startup credits (up to $350k)"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://cloud.google.com/startup/ai",
+      "official_url": "https://cloud.google.com/startup/ai",
+      "source_urls": [
+        "https://cloud.google.com/startup/ai"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "google-cloud-startup-program",
+      "name": "Google Cloud Startup Program",
+      "provider": "Google",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Cloud credits and support"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://cloud.google.com/startup",
+      "official_url": "https://cloud.google.com/startup",
+      "source_urls": [
+        "https://cloud.google.com/startup"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "kiro-for-startups",
+      "name": "Kiro for Startups",
+      "provider": "Kiro (AWS)",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Up to 1 year of Kiro Pro+ credits (early stage to Series A; not stackable with active AWS Activate)"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://kiro.dev/startups/",
+      "official_url": "https://kiro.dev/startups/",
+      "source_urls": [
+        "https://kiro.dev/startups/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "microsoft-for-startups",
+      "name": "Microsoft for Startups",
+      "provider": "Microsoft",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Azure credits"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://www.microsoft.com/startups",
+      "official_url": "https://www.microsoft.com/startups",
+      "source_urls": [
+        "https://www.microsoft.com/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "miro-for-startups",
+      "name": "Miro for Startups",
+      "provider": "Miro",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "$500–$1,000 in credits"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://miro.com/startups/",
+      "official_url": "https://miro.com/startups/",
+      "source_urls": [
+        "https://miro.com/startups/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "mixpanel",
+      "name": "Mixpanel",
+      "provider": "Mixpanel",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "First year of Mixpanel free"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://mixpanel.com/startups-apply/",
+      "official_url": "https://mixpanel.com/startups-apply/",
+      "source_urls": [
+        "https://mixpanel.com/startups-apply/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "modal",
+      "name": "Modal",
+      "provider": "Modal",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Free credits and technical support"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://modal.com/startups",
+      "official_url": "https://modal.com/startups",
+      "source_urls": [
+        "https://modal.com/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "mongodb-for-startups",
+      "name": "MongoDB for Startups",
+      "provider": "MongoDB",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Atlas credits and technical advisors"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://www.mongodb.com/solutions/startups",
+      "official_url": "https://www.mongodb.com/solutions/startups",
+      "source_urls": [
+        "https://www.mongodb.com/solutions/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "nebius-for-startups",
+      "name": "Nebius for Startups",
+      "provider": "Nebius",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "$5,000 AI credits + discounts on GPU compute"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://nebius.com/startups",
+      "official_url": "https://nebius.com/startups",
+      "source_urls": [
+        "https://nebius.com/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "notion-for-startups",
+      "name": "Notion for Startups",
+      "provider": "Notion",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Business plan free for up to 6 months (incl. Notion AI)"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://www.notion.com/startups",
+      "official_url": "https://www.notion.com/startups",
+      "source_urls": [
+        "https://www.notion.com/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "nvidia-inception",
+      "name": "NVIDIA Inception",
+      "provider": "NVIDIA",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Free program: partner cloud credits, training, preferred GPU/software pricing"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://www.nvidia.com/en-us/startups/",
+      "official_url": "https://www.nvidia.com/en-us/startups/",
+      "source_urls": [
+        "https://www.nvidia.com/en-us/startups/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "ovhcloud-startup-program",
+      "name": "OVHcloud Startup Program",
+      "provider": "OVHcloud",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "€10,000 for Start level; up to €100,000 for Scale level, plus technical support"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://startup.ovhcloud.com/",
+      "official_url": "https://startup.ovhcloud.com/",
+      "source_urls": [
+        "https://startup.ovhcloud.com/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "planetscale-for-startups",
+      "name": "PlanetScale for Startups",
+      "provider": "PlanetScale",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Serverless MySQL database credits"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://planetscale.com/startups",
+      "official_url": "https://planetscale.com/startups",
+      "source_urls": [
+        "https://planetscale.com/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "posthog-for-startups",
+      "name": "PostHog for Startups",
+      "provider": "PostHog",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Product analytics credits (up to ~$50k)"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://posthog.com/startups",
+      "official_url": "https://posthog.com/startups",
+      "source_urls": [
+        "https://posthog.com/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "render",
+      "name": "Render",
+      "provider": "Render",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Up to $100,000 in credits"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://render.com/startups",
+      "official_url": "https://render.com/startups",
+      "source_urls": [
+        "https://render.com/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "retool-for-startups",
+      "name": "Retool for Startups",
+      "provider": "Retool",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Free Retool access for early-stage startups"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://retool.com/startups",
+      "official_url": "https://retool.com/startups",
+      "source_urls": [
+        "https://retool.com/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "sentry-for-startups",
+      "name": "Sentry for Startups",
+      "provider": "Sentry",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Up to $5,000 in credits and priority support"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://sentry.io/for/startups/",
+      "official_url": "https://sentry.io/for/startups/",
+      "source_urls": [
+        "https://sentry.io/for/startups/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "stripe-atlas",
+      "name": "Stripe Atlas",
+      "provider": "Stripe",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Company formation and partner perks"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://stripe.com/atlas",
+      "official_url": "https://stripe.com/atlas",
+      "source_urls": [
+        "https://stripe.com/atlas"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "temporal-cloud-for-startups",
+      "name": "Temporal Cloud for Startups",
+      "provider": "Temporal",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "$6,000 Temporal Cloud credits (funded startups, $30M or less raised)"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://temporal.io/startup",
+      "official_url": "https://temporal.io/startup",
+      "source_urls": [
+        "https://temporal.io/startup"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "vercel-startups",
+      "name": "Vercel Startups",
+      "provider": "Vercel",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Hosting credits"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://vercel.com/startups",
+      "official_url": "https://vercel.com/startups",
+      "source_urls": [
+        "https://vercel.com/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "y-combinator",
+      "name": "Y Combinator",
+      "provider": "Y Combinator",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Selective accelerator with funding and partner credits"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://www.ycombinator.com/apply",
+      "official_url": "https://www.ycombinator.com/apply",
+      "source_urls": [
+        "https://www.ycombinator.com/apply"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "zai-startups",
+      "name": "ZAI Startups",
+      "provider": "Z.AI",
+      "categories": [
+        "startups"
+      ],
+      "program_type": [
+        "startup_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Free API credits for Z.AI models"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://startup.z.ai/",
+      "official_url": "https://startup.z.ai/",
+      "source_urls": [
+        "https://startup.z.ai/"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "anthropic-startup-program",
+      "name": "Anthropic Startup Program",
+      "provider": "Anthropic",
+      "categories": [
+        "ai_developer_credits"
+      ],
+      "program_type": [
+        "developer_credits"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Claude API credits and priority rate limits"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://claude.com/programs/startups",
+      "official_url": "https://claude.com/programs/startups",
+      "source_urls": [
+        "https://claude.com/programs/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "hugging-face-startups",
+      "name": "Hugging Face Startups",
+      "provider": "Hugging Face",
+      "categories": [
+        "ai_developer_credits"
+      ],
+      "program_type": [
+        "developer_credits"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "AI infrastructure support"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://huggingface.co/startups",
+      "official_url": "https://huggingface.co/startups",
+      "source_urls": [
+        "https://huggingface.co/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "openai-startup-program",
+      "name": "OpenAI Startup Program",
+      "provider": "OpenAI",
+      "categories": [
+        "ai_developer_credits"
+      ],
+      "program_type": [
+        "developer_credits"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "API credits"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://openai.com/startups",
+      "official_url": "https://openai.com/startups",
+      "source_urls": [
+        "https://openai.com/startups"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "together-ai-research-credits-program",
+      "name": "Together AI Research Credits Program",
+      "provider": "Together AI",
+      "categories": [
+        "ai_developer_credits"
+      ],
+      "program_type": [
+        "developer_credits"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Research credits for AI projects"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://www.together.ai/research-credits-program-request",
+      "official_url": "https://www.together.ai/research-credits-program-request",
+      "source_urls": [
+        "https://www.together.ai/research-credits-program-request"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "together-ai-startup-accelerator",
+      "name": "Together AI Startup Accelerator",
+      "provider": "Together AI",
+      "categories": [
+        "ai_developer_credits"
+      ],
+      "program_type": [
+        "developer_credits"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Up to $50k in credits (funding-gated)"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://www.together.ai/startup-accelerator",
+      "official_url": "https://www.together.ai/startup-accelerator",
+      "source_urls": [
+        "https://www.together.ai/startup-accelerator"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "claude-campus-ambassadors",
+      "name": "Claude Campus Ambassadors",
+      "provider": "Anthropic",
+      "categories": [
+        "ambassadors"
+      ],
+      "program_type": [
+        "ambassador_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Campus club lead; USD 3,600 stipend (18+)"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://claude.com/programs/campus",
+      "official_url": "https://claude.com/programs/campus",
+      "source_urls": [
+        "https://claude.com/programs/campus"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "claude-community-ambassadors",
+      "name": "Claude Community Ambassadors",
+      "provider": "Anthropic",
+      "categories": [
+        "ambassadors"
+      ],
+      "program_type": [
+        "ambassador_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "API credits, event support"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://claude.com/community/ambassadors",
+      "official_url": "https://claude.com/community/ambassadors",
+      "source_urls": [
+        "https://claude.com/community/ambassadors"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "cursor-campus-leads",
+      "name": "Cursor Campus Leads",
+      "provider": "Cursor",
+      "categories": [
+        "ambassadors"
+      ],
+      "program_type": [
+        "ambassador_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "6 months Cursor Ultra and event funding (applications reopen January)"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://cursor.com/campus-leads",
+      "official_url": "https://cursor.com/campus-leads",
+      "source_urls": [
+        "https://cursor.com/campus-leads"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "devin-ambassadors",
+      "name": "Devin Ambassadors",
+      "provider": "Cognition (Devin)",
+      "categories": [
+        "ambassadors"
+      ],
+      "program_type": [
+        "ambassador_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Community benefits"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://devin.ai/community",
+      "official_url": "https://devin.ai/community",
+      "source_urls": [
+        "https://devin.ai/community"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "kimi-ambassadors",
+      "name": "Kimi Ambassadors",
+      "provider": "Kimi",
+      "categories": [
+        "ambassadors"
+      ],
+      "program_type": [
+        "ambassador_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Credits and early access"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://www.kimi.ai/lp/kimi-ambassador",
+      "official_url": "https://www.kimi.ai/lp/kimi-ambassador",
+      "source_urls": [
+        "https://www.kimi.ai/lp/kimi-ambassador"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "mistral-ai-ambassadors",
+      "name": "Mistral AI Ambassadors",
+      "provider": "Mistral",
+      "categories": [
+        "ambassadors"
+      ],
+      "program_type": [
+        "ambassador_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "Studio API credits, early access"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://docs.mistral.ai/community/ambassadors",
+      "official_url": "https://docs.mistral.ai/community/ambassadors",
+      "source_urls": [
+        "https://docs.mistral.ai/community/ambassadors"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    },
+    {
+      "slug": "qwen-ambassadors",
+      "name": "Qwen Ambassadors",
+      "provider": "Alibaba Qwen",
+      "categories": [
+        "ambassadors"
+      ],
+      "program_type": [
+        "ambassador_program"
+      ],
+      "benefits": [
+        {
+          "type": "unspecified",
+          "label": "API credits ($50–$100/month)"
+        }
+      ],
+      "eligibility": {
+        "stages": [],
+        "regions": [],
+        "requirements": []
+      },
+      "status": "needs_review",
+      "application_state": "unknown",
+      "deadline": null,
+      "application_url": "https://qwen.ai/ambassador",
+      "official_url": "https://qwen.ai/ambassador",
+      "source_urls": [
+        "https://qwen.ai/ambassador"
+      ],
+      "separate_application": null,
+      "referral_only": null,
+      "last_verified_at": null,
+      "verification_method": "readme_import",
+      "verification_notes": "Imported from the curated README; current availability and terms require manual verification."
+    }
+  ]
+}

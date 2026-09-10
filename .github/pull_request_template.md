@@ -1,16 +1,23 @@
 ## Description
 
-Add a new builder program.
+Describe the program or data change and why it is needed.
 
-## Program
+## Evidence
 
-Name:
-Provider:
-Official link:
+Official source:
+
+Application source (if different):
+
+Status rationale:
+
+Last verified:
 
 ## Checklist
 
-- [ ] Program has an official source
-- [ ] Program is currently active
-- [ ] Entry follows the repository format
-- [ ] Entry is placed in alphabetical order
+- [ ] The record is in data/programs.json
+- [ ] Official source and application URL are included
+- [ ] Benefit and eligibility are supported by the source
+- [ ] needs_review is used until current availability is manually confirmed
+- [ ] Active records include last_verified_at, verification_method, and verification_notes
+- [ ] node scripts/validate-programs.mjs passes
+- [ ] node scripts/generate-readme.mjs was run

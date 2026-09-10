@@ -1,0 +1,183 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/doanbactam/awesome-builder-programs/blob/main/data/programs.schema.json",
+  "title": "Awesome Builder Programs",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["$schema", "schema_version", "programs"],
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "schema_version": {
+      "const": 1
+    },
+    "programs": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/program"
+      }
+    }
+  },
+  "$defs": {
+    "stringArray": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "date": {
+      "type": ["string", "null"],
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "nullableBoolean": {
+      "type": ["boolean", "null"]
+    },
+    "benefit": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["type", "label"],
+      "properties": {
+        "type": {
+          "type": "string",
+          "minLength": 1
+        },
+        "label": {
+          "type": "string",
+          "minLength": 1
+        },
+        "value": {
+          "type": ["number", "string", "null"]
+        },
+        "currency": {
+          "type": ["string", "null"]
+        },
+        "duration": {
+          "type": ["string", "null"]
+        }
+      }
+    },
+    "eligibility": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["stages", "regions", "requirements"],
+      "properties": {
+        "stages": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "regions": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "requirements": {
+          "$ref": "#/$defs/stringArray"
+        }
+      }
+    },
+    "program": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "slug",
+        "name",
+        "provider",
+        "categories",
+        "program_type",
+        "benefits",
+        "eligibility",
+        "status",
+        "application_state",
+        "deadline",
+        "application_url",
+        "official_url",
+        "source_urls",
+        "separate_application",
+        "referral_only",
+        "last_verified_at",
+        "verification_method",
+        "verification_notes"
+      ],
+      "properties": {
+        "slug": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "provider": {
+          "type": "string",
+          "minLength": 1
+        },
+        "categories": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "enum": ["students", "open_source", "startups", "ai_developer_credits", "ambassadors"]
+          }
+        },
+        "program_type": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "benefits": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/benefit"
+          }
+        },
+        "eligibility": {
+          "$ref": "#/$defs/eligibility"
+        },
+        "status": {
+          "enum": ["active", "needs_review", "paused", "expired", "unknown"]
+        },
+        "application_state": {
+          "enum": ["open", "rolling", "invite_only", "closed", "unknown"]
+        },
+        "deadline": {
+          "$ref": "#/$defs/date"
+        },
+        "application_url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "official_url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "source_urls": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "format": "uri"
+          }
+        },
+        "separate_application": {
+          "$ref": "#/$defs/nullableBoolean"
+        },
+        "referral_only": {
+          "$ref": "#/$defs/nullableBoolean"
+        },
+        "last_verified_at": {
+          "$ref": "#/$defs/date"
+        },
+        "verification_method": {
+          "enum": ["readme_import", "official_page", "provider_confirmation", "manual_review", "automated_check"]
+        },
+        "verification_notes": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    }
+  }
+}
