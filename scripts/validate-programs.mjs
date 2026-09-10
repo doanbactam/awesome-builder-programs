@@ -118,6 +118,9 @@ for (const [index, program] of (data?.programs ?? []).entries()) {
   if (!allowedStatuses.has(program.status)) {
     error(label + ".status is invalid: " + program.status);
   }
+  if (["needs_review", "unknown"].includes(program.status)) {
+    error(label + ".status is not publishable; verify the record and use active, paused, or expired.");
+  }
   if (!allowedApplicationStates.has(program.application_state)) {
     error(label + ".application_state is invalid: " + program.application_state);
   }
