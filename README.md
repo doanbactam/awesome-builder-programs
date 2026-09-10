@@ -1,6 +1,6 @@
 # Awesome Builder Programs
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a href="https://github.com/doanbactam/awesome-builder-programs/stargazers"><img src="https://img.shields.io/github/stars/doanbactam/awesome-builder-programs?style=flat" alt="Stars" /></a>
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a href="https://github.com/doanbactam/awesome-builder-programs"><img src="https://img.shields.io/github/stars/doanbactam/awesome-builder-programs?style=flat" alt="Stars" /></a>
 
 A list of programs that provide credits, grants, or tools for people building things.
 
