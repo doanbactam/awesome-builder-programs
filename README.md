@@ -33,7 +33,9 @@ Program availability and benefits can change. Verify the provider page before ap
 | Program | Provider | Benefit |
 |---|---|---|
 | [Codex for Students](https://chatgpt.com/codex/students) | OpenAI | $100 in Codex credits (US & Canada students only) |
+| [ElevenLabs for Students](https://elevenlabs.io/students) | ElevenLabs | Expanded free plans; 1 year of ElevenReader Ultra with .edu (or equivalent) email |
 | [Figma for Education](https://www.figma.com/education/) | Figma | Free design tools for students |
+| [Firecrawl Student Program](https://www.firecrawl.dev/student-program) | Firecrawl | 10,000 free credits (academic email; coupon STUDENTEDU) |
 | [GitHub Student Developer Pack](https://education.github.com/pack) | GitHub | Developer tools bundle (~$10k value) |
 | [GitLab for Education](https://about.gitlab.com/solutions/education/) | GitLab | Free GitLab Ultimate for education |
 | [Google AI Pro for Students](https://one.google.com/ai-student) | Google | 1 year of Google AI Pro (US) or AI Plus (many other countries); claim window through end of 2026 |
