@@ -103,6 +103,7 @@ Program availability and benefits can change. Verify the provider page before ap
 | [Render](https://render.com/startups) | Render | Up to $100,000 in credits |
 | [Retool for Startups](https://retool.com/startups) | Retool | Free Retool access for early-stage startups |
 | [Sentry for Startups](https://sentry.io/for/startups/) | Sentry | Up to $5,000 in credits and priority support |
+| [Sourcey](https://sourcey.com) | Sourcey | Open registry of startup offers and credits across 460+ vendors, with evidence, eligibility, and freshness for each record; searchable site, API, and MCP server |
 | [Stripe Atlas](https://stripe.com/atlas) | Stripe | Company formation and partner perks |
 | [Temporal Cloud for Startups](https://temporal.io/startup) | Temporal | $6,000 Temporal Cloud credits (funded startups, $30M or less raised) |
 | [Vercel Startups](https://vercel.com/startups) | Vercel | Hosting credits |
