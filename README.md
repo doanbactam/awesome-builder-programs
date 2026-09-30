@@ -108,6 +108,7 @@ Program availability and benefits can change. Verify the provider page before ap
 | [Vercel Startups](https://vercel.com/startups) | Vercel | Hosting credits |
 | [Y Combinator](https://www.ycombinator.com/apply) | Y Combinator | Selective accelerator with funding and partner credits |
 | [ZAI Startups](https://startup.z.ai/) | Z.AI | Free API credits for Z.AI models |
+| [ZK Prime Capital Grants](https://zkprime-capital.xyz/grants/) | ZK Prime Capital | $5K–$75K non-dilutive grants for early-stage web3 teams (on-chain AI agents, DeFAI, ZK infrastructure) |
 
 ---
 
