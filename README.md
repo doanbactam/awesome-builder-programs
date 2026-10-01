@@ -89,6 +89,7 @@ Program availability and benefits can change. Verify the provider page before ap
 | [Google Cloud AI Startup Program](https://cloud.google.com/startup/ai) | Google | AI startup credits (up to $350k) |
 | [Google Cloud Startup Program](https://cloud.google.com/startup) | Google | Cloud credits and support |
 | [Kiro for Startups](https://kiro.dev/startups/) | Kiro (AWS) | Up to 1 year of Kiro Pro+ credits (early stage to Series A; not stackable with active AWS Activate) |
+| [LiveKit Startup Program](https://livekit.com/startups) | LiveKit | Up to $23,000 in Cloud Scale, LiveKit credits, and inference credits (voice/video/physical AI; under 50 employees, under $5M, pre-Series A) |
 | [Microsoft for Startups](https://www.microsoft.com/startups) | Microsoft | Azure credits |
 | [Miro for Startups](https://miro.com/startups/) | Miro | $500–$1,000 in credits |
 | [Mixpanel](https://mixpanel.com/startups-apply/) | Mixpanel | First year of Mixpanel free |
@@ -103,6 +104,7 @@ Program availability and benefits can change. Verify the provider page before ap
 | [Render](https://render.com/startups) | Render | Up to $100,000 in credits |
 | [Retool for Startups](https://retool.com/startups) | Retool | Free Retool access for early-stage startups |
 | [Sentry for Startups](https://sentry.io/for/startups/) | Sentry | Up to $5,000 in credits and priority support |
+| [Speechmatics Startup Program](https://www.speechmatics.com/startup-program) | Speechmatics | Up to $50,000 in usage credits (raised under $10M; MVP or launch in 1–2 months) |
 | [Stripe Atlas](https://stripe.com/atlas) | Stripe | Company formation and partner perks |
 | [Temporal Cloud for Startups](https://temporal.io/startup) | Temporal | $6,000 Temporal Cloud credits (funded startups, $30M or less raised) |
 | [Vercel Startups](https://vercel.com/startups) | Vercel | Hosting credits |
