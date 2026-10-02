@@ -65,6 +65,7 @@ Program availability and benefits can change. Verify the provider page before ap
 | [GitHub Secure Open Source Fund](https://github.com/open-source/github-secure-open-source-fund) | GitHub | $10,000 project funding, $10,000 Azure credits, Copilot Pro, and a 3-week security program |
 | [Kilo Open Source Sponsorship](https://kilo.ai/oss) | Kilo | Enterprise seats and code reviews; select projects get up to $200/mo credits (OSS license, public repo; application-based) |
 | [Microsoft FOSS Fund](https://github.com/microsoft/foss-fund) | Microsoft | Up to $12,500 USD for selected projects |
+| [Mintlify OSS Program](https://www.mintlify.com/oss-program) | Mintlify | Mintlify Pro free for non-commercial OSS (recognized license; not VC-backed or company-owned) |
 | [Ona for Open Source](https://ona.com/stories/ona-for-open-source) | Ona | Up to $200/mo AI credits for OSS maintainers and contributors |
 | [OpenAI Codex for Open Source](https://developers.openai.com/community/codex-for-oss) | OpenAI | 6 months of ChatGPT Pro with Codex, plus API credits |
 | [Snyk for Open Source](https://snyk.io/open-source) | Snyk | Full Snyk platform free for qualifying OSS maintainers |
@@ -92,6 +93,7 @@ Program availability and benefits can change. Verify the provider page before ap
 | [Kiro for Startups](https://kiro.dev/startups/) | Kiro (AWS) | Up to 1 year of Kiro Pro+ credits (early stage to Series A; not stackable with active AWS Activate) |
 | [LiveKit Startup Program](https://livekit.com/startups) | LiveKit | Up to $23,000 in Cloud Scale, LiveKit credits, and inference credits (voice/video/physical AI; under 50 employees, under $5M, pre-Series A) |
 | [Microsoft for Startups](https://www.microsoft.com/startups) | Microsoft | Azure credits |
+| [Mintlify for Startups](https://www.mintlify.com/startups) | Mintlify | 6 months of Mintlify Pro free (founded within 2 years, raised under $2M, never paid); current YC batch gets 12 months |
 | [Miro for Startups](https://miro.com/startups/) | Miro | $500–$1,000 in credits |
 | [Mixpanel](https://mixpanel.com/startups-apply/) | Mixpanel | First year of Mixpanel free |
 | [Modal](https://modal.com/startups) | Modal | Free credits and technical support |
