@@ -63,6 +63,7 @@ Program availability and benefits can change. Verify the provider page before ap
 | [Catalyst](https://opencoreventures.com/catalyst/) | Open Core Ventures | $10,000 sponsorship + 3-month program for eligible OSS authors and maintainers |
 | [Claude for Open Source](https://claude.com/contact-sales/claude-for-oss) | Anthropic | 6 months of Claude Max |
 | [GitHub Secure Open Source Fund](https://github.com/open-source/github-secure-open-source-fund) | GitHub | $10,000 project funding, $10,000 Azure credits, Copilot Pro, and a 3-week security program |
+| [Kilo Open Source Sponsorship](https://kilo.ai/oss) | Kilo | Enterprise seats and code reviews; select projects get up to $200/mo credits (OSS license, public repo; application-based) |
 | [Microsoft FOSS Fund](https://github.com/microsoft/foss-fund) | Microsoft | Up to $12,500 USD for selected projects |
 | [Ona for Open Source](https://ona.com/stories/ona-for-open-source) | Ona | Up to $200/mo AI credits for OSS maintainers and contributors |
 | [OpenAI Codex for Open Source](https://developers.openai.com/community/codex-for-oss) | OpenAI | 6 months of ChatGPT Pro with Codex, plus API credits |
