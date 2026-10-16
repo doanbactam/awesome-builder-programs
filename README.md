@@ -123,6 +123,8 @@ Program availability and benefits can change. Verify the provider page before ap
 | [Anthropic Startup Program](https://claude.com/programs/startups) | Anthropic | Claude API credits and priority rate limits |
 | [Hugging Face Startups](https://huggingface.co/startups) | Hugging Face | AI infrastructure support |
 | [OpenAI Startup Program](https://openai.com/startups) | OpenAI | API credits |
+| [OpenRouter for Startups](https://openrouter.ai/startup-program) | OpenRouter | Up to $5,000 in inference credits, 0% fees for a year (pre-Series B) |
+| [Runware Grant Program](https://runware.ai/grant-program) | Runware | Up to $30,000 in API credits for 12 months |
 | [Together AI Research Credits Program](https://www.together.ai/research-credits-program-request) | Together AI | Research credits for AI projects |
 | [Together AI Startup Accelerator](https://www.together.ai/startup-accelerator) | Together AI | Up to $50k in credits (funding-gated) |
 
