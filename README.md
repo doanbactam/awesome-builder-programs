@@ -148,8 +148,8 @@ These programs are not currently accepting applications. Check the official page
 
 | Program | Provider | Benefit and status |
 |---|---|---|
-| [Anthropic Startup Program](https://claude.com/programs/startups) | Anthropic | Current cohort full; not accepting new applications |
-| [Cursor Campus Leads](https://cursor.com/campus-leads) | Cursor | 6 months Cursor Ultra and event funding; applications reopen January |
+| [Anthropic Startup Program](https://claude.com/programs/startups) | Anthropic | Public applications closed; eligible VC-backed startups may still receive credits through participating VCs |
+| [Cursor Campus Leads](https://cursor.com/campus-leads) | Cursor | 6 months Cursor Ultra and event funding; applications reopen January 2027 |
 | [OpenAI Student Collective](https://openai.com/student-collective/) | OpenAI | Campus Lead role: ChatGPT + Codex credits, event funding, and stipend; Fall 2026 applications closed (interest registration available) |
 | [Upstash for Open Source](https://upstash.com/open-source) | Upstash | $1,000 monthly credit grant; applications closed |
 
