@@ -140,6 +140,7 @@ Program availability and benefits can change. Verify the provider page before ap
 | [Devin Ambassadors](https://devin.ai/community) | Cognition (Devin) | Community benefits |
 | [Kimi Ambassadors](https://www.kimi.ai/lp/kimi-ambassador) | Kimi | Credits and early access |
 | [Mistral AI Ambassadors](https://docs.mistral.ai/community/ambassadors) | Mistral | Studio API credits, early access |
+| [Qoder Ambassador Program](https://ambassador-program-6pmlhfuf2fg.qoder.website/?lang=en) | Qoder | 1 year free Qoder Credits (Ultra equivalent), early access, event support |
 | [Qwen Ambassadors](https://qwen.ai/ambassador) | Alibaba Qwen | API credits ($50–$100/month) |
 
 ---
