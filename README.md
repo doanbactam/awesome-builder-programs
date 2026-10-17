@@ -24,6 +24,7 @@ Program availability and benefits can change. Verify the provider page before ap
 * [Startups](#startups)
 * [AI and developer credits](#ai-and-developer-credits)
 * [Ambassadors](#ambassadors)
+* [Paused programs](#paused-programs)
 * [Contributing](#contributing)
 
 ---
@@ -46,7 +47,6 @@ Program availability and benefits can change. Verify the provider page before ap
 | [Manus Campus for Students](https://manus.im/edu) | Manus | Campus access; 1,000-credit referral reward per invited student |
 | [Microsoft Azure for Students](https://azure.microsoft.com/en-us/free/students/) | Microsoft | Azure credits and dev tools |
 | [MLH Fellowship](https://fellowship.mlh.com/) | Major League Hacking | 12-week remote fellowship with stipend |
-| [OpenAI Student Collective](https://openai.com/student-collective/) | OpenAI | Campus Lead role: ChatGPT + Codex credits, event funding, and stipend |
 | [Outreachy](https://www.outreachy.org/) | Software Freedom Conservancy | Paid remote OSS internship (~$7,000 stipend) |
 | [v0 for Students](https://v0.app/students) | Vercel | 1 year of free v0 Premium (limited partner universities) |
 | [YC AI Student Starter Pack](https://deals.ycombinator.com/students) | Y Combinator | Credits and tools (~$25k value; requires attending a YC student event) |
@@ -69,7 +69,6 @@ Program availability and benefits can change. Verify the provider page before ap
 | [Ona for Open Source](https://ona.com/stories/ona-for-open-source) | Ona | Up to $200/mo AI credits for OSS maintainers and contributors |
 | [OpenAI Codex for Open Source](https://developers.openai.com/community/codex-for-oss) | OpenAI | 6 months of ChatGPT Pro with Codex, plus API credits |
 | [Snyk for Open Source](https://snyk.io/open-source) | Snyk | Full Snyk platform free for qualifying OSS maintainers |
-| [Upstash for Open Source](https://upstash.com/open-source) | Upstash | $1,000 monthly credit grant |
 
 ---
 
@@ -78,13 +77,13 @@ Program availability and benefits can change. Verify the provider page before ap
 | Program | Provider | Benefit |
 |---|---|---|
 | [AssemblyAI Startup Program](https://www.assemblyai.com/contact/startup-program) | AssemblyAI | 12 months free credits for voice/speech AI |
-| [AWS Activate](https://aws.amazon.com/startups/credits) | AWS | Cloud credits (up to $100k) |
+| [AWS Activate](https://aws.amazon.com/startups/credits) | AWS | Up to $5,000 in Founders credits; up to $200,000 in Portfolio credits (Activate Provider Org ID required) |
 | [CircleCI for Startups](https://circleci.com/startup-program/) | CircleCI | Up to $20,000 in compute credits |
 | [Clerk for Startups](https://clerk.com/startups) | Clerk | Clerk Pro at a discount for early-stage startups |
 | [Cloudflare for Startups](https://www.cloudflare.com/forstartups/) | Cloudflare | Up to $350,000 in Cloudflare credits |
 | [Databricks Startup Program](https://www.databricks.com/product/startups) | Databricks | Up to $200k in credits across Databricks and Neon |
 | [Datadog for Startups](https://www.datadoghq.com/partner/datadog-for-startups/) | Datadog | A year of free Datadog Pro |
-| [Daytona](https://www.daytona.io/startups) | Daytona | Up to $50k in Daytona credits |
+| [Daytona](https://www.daytona.io/startups) | Daytona | Up to $100k in Daytona credits |
 | [Deepgram for Startups](https://deepgram.com/startup-program) | Deepgram | Up to $100,000 in voice AI credits |
 | [Devin for Startups](https://devin.ai/startups) | Cognition (Devin) | $65,000 in credits and grants, direct support, free swag |
 | [DigitalOcean Hatch](https://www.digitalocean.com/startups) | DigitalOcean | Up to $100,000 in cloud credits |
@@ -93,7 +92,7 @@ Program availability and benefits can change. Verify the provider page before ap
 | [Kiro for Startups](https://kiro.dev/startups/) | Kiro (AWS) | Up to 1 year of Kiro Pro+ credits (early stage to Series A; not stackable with active AWS Activate) |
 | [LiveKit Startup Program](https://livekit.com/startups) | LiveKit | Up to $23,000 in Cloud Scale, LiveKit credits, and inference credits (voice/video/physical AI; under 50 employees, under $5M, pre-Series A) |
 | [Microsoft for Startups](https://www.microsoft.com/startups) | Microsoft | Azure credits |
-| [Mintlify for Startups](https://www.mintlify.com/startups) | Mintlify | 6 months of Mintlify Pro free (founded within 2 years, raised under $2M, never paid); current YC batch gets 12 months |
+| [Mintlify for Startups](https://www.mintlify.com/startups) | Mintlify | 50% off Mintlify Pro for 12 months (founded within 2 years, raised under $2M); current YC batch gets 12 months free |
 | [Miro for Startups](https://miro.com/startups/) | Miro | $500–$1,000 in credits |
 | [Mixpanel](https://mixpanel.com/startups-apply/) | Mixpanel | First year of Mixpanel free |
 | [Modal](https://modal.com/startups) | Modal | Free credits and technical support |
@@ -120,7 +119,6 @@ Program availability and benefits can change. Verify the provider page before ap
 
 | Program | Provider | Benefit |
 |---|---|---|
-| [Anthropic Startup Program](https://claude.com/programs/startups) | Anthropic | Claude API credits and priority rate limits |
 | [Hugging Face Startups](https://huggingface.co/startups) | Hugging Face | AI infrastructure support |
 | [OpenAI Startup Program](https://openai.com/startups) | OpenAI | API credits |
 | [OpenRouter for Startups](https://openrouter.ai/startup-program) | OpenRouter | Up to $5,000 in inference credits, 0% fees for a year (pre-Series B) |
@@ -136,12 +134,24 @@ Program availability and benefits can change. Verify the provider page before ap
 |---|---|---|
 | [Claude Campus Ambassadors](https://claude.com/programs/campus) | Anthropic | Campus club lead; USD 3,600 stipend (18+) |
 | [Claude Community Ambassadors](https://claude.com/community/ambassadors) | Anthropic | API credits, event support |
-| [Cursor Campus Leads](https://cursor.com/campus-leads) | Cursor | 6 months Cursor Ultra and event funding (applications reopen January) |
 | [Devin Ambassadors](https://devin.ai/community) | Cognition (Devin) | Community benefits |
 | [Kimi Ambassadors](https://www.kimi.ai/lp/kimi-ambassador) | Kimi | Credits and early access |
 | [Mistral AI Ambassadors](https://docs.mistral.ai/community/ambassadors) | Mistral | Studio API credits, early access |
 | [Qoder Ambassador Program](https://ambassador-program-6pmlhfuf2fg.qoder.website/?lang=en) | Qoder | 1 year free Qoder Credits (Ultra equivalent), early access, event support |
 | [Qwen Ambassadors](https://qwen.ai/ambassador) | Alibaba Qwen | API credits ($50–$100/month) |
+
+---
+
+## Paused Programs
+
+These programs are not currently accepting applications. Check the official pages for reopening dates.
+
+| Program | Provider | Benefit and status |
+|---|---|---|
+| [Anthropic Startup Program](https://claude.com/programs/startups) | Anthropic | Current cohort full; not accepting new applications |
+| [Cursor Campus Leads](https://cursor.com/campus-leads) | Cursor | 6 months Cursor Ultra and event funding; applications reopen January |
+| [OpenAI Student Collective](https://openai.com/student-collective/) | OpenAI | Campus Lead role: ChatGPT + Codex credits, event funding, and stipend; Fall 2026 applications closed (interest registration available) |
+| [Upstash for Open Source](https://upstash.com/open-source) | Upstash | $1,000 monthly credit grant; applications closed |
 
 ---
 
