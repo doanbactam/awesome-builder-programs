@@ -48,6 +48,7 @@ Program availability and benefits can change. Verify the provider page before ap
 | [Microsoft Azure for Students](https://azure.microsoft.com/en-us/free/students/) | Microsoft | Azure credits and dev tools |
 | [MLH Fellowship](https://fellowship.mlh.com/) | Major League Hacking | 12-week remote fellowship with stipend |
 | [Outreachy](https://www.outreachy.org/) | Software Freedom Conservancy | Paid remote OSS internship (~$7,000 stipend) |
+| [TinyFish for Students](https://www.tinyfish.ai/students) | TinyFish | $35 wallet credits for eligible students; gift cards for approved builds |
 | [v0 for Students](https://v0.app/students) | Vercel | 1 year of free v0 Premium (limited partner universities) |
 | [YC AI Student Starter Pack](https://deals.ycombinator.com/students) | Y Combinator | Credits and tools (~$25k value; requires attending a YC student event) |
 | [Zed Student Plan](https://zed.dev/education) | Zed | All Zed Pro features for 12 months |
@@ -108,6 +109,7 @@ Program availability and benefits can change. Verify the provider page before ap
 | [Sentry for Startups](https://sentry.io/for/startups/) | Sentry | Up to $5,000 in credits and priority support |
 | [Speechmatics Startup Program](https://www.speechmatics.com/startup-program) | Speechmatics | Up to $50,000 in usage credits (raised under $10M; MVP or launch in 1–2 months) |
 | [Stripe Atlas](https://stripe.com/atlas) | Stripe | Company formation and partner perks |
+| [TinyFish for Startups](https://www.tinyfish.ai/startups) | TinyFish | Up to $12,000 estimated value; tier-based credits and API benefits (eligibility applies) |
 | [Temporal Cloud for Startups](https://temporal.io/startup) | Temporal | $6,000 Temporal Cloud credits (funded startups, $30M or less raised) |
 | [Vercel Startups](https://vercel.com/startups) | Vercel | Hosting credits |
 | [Y Combinator](https://www.ycombinator.com/apply) | Y Combinator | Selective accelerator with funding and partner credits |
@@ -138,6 +140,7 @@ Program availability and benefits can change. Verify the provider page before ap
 | [Kimi Ambassadors](https://www.kimi.ai/lp/kimi-ambassador) | Kimi | Credits and early access |
 | [Mistral AI Ambassadors](https://docs.mistral.ai/community/ambassadors) | Mistral | Studio API credits, early access |
 | [Qoder Ambassador Program](https://ambassador-program-6pmlhfuf2fg.qoder.website/?lang=en) | Qoder | 1 year free Qoder Credits (Ultra equivalent), early access, event support |
+| [TinyFish Ambassadors](https://www.tinyfish.ai/ambassadors) | TinyFish | Signup and referral credits; rewards for approved builds (terms apply) |
 | [Qwen Ambassadors](https://qwen.ai/ambassador) | Alibaba Qwen | API credits ($50–$100/month) |
 
 ---
