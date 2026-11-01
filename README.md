@@ -42,6 +42,7 @@ Program availability and benefits can change. Verify the provider page before ap
 | [Google AI Pro for Students](https://one.google.com/ai-student) | Google | 1 year of Google AI Pro (US) or AI Plus (many other countries); claim window through end of 2026 |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | Google | Stipend and mentorship for students contributing to OSS |
 | [JetBrains Student Pack](https://www.jetbrains.com/academy/student-pack/) | JetBrains | Free IDE licenses |
+| [Kilobat Pro for Students](https://kilobat.app/students) | Kilobat | 1 year free on two Macs; renewable while studying with school email |
 | [Kiro for Students](https://kiro.dev/students/) | Kiro (AWS) | 1,000 credits/month free for 1 year (participating universities; SheerID verification) |
 | [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/) | Linux Foundation | Paid remote OSS mentorship (stipends vary by region) |
 | [Manus Campus for Students](https://manus.im/edu) | Manus | Campus access; 1,000-credit referral reward per invited student |
