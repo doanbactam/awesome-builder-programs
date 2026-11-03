@@ -88,6 +88,7 @@ Program availability and benefits can change. Verify the provider page before ap
 | [Deepgram for Startups](https://deepgram.com/startup-program) | Deepgram | Up to $100,000 in voice AI credits |
 | [Devin for Startups](https://devin.ai/startups) | Cognition (Devin) | $65,000 in credits and grants, direct support, free swag |
 | [DigitalOcean Hatch](https://www.digitalocean.com/startups) | DigitalOcean | Up to $100,000 in cloud credits |
+| [Fly.io for Startups](https://fly.io/startups/) | Fly.io | Up to $15,000 in credits and a shared Slack channel (Seed or Series A, VC- or accelerator-backed) |
 | [Google Cloud AI Startup Program](https://cloud.google.com/startup/ai) | Google | AI startup credits (up to $350k) |
 | [Google Cloud Startup Program](https://cloud.google.com/startup) | Google | Cloud credits and support |
 | [Kiro for Startups](https://kiro.dev/startups/) | Kiro (AWS) | Up to 1 year of Kiro Pro+ credits (early stage to Series A; not stackable with active AWS Activate) |
