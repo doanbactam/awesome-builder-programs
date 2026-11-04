@@ -106,6 +106,7 @@ Program availability and benefits can change. Verify the provider page before ap
 | [PlanetScale for Startups](https://planetscale.com/startups) | PlanetScale | Serverless MySQL database credits |
 | [PostHog for Startups](https://posthog.com/startups) | PostHog | Product analytics credits (up to ~$50k) |
 | [Render](https://render.com/startups) | Render | Up to $100,000 in credits |
+| [Sail for Startups](https://www.sailresearch.com/startups) | Sail Research | Up to $10,000 in credits for AI inference and Sailboxes, plus direct Slack support (bootstrapped and funded startups eligible; application-based) |
 | [Retool for Startups](https://retool.com/startups) | Retool | Free Retool access for early-stage startups |
 | [Sentry for Startups](https://sentry.io/for/startups/) | Sentry | Up to $5,000 in credits and priority support |
 | [Speechmatics Startup Program](https://www.speechmatics.com/startup-program) | Speechmatics | Up to $50,000 in usage credits (raised under $10M; MVP or launch in 1–2 months) |
