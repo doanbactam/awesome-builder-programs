@@ -64,6 +64,7 @@ Program availability and benefits can change. Verify the provider page before ap
 | [Catalyst](https://opencoreventures.com/catalyst/) | Open Core Ventures | $10,000 sponsorship + 3-month program for eligible OSS authors and maintainers |
 | [Claude for Open Source](https://claude.com/contact-sales/claude-for-oss) | Anthropic | 6 months of Claude Max |
 | [GitHub Secure Open Source Fund](https://github.com/open-source/github-secure-open-source-fund) | GitHub | $10,000 project funding, $10,000 Azure credits, Copilot Pro, and a 3-week security program |
+| [Honeycomb for Builders](https://www.honeycomb.io/honeycomb-for-builders) | Honeycomb | Free long-term Pro Bronze (Pro500) for open-source, nonprofit, and academic projects; early-stage startups get Pro Silver (Pro750) at 50% off for 1 year; Pro Gold free for 1 year for recognized accelerator participants using OpenTelemetry |
 | [Kilo Open Source Sponsorship](https://kilo.ai/oss) | Kilo | Enterprise seats and code reviews; select projects get up to $200/mo credits (OSS license, public repo; application-based) |
 | [Microsoft FOSS Fund](https://github.com/microsoft/foss-fund) | Microsoft | Up to $12,500 USD for selected projects |
 | [Mintlify OSS Program](https://www.mintlify.com/oss-program) | Mintlify | Mintlify Pro free for non-commercial OSS (recognized license; not VC-backed or company-owned) |
@@ -77,21 +78,28 @@ Program availability and benefits can change. Verify the provider page before ap
 
 | Program | Provider | Benefit |
 |---|---|---|
+| [Algolia Startup Program](https://www.algolia.com/industries/startups) | Algolia | $10,000 in credits for 12 months (under 7 years old, raised under $15M, new customers only) |
 | [AssemblyAI Startup Program](https://www.assemblyai.com/contact/startup-program) | AssemblyAI | 12 months free credits for voice/speech AI |
 | [AWS Activate](https://aws.amazon.com/startups/credits) | AWS | Up to $5,000 in Founders credits; up to $200,000 in Portfolio credits (Activate Provider Org ID required) |
+| [Cartesia Startups Grant](https://www.cartesia.ai/startups) | Cartesia | 12 months of Scale, 8 million Sonic/Ink credits per month, plus $299/month in Managed Agents credits (any stage; logo use and social posts may be required) |
 | [CircleCI for Startups](https://circleci.com/startup-program/) | CircleCI | Up to $20,000 in compute credits |
 | [Clerk for Startups](https://clerk.com/startups) | Clerk | Clerk Pro at a discount for early-stage startups |
 | [Cloudflare for Startups](https://www.cloudflare.com/forstartups/) | Cloudflare | Up to $350,000 in Cloudflare credits |
+| [Convex for Startups](https://www.convex.dev/startups) | Convex | Up to 1 year of Professional free, no seat fees, and 30% off usage up to $30,000 (Series A or earlier, under 20 employees, under 3 years old, raised under $3M, live site or MVP) |
 | [Databricks Startup Program](https://www.databricks.com/product/startups) | Databricks | Up to $200k in credits across Databricks and Neon |
 | [Datadog for Startups](https://www.datadoghq.com/partner/datadog-for-startups/) | Datadog | A year of free Datadog Pro |
 | [Daytona](https://www.daytona.io/startups) | Daytona | Up to $100k in Daytona credits |
 | [Deepgram for Startups](https://deepgram.com/startup-program) | Deepgram | Up to $100,000 in voice AI credits |
 | [Devin for Startups](https://devin.ai/startups) | Cognition (Devin) | $65,000 in credits and grants, direct support, free swag |
 | [DigitalOcean Hatch](https://www.digitalocean.com/startups) | DigitalOcean | Up to $100,000 in cloud credits |
+| [E2B for Startups](https://e2b.dev/startups) | E2B | One-time $20,000 in credits and the Pro tier (raised under $5M, under 3 years old, first-time E2B user; limited capacity) |
+| [ElevenLabs Startup Grants](https://elevenlabs.io/startup-grants) | ElevenLabs | 33 million characters over 12 months (more than $5,500; under 25 employees, business email, and a monetization plan; not agencies, consulting firms, or SMBs; no products for ages 18 or under; one application per company) |
+| [fal for Startups](https://fal.ai/startups) | fal | Starts at $1,000 in credits, rising to $2,500 and $5,000 as monthly spend grows (Europe and Asia only; generative media must be core; real users, traction, revenue, or institutional investors) |
 | [Fly.io for Startups](https://fly.io/startups/) | Fly.io | Up to $15,000 in credits and a shared Slack channel (Seed or Series A, VC- or accelerator-backed) |
 | [Google Cloud AI Startup Program](https://cloud.google.com/startup/ai) | Google | AI startup credits (up to $350k) |
 | [Google Cloud Startup Program](https://cloud.google.com/startup) | Google | Cloud credits and support |
 | [Kiro for Startups](https://kiro.dev/startups/) | Kiro (AWS) | Up to 1 year of Kiro Pro+ credits (early stage to Series A; not stackable with active AWS Activate) |
+| [Langfuse for Startups](https://langfuse.com/startups) | Langfuse | 50% off Langfuse Cloud for 12 months (bootstrapped or raised up to $5M, incorporated within 5 years, privately held and independent) |
 | [LiveKit Startup Program](https://livekit.com/startups) | LiveKit | Up to $23,000 in Cloud Scale, LiveKit credits, and inference credits (voice/video/physical AI; under 50 employees, under $5M, pre-Series A) |
 | [Microsoft for Startups](https://www.microsoft.com/startups) | Microsoft | Azure credits |
 | [Mintlify for Startups](https://www.mintlify.com/startups) | Mintlify | 50% off Mintlify Pro for 12 months (founded within 2 years, raised under $2M); current YC batch gets 12 months free |
@@ -103,16 +111,18 @@ Program availability and benefits can change. Verify the provider page before ap
 | [Notion for Startups](https://www.notion.com/startups) | Notion | Business plan free for up to 6 months (incl. Notion AI) |
 | [NVIDIA Inception](https://www.nvidia.com/en-us/startups/) | NVIDIA | Free program: partner cloud credits, training, preferred GPU/software pricing |
 | [OVHcloud Startup Program](https://startup.ovhcloud.com/) | OVHcloud | €10,000 for Start level; up to €100,000 for Scale level, plus technical support |
+| [Phala Startup Program](https://phala.com/startup-program) | Phala | Up to $1,000 in credits for CVM, GPU TEE, and private model API (pre-seed to Series A, private or verifiable AI; open worldwide; no equity) |
 | [PlanetScale for Startups](https://planetscale.com/startups) | PlanetScale | Serverless MySQL database credits |
 | [PostHog for Startups](https://posthog.com/startups) | PostHog | Product analytics credits (up to ~$50k) |
 | [Render](https://render.com/startups) | Render | Up to $100,000 in credits |
-| [Sail for Startups](https://www.sailresearch.com/startups) | Sail Research | Up to $10,000 in credits for AI inference and Sailboxes, plus direct Slack support (bootstrapped and funded startups eligible; application-based) |
 | [Retool for Startups](https://retool.com/startups) | Retool | Free Retool access for early-stage startups |
+| [Runpod Startup Program](https://www.runpod.io/startup-program) | Runpod | Starter $1,000 (raised under $1M); Venture $5,000 for a16z, Neo, or South Park Commons portfolio (raised under $5M); credits valid 1 year (company email and a real GPU workload; existing customers not eligible for free tiers) |
+| [Sail for Startups](https://www.sailresearch.com/startups) | Sail Research | Up to $10,000 in credits for AI inference and Sailboxes, plus direct Slack support (bootstrapped and funded startups eligible; application-based) |
 | [Sentry for Startups](https://sentry.io/for/startups/) | Sentry | Up to $5,000 in credits and priority support |
 | [Speechmatics Startup Program](https://www.speechmatics.com/startup-program) | Speechmatics | Up to $50,000 in usage credits (raised under $10M; MVP or launch in 1–2 months) |
 | [Stripe Atlas](https://stripe.com/atlas) | Stripe | Company formation and partner perks |
-| [TinyFish for Startups](https://www.tinyfish.ai/startups) | TinyFish | Up to $12,000 estimated value; tier-based credits and API benefits (eligibility applies) |
 | [Temporal Cloud for Startups](https://temporal.io/startup) | Temporal | $6,000 Temporal Cloud credits (funded startups, $30M or less raised) |
+| [TinyFish for Startups](https://www.tinyfish.ai/startups) | TinyFish | Up to $12,000 estimated value; tier-based credits and API benefits (eligibility applies) |
 | [Vercel Startups](https://vercel.com/startups) | Vercel | Hosting credits |
 | [Y Combinator](https://www.ycombinator.com/apply) | Y Combinator | Selective accelerator with funding and partner credits |
 | [ZAI Startups](https://startup.z.ai/) | Z.AI | Free API credits for Z.AI models |
