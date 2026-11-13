@@ -39,6 +39,7 @@ Program availability and benefits can change. Verify the provider page before ap
 | [Firecrawl Student Program](https://www.firecrawl.dev/student-program) | Firecrawl | 10,000 free credits (academic email; coupon STUDENTEDU) |
 | [GitHub Student Developer Pack](https://education.github.com/pack) | GitHub | Developer tools bundle (~$10k value) |
 | [GitLab for Education](https://about.gitlab.com/solutions/education/) | GitLab | Free GitLab Ultimate for education |
+| [Glasp Student](https://glasp.co/students) | Glasp | Free student plan for 12 months, renewable while enrolled (university email required) |
 | [Google AI Pro for Students](https://one.google.com/ai-student) | Google | 1 year of Google AI Pro (US) or AI Plus (many other countries); claim window through end of 2026 |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | Google | Stipend and mentorship for students contributing to OSS |
 | [JetBrains Student Pack](https://www.jetbrains.com/academy/student-pack/) | JetBrains | Free IDE licenses |
