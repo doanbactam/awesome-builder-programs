@@ -102,6 +102,7 @@ Program availability and benefits can change. Verify the provider page before ap
 | [Kiro for Startups](https://kiro.dev/startups/) | Kiro (AWS) | Up to 1 year of Kiro Pro+ credits (early stage to Series A; not stackable with active AWS Activate) |
 | [Langfuse for Startups](https://langfuse.com/startups) | Langfuse | 50% off Langfuse Cloud for 12 months (bootstrapped or raised up to $5M, incorporated within 5 years, privately held and independent) |
 | [LiveKit Startup Program](https://livekit.com/startups) | LiveKit | Up to $23,000 in Cloud Scale, LiveKit credits, and inference credits (voice/video/physical AI; under 50 employees, under $5M, pre-Series A) |
+| [Lorikeet for Startups](https://www.lorikeetcx.ai/startups) | Lorikeet | US$500 in AI credits (code STARTUPS500) for AI customer support on chat, email, voice and SMS, plus a free shared inbox and help centre |
 | [Microsoft for Startups](https://www.microsoft.com/startups) | Microsoft | Azure credits |
 | [Mintlify for Startups](https://www.mintlify.com/startups) | Mintlify | 50% off Mintlify Pro for 12 months (founded within 2 years, raised under $2M); current YC batch gets 12 months free |
 | [Miro for Startups](https://miro.com/startups/) | Miro | $500–$1,000 in credits |
